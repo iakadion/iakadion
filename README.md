@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <!-- HEADER ANIMADO -->
@@ -601,5 +600,4 @@ timeline
 **🚀 Let's create the future together! 🚀**
 
 </div>
-```
 
