@@ -1,4 +1,3 @@
-``` html
 <div align="center">
 
 <!-- HEADER ANIMADO -->
