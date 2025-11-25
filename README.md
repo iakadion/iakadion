@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <!-- HEADER ANIMADO -->
@@ -377,3 +378,107 @@ Biblioteca de componentes e ícones animados multi-linguagem
 
 <br>
 
+```typescript
+class Creator {
+  readonly passion = Infinity;
+  readonly innovation = "∞";
+  readonly determination = true;
+  
+  async create(): Promise<Masterpiece> {
+    while(this.passion > 0) {
+      await this.innovate();
+      await this.inspire();
+      await this.learn();
+    }
+    return new Masterpiece();
+  }
+}
+
+const genho = new Creator();
+genho.create(); // Never stops
+```
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+## 🎪 **CURIOSIDADES**
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="200"/>
+
+<br><br>
+
+🌎 Baseado no vibrante **Brasil** 🇧🇷
+
+🎵 Consigo criar uma track inteira enquanto debugo código
+
+🎬 Sonho em sequências cinematográficas
+
+💻 Escrevo código como poesia
+
+🎨 Faço design com emoção
+
+⚡ Movido a café e criatividade
+
+🚀 Acredito no impossível
+
+🎯 Pensamento multidimensional é meu superpoder
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+## 💖 **APOIE MEU TRABALHO**
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/3oEjHUf7j0aFDce0dG/giphy.gif" width="250"/>
+
+<br><br>
+
+Se você ama o que eu crio, considere me apoiar!
+
+<br>
+
+<a href="https://patreon.com/akadion"><img src="https://img.shields.io/badge/Patreon-Support-FF424D?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"/></a>
+<a href="mailto:ogenhoanimation01@gmail.com"><img src="https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/></a>
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+![Visitor Count](https://profile-counter.glitch.me/iakadion/count.svg)
+
+<br>
+
+[![Visits](https://komarev.com/ghpvc/?username=iakadion&color=00f7f7&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/iakadion)
+
+<br><br>
+
+### 🌟 **"O futuro pertence àqueles que o criam"** 🌟
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=150&section=footer" width="100%"/>
+
+**⚡ Construído com paixão, alimentado por criatividade ⚡**
+
+**🚀 Vamos criar o futuro juntos! 🚀**
+
+</div>
