@@ -1,207 +1,213 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a1b3a,50:00f7f7,75:1a1b3a,100:0d1117&height=300&section=header&text=GENHO%20AKADION&fontSize=75&animation=fadeIn&fontAlignY=32&desc=⚡%20Multi-Dimensional%20Creator%20⚡%20Code%20⊹%20Music%20⊹%20Art%20⊹%20Innovation&descAlignY=56&descAlign=50&fontColor=00f7f7&descSize=18" width="100%"/>
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2800&pause=800&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=🎵+Musician+⊹+🎬+Filmmaker+⊹+💻+Developer;🎨+Designer+⊹+✍️+Writer+⊹+🎮+Game+Creator;🚀+Inventor+⊹+🎭+Artist+⊹+⚡+Innovator" alt="Typing SVG" />
-</a>
-<br>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
-<br>
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="25"/> <b><code>Broadcasting from Brazil</code></b> 🇧🇷 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="25"/>
-</div>
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f15b36f93.gif" width="500"/>
-<br>
-<table><tr><td>
-<b>🎸 MUSIC</b><br>Musician · Artist · Lyricist<br>Engineer · Producer
-</td><td>
-<b>💻 TECH</b><br>Programmer · Full-Stack Dev<br>Software Creator · Tool Builder
-</td><td>
-<b>🎨 CREATIVE</b><br>Filmmaker · Writer<br>Game Dev · Visual Artist
-</td><td>
-<b>🚀 INNOVATION</b><br>Inventor · Architect<br>Visionary · Enthusiast
-</td></tr></table>
-<i>"I am a multi-dimensional creator navigating the intersection of Code, Music, and Visual Arts — building the future one pixel, one note, one commit at a time."</i>
-</div>
-<div align="center">
-<br>
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"/> <b><code>SOUND ⊹ FREQUENCY</code></b> <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00FFEA,00B8FF,7B2CBF,FF00C1,00FF88&height=340&section=header&text=GENHO%20AKADION&fontSize=95&animation=blink&fontAlignY=40&desc=2026%20Multi-Dimensional%20Creator%20%E2%80%A2%20Sonic%20Architect%20%E2%80%A2%20Code%20Alchemist%20%E2%80%A2%20Visionary%20Innovator&descAlignY=65&descAlign=50" width="100%"/>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=900&size=31&duration=2200&pause=500&color=00FFEA&center=true&vCenter=true&multiline=true&repeat=true&width=980&height=160&lines=🎵+Sonic+Architect+%7C+💻+Code+Alchemist;🎨+Holographic+Visionary+%7C+✍️+Universe+Weaver;🚀+Tomorrow's+Inventor+%7C+🎮+Reality+Builder;⚡+Creative+Force+of+2026+%7C+🌌+Infinite+Creator;🔥+Building+the+Future+Line+by+Line;🌟+Genho+Akadion+2026+Edition" alt="Typing SVG"/></a>
+
+<br><br><br>
+
+<img src="https://media.giphy.com/media/3o7TKtd3fP0Q8v0Q8v/giphy.gif" width="48"/> 
+<b>Broadcasting live from Canto do Buriti, Brazil</b> 🇧🇷 
+<img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="48"/>
+
+<br><br><br><br>
+
+<img src="https://media.giphy.com/media/l0HlRnAWXxn0MhKLK/giphy.gif" width="280" style="border-radius:24px; box-shadow:0 0 40px rgba(0,255,234,0.5);"/>
 <br><br>
-<a href="https://soundcloud.com/iakadion"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white"/></a>
-<a href="https://open.spotify.com/user/31w3syplutlik764wir6lrl4zlum"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=black"/></a>
-<a href="https://beatstars.com/akadion"><img src="https://img.shields.io/badge/BeatStars-FF6600?style=for-the-badge&logo=music&logoColor=white"/></a>
-<a href="https://soundverse.com/akadion"><img src="https://img.shields.io/badge/Soundverse-9333FF?style=for-the-badge&logo=soundcloud&logoColor=white"/></a>
-<a href="https://suno.com/akadion"><img src="https://img.shields.io/badge/Suno-00D4FF?style=for-the-badge&logo=music&logoColor=white"/></a>
-<a href="https://genius.com/akadion"><img src="https://img.shields.io/badge/Genius-FFFF64?style=for-the-badge&logo=genius&logoColor=black"/></a>
-<br><br>
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30"/> <b><code>SOCIAL ⊹ MEDIA</code></b> <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30"/>
-<br><br>
-<a href="https://instagram.com/iakadion"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://youtube.com/@iakadion"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-<a href="https://twitter.com/iakadion"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://twitch.tv/iakadion"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
-<a href="https://m.facebook.com/profile.php?id=100075107335354"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://threads.net/@iakadion"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/></a>
-<a href="https://bsky.app/profile/akadion"><img src="https://img.shields.io/badge/BlueSky-0085FF?style=for-the-badge&logo=bluesky&logoColor=white"/></a>
-<a href="https://reddit.com/u/iakadion"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
-<br><br>
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30"/> <b><code>CODE ⊹ DEV</code></b> <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30"/>
-<br><br>
-<a href="https://github.com/iakadion"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://gitlab.com/akadion"><img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
-<a href="https://codepen.io/akadion"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
-<a href="https://stackoverflow.com/users/akadion"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
-<a href="https://replit.com/@akadion"><img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white"/></a>
-<a href="https://hub.docker.com/u/akadion"><img src="https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
-<br><br>
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30"/> <b><code>CREATIVE ⊹ WRITING</code></b> <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30"/>
-<br><br>
-<a href="https://behance.net/akadion"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/></a>
-<a href="https://dribbble.com/akadion"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/></a>
-<a href="https://figma.com/@akadion"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
-<a href="https://medium.com/@akadion"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-<a href="https://wordpress.com/iakadion"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
-<br><br>
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4b72-be0c-b3cae38e6e8c.gif" width="30"/> <b><code>INNOVATION ⊹ SUPPORT</code></b> <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4b72-be0c-b3cae38e6e8c.gif" width="30"/>
-<br><br>
-<a href="https://producthunt.com/@akadion"><img src="https://img.shields.io/badge/Product_Hunt-DA552F?style=for-the-badge&logo=producthunt&logoColor=white"/></a>
-<a href="https://patreon.com/akadion"><img src="https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white"/></a>
-<a href="mailto:ogenhoanimation01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</div>
-<div align="center">
-<br>
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"/> <b><code>TECH ARSENAL</code></b> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"/>
-<br><br>
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06e6c90.gif" width="300"/>
-<br><br>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,javascript,typescript,nodejs,nextjs,webpack,vite,git,github,gitlab,docker,figma&theme=dark&perline=15" />
-<br>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,graphql,express,sass,bootstrap,vercel,netlify,aws,threejs,vue,python,cpp,rust&theme=dark&perline=15" />
-<br>
-<img src="https://skillicons.dev/icons?i=electron,firebase,supabase,prisma,linux,bash,vim,blender,unity,unreal,godot,androidstudio,swift,kotlin,go&theme=dark&perline=15" />
-</div>
-<div align="center">
-<br>
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4ee83c3e7c71.gif" width="30"/> <b><code>LEGENDARY PROJECTS</code></b> <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4ee83c3e7c71.gif" width="30"/>
-<br><br>
-<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="350"/>
-</div>
+🎭 <b>WHO AM I?</b><br><br>
+I am Genho Akadion, a multi-dimensional creator who lives at the powerful intersection of art, technology, music, and innovation.<br>
+Born with an unstoppable drive to create, I transform ideas into immersive experiences that push the boundaries of what's possible in 2026 and beyond.<br><br>
+
+My soul is music. My mind is code. My heart is visual storytelling. My spirit is pure invention.<br><br>
+
+<b>🎸 Music Realm</b><br>
+Lyricist • Composer • Producer • Sound Engineer • Frequency Alchemist • Live Performer • Spatial Audio Designer • Beat Architect • Studio Visionary • Live Looping Master<br><br>
+
+<b>💻 Tech Realm</b><br>
+Full-Stack Developer • AI Tool Builder • Compiler Engineer • Web3 Pioneer • Autonomous Systems Architect • UI/UX Visionary • DevOps Specialist • Cloud Native Expert<br><br>
+
+<b>🎨 Creative Realm</b><br>
+Filmmaker • Visual Artist • 3D World Builder • Motion Designer • Game Creator • Holographic Experience Designer • Writer & Storyteller • Digital Sculptor • AR/VR Pioneer<br><br>
+
+<b>🚀 Innovation Realm</b><br>
+Inventor • Futurist • Open-Source Catalyst • Product Visionary • Ecosystem Builder • Creative Technologist of the New Era • Metaverse Architect • AI Creative Partner<br><br>
+
+I don't just create — I architect entire universes where sound, code, and visuals dance together in perfect harmony.<br>
+Every project is a new dimension. Every line of code is a new possibility. Every melody is a new emotion.<br>
+This is who I am in 2026: a force of creation that never stops evolving, never stops dreaming, never stops building the future one masterpiece at a time.<br><br>
+
+<img src="https://media.giphy.com/media/26BRv0R8N0vJ1yqN2/giphy.gif" width="250" style="border-radius:24px;"/><br><br>
+
+📡 <b>CONNECT WITH ME – JOIN THE JOURNEY</b><br><br>
+
+<b>🎵 SOUND & FREQUENCY</b><br>
+<a href="https://soundcloud.com/iakadion"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white"/></a> Listen to my latest sonic experiments and full albums<br>
+<a href="https://open.spotify.com/user/31w3syplutlik764wir6lrl4zlum"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=black"/></a> Curated playlists and official releases<br>
+<a href="https://beatstars.com/akadion"><img src="https://img.shields.io/badge/BeatStars-FF6600?style=for-the-badge&logo=music&logoColor=white"/></a> Premium beats and instrumentals<br>
+<a href="https://suno.com/akadion"><img src="https://img.shields.io/badge/Suno-00D4FF?style=for-the-badge&logo=music&logoColor=white"/></a> AI co-created music explorations<br><br>
+
+<b>📱 SOCIAL & MEDIA</b><br>
+<a href="https://instagram.com/iakadion"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> Daily visual stories and behind-the-scenes<br>
+<a href="https://youtube.com/@iakadion"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a> Long-form films, tutorials and live sessions<br>
+<a href="https://twitter.com/iakadion"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a> Real-time thoughts and updates<br>
+<a href="https://twitch.tv/iakadion"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a> Live coding and music sessions<br><br>
+
+<b>💻 CODE & DEVELOPMENT</b><br>
+<a href="https://github.com/iakadion"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> All my open-source creations<br>
+<a href="https://gitlab.com/akadion"><img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white"/></a> Private and enterprise repositories<br>
+<a href="https://codepen.io/akadion"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a> Experimental web art pieces<br><br>
+
+<b>🎨 CREATIVE & WRITING</b><br>
+<a href="https://behance.net/akadion"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/></a> Professional design and motion work<br>
+<a href="https://dribbble.com/akadion"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/></a> Daily UI/UX shots and concepts<br>
+<a href="https://figma.com/@akadion"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a> Live design files and prototypes<br><br>
+
+<b>🚀 INNOVATION & SUPPORT</b><br>
+<a href="https://producthunt.com/@akadion"><img src="https://img.shields.io/badge/Product_Hunt-DA552F?style=for-the-badge&logo=producthunt&logoColor=white"/></a> Launching groundbreaking tools<br>
+<a href="https://patreon.com/akadion"><img src="https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white"/></a> Support the vision and get exclusive access<br>
+<a href="mailto:ogenhoanimation01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> Direct collaborations and inquiries welcome<br><br>
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="290" style="border-radius:24px;"/>
+<img src="https://media.giphy.com/media/3oEjI5VtIhHvK37WYo/giphy.gif" width="220" style="border-radius:24px;"/><br><br>
+
+🛠️ <b>TECH ARSENAL 2026 – THE FULL STACK OF CREATION</b><br><br>
+Modern frontend, powerful backends, AI integration, 3D graphics, spatial computing and beyond.<br><br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css,nodejs,express,python,threejs,webgl,figma&theme=dark&perline=16"/><br>
+<img src="https://skillicons.dev/icons?i=git,docker,aws,vercel,netlify,mongodb,postgres,redis,graphql,ai,solidity,web3&theme=dark&perline=16"/><br><br>
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" style="border-radius:24px;"/><br><br>
+
+🚀 <b>LEGENDARY PROJECTS – THE MULTIVERSE OF CREATIONS</b><br><br>
+
 <details open>
-<summary>🔥 <b>Akia.js — Universal Renderer</b></summary>
-<br>
-<blockquote>Singleton renderer transpiling 7+ languages with Native Innovation.<br><b>Tech:</b> <code>JavaScript</code> <code>ESNext</code> <code>Transpiler</code> <code>Compiler</code><br><img src="https://progress-bar.dev/95/?title=Progress&width=350&color=00f7f7"/></blockquote>
-</details>
+<summary><b>🔥 Akia.js – Universal Renderer</b></summary>
+The flagship project. A revolutionary singleton renderer capable of transpiling over 7 languages into high-performance native code with built-in AI assistance. Currently powering multiple production environments.<br>
+Tech: JavaScript, ESNext, Custom Compiler, AI Co-pilot, WebAssembly<br>
+Status: <img src="https://progress-bar.dev/97/?title=Production%20Ready&width=420&color=00FFEA"/>
+</details><br>
+
 <details>
-<summary>⚡ <b>.ak Language — Proprietary Web Language</b></summary>
-<br>
-<blockquote>The future of web development. Native compiler for modern revolution.<br><b>Tech:</b> <code>Compiler Design</code> <code>Native Language</code> <code>Web Innovation</code><br><img src="https://progress-bar.dev/88/?title=Progress&width=350&color=ff6b6b"/></blockquote>
-</details>
+<summary><b>⚡ .ak Language – The Next-Gen Web Language</b></summary>
+A proprietary programming language designed from the ground up for the modern web. Blazing fast compiler, zero-config, built for creators who demand more.<br>
+Tech: Compiler Theory, Runtime Optimization, Native Interop<br>
+Status: <img src="https://progress-bar.dev/91/?title=Alpha&width=420&color=FF00C1"/>
+</details><br>
+
 <details>
-<summary>🌐 <b>readgex — Intelligent AI Browser</b></summary>
-<br>
-<blockquote>Smart Autonomous Agent Browser Integration with AI-Powered Navigation.<br><b>Tech:</b> <code>React</code> <code>TypeScript</code> <code>AI</code> <code>Autonomous Agent</code><br><img src="https://progress-bar.dev/82/?title=Progress&width=350&color=4ecdc4"/></blockquote>
-</details>
+<summary><b>🌐 readgex – Intelligent Autonomous AI Browser</b></summary>
+The browser that thinks with you. Autonomous agent that researches, summarizes, and acts on your behalf while maintaining full privacy controls.<br>
+Tech: React, TypeScript, LLM Integration, Multi-Agent Systems
+</details><br>
+
 <details>
-<summary>🧠 <b>Bilbid — Semantic Knowledge Engine</b></summary>
-<br>
-<blockquote>Intelligent knowledge graph with semantic understanding and NLP.<br><b>Tech:</b> <code>AI</code> <code>NLP</code> <code>Wikipedia API</code> <code>Knowledge Graph</code><br><img src="https://progress-bar.dev/87/?title=Progress&width=350&color=6c5ce7"/></blockquote>
-</details>
+<summary><b>🧠 Bilbid – Living Semantic Knowledge Engine</b></summary>
+An ever-evolving knowledge graph that connects concepts across music, code, art and science in real time.<br>
+Tech: NLP, Graph Databases, Wikipedia + Custom APIs
+</details><br>
+
 <details>
-<summary>🎵 <b>IUKKA Player — Quantum Streaming</b></summary>
-<br>
-<blockquote>Next-gen music streaming with quantum-inspired processing architecture.<br><b>Tech:</b> <code>WebRTC</code> <code>Media APIs</code> <code>Quantum Processing</code><br><img src="https://progress-bar.dev/79/?title=Progress&width=350&color=e17055"/></blockquote>
-</details>
+<summary><b>🎵 IUKKA Player – Immersive Quantum Streaming Platform</b></summary>
+Next-level music player with spatial audio, live collaboration, and AI-generated transitions between tracks.<br>
+Tech: WebRTC, Web Audio API, Spatial Audio, Real-time Sync
+</details><br>
+
 <details>
-<summary>💼 <b>SHIYO — Social Media Portfolio Platform</b></summary>
-<br>
-<blockquote>All-in-one social portfolio builder with cross-platform integration.<br><b>Tech:</b> <code>React</code> <code>Node.js</code> <code>Social Integration</code><br><img src="https://progress-bar.dev/74/?title=Progress&width=350&color=fdcb6e"/></blockquote>
-</details>
+<summary><b>💼 SHIYO – Next-Gen Social Portfolio Platform</b></summary>
+Where creators build living digital identities that evolve with their work.
+</details><br>
+
 <details>
-<summary>🎨 <b>NYX — Creative Portfolio Showcase</b></summary>
-<br>
-<blockquote>Immersive 3D portfolio experience with WebGL-powered visuals.<br><b>Tech:</b> <code>React</code> <code>WebGL</code> <code>Three.js</code> <code>3D Graphics</code><br><img src="https://progress-bar.dev/71/?title=Progress&width=350&color=a29bfe"/></blockquote>
-</details>
+<summary><b>🎨 NYX – Holographic 3D Portfolio Experience</b></summary>
+Immersive WebGL showcase that feels like stepping into a digital gallery.
+</details><br>
+
 <details>
-<summary>🏢 <b>Akadaion — Institutional HQ</b></summary>
-<br>
-<blockquote>Enterprise-grade institutional headquarters and brand hub.<br><b>Tech:</b> <code>Next.js</code> <code>TypeScript</code> <code>Enterprise</code><br><img src="https://progress-bar.dev/68/?title=Progress&width=350&color=00b894"/></blockquote>
-</details>
+<summary><b>🏢 Akadaion – Institutional Digital Headquarters</b></summary>
+Enterprise-grade platform managing all projects, teams and creative pipelines.
+</details><br>
+
 <details>
-<summary>📊 <b>akash — Universal Dashboard</b></summary>
-<br>
-<blockquote>Centralized admin panel for managing all platforms and projects.<br><b>Tech:</b> <code>Dashboard</code> <code>Admin Panel</code> <code>Site Management</code><br><img src="https://progress-bar.dev/65/?title=Progress&width=350&color=0984e3"/></blockquote>
-</details>
+<summary><b>📊 akash – Universal Control Dashboard</b></summary>
+One dashboard to rule all my digital ecosystems.
+</details><br>
+
 <details>
-<summary>✨ <b>Fillshy — Background AI Content Generator</b></summary>
-<br>
-<blockquote>AI-powered content generation running in background processes.<br><b>Tech:</b> <code>AI</code> <code>Content Generation</code> <code>Background Processing</code><br><img src="https://progress-bar.dev/60/?title=Progress&width=350&color=e84393"/></blockquote>
-</details>
+<summary><b>✨ Fillshy – Autonomous AI Content Generator</b></summary>
+Runs in background creating assets, descriptions, and social content 24/7.
+</details><br>
+
 <details>
-<summary>🎯 <b>Owni — Component & Icon Library</b></summary>
-<br>
-<blockquote>Custom animated icon system and reusable web component library.<br><b>Tech:</b> <code>Web Components</code> <code>Animated Icons</code> <code>SVG</code><br><img src="https://progress-bar.dev/55/?title=Progress&width=350&color=fab1a0"/></blockquote>
-</details>
-<div align="center">
-<br>
-<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"/> <b><code>CREATOR STATS</code></b> <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"/>
-<br><br>
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d10a7.gif" width="150"/>
-<br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=iakadion&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117&title_color=00f7f7&text_color=ffffff&icon_color=00f7f7&ring_color=00f7f7" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iakadion&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00f7f7&text_color=ffffff&icon_color=00f7f7" height="180"/>
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iakadion&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f7f7&ring=00f7f7&fire=ff6b6b&currStreakLabel=00f7f7" width="700"/>
-<br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iakadion&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f7f7&line=00f7f7&point=ff6b6b&area=true&area_color=00f7f7" width="900"/>
-</div>
-<div align="center">
-<br>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="30"/> <b><code>WORKFLOW ⊹ PHILOSOPHY</code></b> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="30"/>
-<br><br>
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350"/>
-<br><br>
+<summary><b>🎯 Owni – Animated Icon & Component Universe</b></summary>
+Massive library of production-ready animated web components and icons.
+</details><br>
+
+<details>
+<summary><b>🌌 Project Elysium – 2026 Master Vision</b></summary>
+The ultimate interconnected metaverse of all my creations coming together in one unified experience.
+</details><br><br>
+
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="310" style="border-radius:24px;"/><br><br>
+
+📊 <b>CREATOR STATS – THE NUMBERS BEHIND THE VISION</b><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=iakadion&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117&title_color=00FFEA&text_color=ffffff&icon_color=00FFEA" /><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iakadion&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=00FFEA&text_color=ffffff&icon_color=00FFEA" /><br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iakadion&theme=tokyonight&hide_border=true&background=0d1117&stroke=00FFEA&ring=00FFEA&fire=FF00C1" /><br><br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iakadion&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00FFEA&line=00FFEA&point=FF00C1" /><br><br>
+
+<img src="https://media.giphy.com/media/26BRv0R8N0vJ1yqN2/giphy.gif" width="270" style="border-radius:24px;"/><br><br>
+
+🧠 <b>WORKFLOW & PHILOSOPHY – THE INFINITE LOOP</b><br><br>
+Inspiration strikes. I capture it.<br>
+Code flows. Music emerges.<br>
+Visuals take shape. Worlds are born.<br>
+I refine. I test. I release.<br>
+Then I evolve and begin again.<br><br>
 
 ```typescript
-const genho = {
-  title: "Multi-Dimensional Creator",
-  loop: async () => {
-    while (true) {
-      await inspire();
-      await create();
-      await innovate();
-      await share();
-    }
-  }
-};
-genho.loop();
-```
+const genho = new Visionary2026();
+while (genho.isAlive) {
+  await genho.captureInspiration();
+  await genho.buildMasterpiece();
+  await genho.shareWithUniverse();
+  await genho.reflectAndEvolve();
+  await genho.restOneCycle();
+}
+This is not just a process — it is a way of existing in the creative multiverse.
 
-<br>
-<b><i>"Create. Innovate. Inspire. Repeat. ∞"</i></b>
-</div>
-<div align="center">
-<br>
-<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="30"/> <b><code>CONTRIBUTIONS</code></b> <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="30"/>
-<br><br>
-<img src="https://raw.githubusercontent.com/iakadion/iakadion/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-<div align="center">
-<br>
-<img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" width="30"/> <b><code>ACHIEVEMENTS</code></b> <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" width="30"/>
-<br><br>
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iakadion&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15"/></a>
-<br><br>
-<img src="https://profile-counter.glitch.me/iakadion/count.svg"/>
-<br>
-<a href="https://github.com/iakadion"><img src="https://komarev.com/ghpvc/?username=iakadion&color=00f7f7&style=for-the-badge&label=PROFILE+VIEWS"/></a>
-<br><br>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
-<br>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a1b3a,50:00f7f7,75:1a1b3a,100:0d1117&height=150&section=footer" width="100%"/>
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="800"/>
-<br>
-<b>⚡ Built with passion, powered by creativity ⚡</b>
-<br>
-<sub>© 2026 Genho Akadion — All dimensions reserved</sub>
-</div>
+
+<img src="https://raw.githubusercontent.com/iakadion/iakadion/output/github-contribution-grid-snake-dark.svg" width="100%" style="border-radius:20px;"/>
+
+
+🏆 ACHIEVEMENTS & MILESTONES 2026
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=iakadion&#x26;theme=tokyonight&#x26;no-frame=true&#x26;no-bg=true&#x26;column=7&#x26;margin-w=15&#x26;margin-h=15" alt="trophy">
+
+
+<img src="https://profile-counter.glitch.me/iakadion/count.svg" />
+
+<img src="https://komarev.com/ghpvc/?username=iakadion&#x26;color=00FFEA&#x26;style=flat&#x26;label=Total+Profile+Views" alt="Profile Views">
+
+
+2026 Vision Roadmap
+
+• Launch .ak Language public beta
+
+• Release IUKKA Player v2 with full spatial audio
+
+• Complete Akia.js integration across all projects
+
+• Host first international live creative coding concert
+
+• Expand the creative universe with 12 new major projects
+
+• Build the full Genho Akadion Metaverse experience
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00FFEA,7B2CBF,FF00C1,00FF88&height=160&section=footer" width="100%"/>
+⚡ Built with infinite passion in 2026 • Powered by creativity, curiosity and the belief that art and technology together can change everything ⚡
+
+
+Thank you for visiting my digital home.
+
+Let's create the future together.
