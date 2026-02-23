@@ -1,113 +1,14 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,14,18,20,24&text=GENHO%20AKADION&fontSize=75&fontAlignY=35&desc=Code%20•%20Music%20•%20Art%20•%20Innovation&descAlignY=55&animation=fadeIn" width="100%"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=700&size=24&duration=2500&pause=800&color=00F7F7&center=true&vCenter=true&repeat=true&width=850&lines=🎵+Musician+•+Producer+•+Engineer;💻+Full+Stack+Architect+•+Inventor;🎨+Designer+•+Filmmaker+•+Visionary;🚀+Building+the+Future+One+Idea+at+a+Time" />
-
-<br><br>
-
-🌎 **Brazil Based** 🇧🇷 • ⚡ **Multi‑Dimensional Creator** • 🧠 **Future Driven**
-
-</div>
-
----
-
-# 🧩 HOME SCREEN
-
-## 🎵 Music Hub
-<a href="https://soundcloud.com/iakadion"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white"/></a>
-<a href="https://open.spotify.com/user/31w3syplutlik764wir6lrl4zlum"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=black"/></a>
-<a href="https://beatstars.com/akadion"><img src="https://img.shields.io/badge/BeatStars-FF6600?style=for-the-badge"/></a>
-<a href="https://suno.com/akadion"><img src="https://img.shields.io/badge/Suno-00D4FF?style=for-the-badge"/></a>
-<a href="https://genius.com/akadion"><img src="https://img.shields.io/badge/Genius-FFFF64?style=for-the-badge&logo=genius&logoColor=black"/></a>
-
----
-
-## 💻 Dev Space
-<a href="https://github.com/iakadion"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
-<a href="https://gitlab.com/akadion"><img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
-<a href="https://codepen.io/akadion"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen"/></a>
-<a href="https://hub.docker.com/u/akadion"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,python,cpp,threejs,webgl,docker,aws,mongodb,postgres&theme=dark" />
-
----
-
-## 🎨 Creative Studio
-<a href="https://behance.net/akadion"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/></a>
-<a href="https://dribbble.com/akadion"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/></a>
-<a href="https://figma.com/@akadion"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
-<a href="https://medium.com/@akadion"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-
----
-
-## 📱 Social Grid
-<a href="https://instagram.com/iakadion"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://youtube.com/@iakadion"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-<a href="https://twitter.com/iakadion"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://threads.net/@iakadion"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/></a>
-<a href="https://bsky.app/profile/akadion"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white"/></a>
-
----
-
-# 🚀 Featured Projects
-
-### 🔥 Akia.js — Universal Renderer
-Transpiler • Compiler • ESNext Engine  
-![Status](https://progress-bar.dev/95/?width=400&color=00f7f7)
-
-### ⚡ .ak Language — Next Web Evolution
-Native Web Language • Compiler Architecture  
-![Status](https://progress-bar.dev/88/?width=400&color=ff6b6b)
-
-### 🌐 readgex — AI Autonomous Browser
-React • TypeScript • AI Agents  
-![Status](https://progress-bar.dev/82/?width=400&color=4ecdc4)
-
-### 🧠 Bilbid — Semantic Knowledge Engine
-NLP • AI • Knowledge Graph  
-![Status](https://progress-bar.dev/87/?width=400&color=6c5ce7)
-
----
-
-# 📊 Creator Analytics
-
-<img src="https://github-readme-stats.vercel.app/api?username=iakadion&theme=tokyonight&hide_border=true&show_icons=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iakadion&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=00f7f7" />
-<img src="https://streak-stats.demolab.com?user=iakadion&theme=tokyonight&hide_border=true&background=0d1117&ring=00f7f7&fire=ff6b6b" />
-
----
-
-# 🧠 Philosophy
-
-✨ Create  
-⚡ Innovate  
-🚀 Disrupt  
-🔁 Repeat  
-
-```ts
-class Creator {
-  async live() {
-    while (true) {
-      await this.create();
-      await this.evolve();
+<div align="center"><!-- PREMIUM HEADER --><a href="https://github.com/iakadion"><img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0:0d1117,100:00f7f7%26height%3D280%26section%3Dheader%26text%3DGENHO%2520AKADION%26fontSize%3D85%26animation%3Dtwinkling%26fontAlignY%3D38%26desc%3DVisionary%2520%25E2%2580%25A2%2520Full-Stack%2520Creator%2520%25E2%2580%25A2%2520Multi-Artist%26descAlignY%3D55%26descAlign%3D50%26fontColor%3Dffffff" width="100%"/></a><!-- TYPING ANIMATION (Space Grotesk Font for Modern Tech Vibe) --><a href="https://github.com/iakadion"><img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DSpace%2BGrotesk%26weight%3D700%26size%3D26%26duration%3D3000%26pause%3D1000%26color%3D00F7F7%26center%3Dtrue%26vCenter%3Dtrue%26multiline%3Dtrue%26repeat%3Dtrue%26width%3D800%26height%3D90%26lines%3D🎵+Musician+%7C+🎬+Filmmaker+%7C+💻+Developer;🎨+Designer+%7C+✍️+Writer+%7C+🎮+Game+Creator;🚀+Inventor+%7C+🎭+Artist+%7C+⚡+Innovator" alt="Typing Tech" /></a><!-- MINIMALIST LOCATION --><p align="center"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" width="22" style="vertical-align: middle;"/><span style="color: https://www.google.com/search?q=%238b949e; font-size: 14px; letter-spacing: 2px; font-family: monospace;"><b>BROADCASTING FROM BRAZIL 🇧🇷</b></span></p></div><div align="center">"I am a multi-dimensional creator navigating the intersection of Code, Frequency, and Visual Arts. Building the architecture of tomorrow while scoring its soundtrack today."</div><div align="center">📡 THE NEURAL NETWORK // CONNECTSignal transmissions across the digital universe.<!-- UNIFORM DARK BADGES: Black Background + Neon Logos for a Premium Vibe --><p align="center"><a href="https://soundcloud.com/iakadion"><img src="https://www.google.com/search?q=https://img.shields.io/badge/SoundCloud-000000%3Fstyle%3Dfor-the-badge%26logo%3Dsoundcloud%26logoColor%3DFF3300"/></a><a href="https://open.spotify.com/user/31w3syplutlik764wir6lrl4zlum"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Spotify-000000%3Fstyle%3Dfor-the-badge%26logo%3Dspotify%26logoColor%3D1ED760"/></a><a href="https://beatstars.com/akadion"><img src="https://www.google.com/search?q=https://img.shields.io/badge/BeatStars-000000%3Fstyle%3Dfor-the-badge%26logo%3Dbeatstars%26logoColor%3DFF6600"/></a><a href="https://genius.com/akadion"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Genius-000000%3Fstyle%3Dfor-the-badge%26logo%3Dgenius%26logoColor%3DFFFF64"/></a></p><p align="center"><a href="https://instagram.com/iakadion"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Instagram-000000%3Fstyle%3Dfor-the-badge%26logo%3Dinstagram%26logoColor%3DE4405F"/></a><a href="https://youtube.com/@iakadion"><img src="https://www.google.com/search?q=https://img.shields.io/badge/YouTube-000000%3Fstyle%3Dfor-the-badge%26logo%3Dyoutube%26logoColor%3DFF0000"/></a><a href="https://twitter.com/iakadion"><img src="https://www.google.com/search?q=https://img.shields.io/badge/X-000000%3Fstyle%3Dfor-the-badge%26logo%3Dx%26logoColor%3DFFFFFF"/></a><a href="https://bsky.app/profile/akadion"><img src="https://www.google.com/search?q=https://img.shields.io/badge/BlueSky-000000%3Fstyle%3Dfor-the-badge%26logo%3Dbluesky%26logoColor%3D0085FF"/></a><a href="https://twitch.tv/iakadion"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitch-000000%3Fstyle%3Dfor-the-badge%26logo%3Dtwitch%26logoColor%3D9146FF"/></a></p><p align="center"><a href="https://github.com/iakadion"><img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-000000%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3DFFFFFF"/></a><a href="https://gitlab.com/akadion"><img src="https://www.google.com/search?q=https://img.shields.io/badge/GitLab-000000%3Fstyle%3Dfor-the-badge%26logo%3Dgitlab%26logoColor%3DFCA121"/></a><a href="https://hub.docker.com/u/akadion"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-000000%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3D2496ED"/></a><a href="https://figma.com/@akadion"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Figma-000000%3Fstyle%3Dfor-the-badge%26logo%3Dfigma%26logoColor%3DF24E1E"/></a><a href="https://dribbble.com/akadion"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Dribbble-000000%3Fstyle%3Dfor-the-badge%26logo%3Ddribbble%26logoColor%3DEA4C89"/></a></p></div><div align="center">🛠️ ARSENAL & TECHNOLOGIESTools of the trade.<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,javascript,typescript,nodejs,nextjs,webpack,vite,git,github,gitlab,docker,figma&theme=dark&perline=15" /><img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,graphql,express,sass,bootstrap,vercel,netlify,aws,webgl,threejs,vue,python,cpp&theme=dark&perline=15" /></div>🚀 CORE DIRECTIVES // LEGENDARY PROJECTSThe most advanced architectures currently in deployment.🌌 Akia.js - Universal RendererTech Stack: JavaScript • ESNext • Transpiler • Compiler Singleton renderer transpiling 7+ languages with Native Innovation. The ultimate bridge between syntaxes.<img src="https://www.google.com/search?q=https://progress-bar.dev/95/%3Ftitle%3DSystem%2520Core%2520Status%26width%3D350%26color%3D00f7f7%26bg%3D0d1117" />⚡ .ak Language - Proprietary Web LanguageTech Stack: Compiler Design • Native Language • Web Innovation The future of web development. A native compiler engineered for the modern revolution of the internet.<img src="https://www.google.com/search?q=https://progress-bar.dev/88/%3Ftitle%3DSystem%2520Core%2520Status%26width%3D350%26color%3Dff6b6b%26bg%3D0d1117" />🧠 Bilbid - Semantic Knowledge EngineTech Stack: AI • NLP • Knowledge Graph • Python Deep learning engine interacting with massive datasets to create semantic connections across knowledge bases.<img src="https://www.google.com/search?q=https://progress-bar.dev/87/%3Ftitle%3DSystem%2520Core%2520Status%26width%3D350%26color%3D6c5ce7%26bg%3D0d1117" />🌐 Readgex - Intelligent AI BrowserTech Stack: React • TypeScript • Autonomous Agent Smart Autonomous Agent Browser Integration designed to revolutionize how we interact with web environments.<img src="https://www.google.com/search?q=https://progress-bar.dev/82/%3Ftitle%3DSystem%2520Core%2520Status%26width%3D350%26color%3D4ecdc4%26bg%3D0d1117" /><div align="center">Ecosystem expansions: IUKKA Player (Quantum Streaming) • SHIYO (Social Portfolio) • NYX (3D Showcase) • Akadaion (Enterprise HQ) • Owni (Component Library)</div><div align="center">📊 TELEMETRY & DATAReal-time metrics from the development grid.<!-- TRANSPARENT STATS FOR A FLOATING/PREMIUM LOOK --><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Diakadion%26theme%3Dtokyonight%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue%26show_icons%3Dtrue%26bg_color%3D00000000%26title_color%3D00f7f7%26text_color%3Da9b1d6%26icon_color%3Dff6b6b" width="48%" /><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Diakadion%26theme%3Dtokyonight%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue%26layout%3Dcompact%26bg_color%3D00000000%26title_color%3D00f7f7%26text_color%3Da9b1d6%26icon_color%3Dff6b6b" width="48%" /><img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Diakadion%26theme%3Dtokyonight%26hide_border%3Dtrue%26background%3D00000000%26stroke%3D00f7f7%26ring%3D00f7f7%26fire%3Dff6b6b%26currStreakLabel%3D00f7f7%26sideNums%3Da9b1d6%26currStreakNum%3Dffffff" width="48%" /><img src="https://raw.githubusercontent.com/iakadion/iakadion/output/github-contribution-grid-snake-dark.svg" width="100%"/></div><div align="center">🏆 ACHIEVEMENTS & HONOR// The Infinite Loop of Creation
+class Visionary {
+    constructor(private entity: string) {}
+    
+    async execute(): Promise<void> {
+        while(this.entity === "Alive") {
+            await this.innovate();
+            await this.inspire();
+        }
     }
-  }
 }
-```
 
----
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=iakadion&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&customColorList=12,14,18,20,24"/>
-
-### ⚡ 2026 • PRO MAX • Future Native • Designed for Impact ⚡
-
-</div>
+new Visionary("Genho Akadion").execute();
+<!-- BOTTOM PREMIUM FOOTER --><img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0:00f7f7,100:0d1117%26height%3D120%26section%3Dfooter" width="100%"/><span style="color: https://www.google.com/search?q=%238b949e; font-size: 12px; font-family: monospace;">⚡ BUILT WITH PASSION, POWERED BY CREATIVITY ⚡</span></div>
