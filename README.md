@@ -1,6 +1,3 @@
-
-
-```markdown
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -680,4 +677,3 @@ new GenhoAkadion().live(); // ⚡ Running since day one...
 **`© 2026 Genho Akadion — All Dimensions Reserved`**
 
 </div>
-```
