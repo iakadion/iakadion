@@ -1,207 +1,233 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a1b3a,50:00f7f7,75:1a1b3a,100:0d1117&height=300&section=header&text=GENHO%20AKADION&fontSize=75&animation=fadeIn&fontAlignY=32&desc=⚡%20Multi-Dimensional%20Creator%20⚡%20Code%20⊹%20Music%20⊹%20Art%20⊹%20Innovation&descAlignY=56&descAlign=50&fontColor=00f7f7&descSize=18" width="100%"/>
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2800&pause=800&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=🎵+Musician+⊹+🎬+Filmmaker+⊹+💻+Developer;🎨+Designer+⊹+✍️+Writer+⊹+🎮+Game+Creator;🚀+Inventor+⊹+🎭+Artist+⊹+⚡+Innovator" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=280&section=header&text=GENHO%20AKADION&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Multi-Dimensional%20Creator%20✦%20Code%20✦%20Music%20✦%20Art&descAlignY=55&descAlign=50" width="100%"/>
+
+<a href="https://genhoakadion.dev">
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=26&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=90&lines=🎵+Sonic+Architect+%7C+🎬+Visual+Alchemist+%7C+💻+Code+Weaver;🎨+Interface+Designer+%7C+✍️+Narrator+%7C+🎮+Virtual+Creator;🚀+Pathfinder+%7C+🎭+Digital+Artist+%7C+⚡+System+Innovator" alt="Typing SVG" />
 </a>
-<br>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
-<br>
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="25"/> <b><code>Broadcasting from Brazil</code></b> 🇧🇷 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="25"/>
+
+<div>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjQweXYyam5wMWkwd3o1YXh1OTZnMTR2dTIzd3RxZnZzNXNqaWFqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="45"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=18&color=ffffff&center=true&width=300&height=40&lines=Broadcasting+Live;Base:+Brazil+🇧🇷" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjQweXYyam5wMWkwd3o1YXh1OTZnMTR2dTIzd3RxZnZzNXNqaWFqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="45"/>
 </div>
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f15b36f93.gif" width="500"/>
-<br>
-<table><tr><td>
-<b>🎸 MUSIC</b><br>Musician · Artist · Lyricist<br>Engineer · Producer
-</td><td>
-<b>💻 TECH</b><br>Programmer · Full-Stack Dev<br>Software Creator · Tool Builder
-</td><td>
-<b>🎨 CREATIVE</b><br>Filmmaker · Writer<br>Game Dev · Visual Artist
-</td><td>
-<b>🚀 INNOVATION</b><br>Inventor · Architect<br>Visionary · Enthusiast
-</td></tr></table>
-<i>"I am a multi-dimensional creator navigating the intersection of Code, Music, and Visual Arts — building the future one pixel, one note, one commit at a time."</i>
-</div>
-<div align="center">
-<br>
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"/> <b><code>SOUND ⊹ FREQUENCY</code></b> <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"/>
-<br><br>
+
+✦ ━━━━━━━━━━━━━━━━━━━━━━━ 🤖 ━━━━━━━━━━━━━━━━━━━━━━━ ✦
+
+<h2> ⌘ IDENTITY MATRIX ⌘ </h2>
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajFwbnhmZnV2NzBxMDdwOWkxeDJmNmc2ZHl3MGxrbXExMmF5ZDFxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="160"/>
+
+```mermaid
+mindmap
+  root((GENHO<br/>AKADION))
+    (🎵 SONIC LAB)
+      [Audio Engineer]
+      [Beat Architect]
+      [Lyricist]
+    (💻 KERNEL)
+      [Full-Stack Node]
+      [Language Author]
+      [AI Systems]
+    (🎨 VISION)
+      [Cinematographer]
+      [UX UI Sculptor]
+      [3D World Builder]
+    (🚀 BEYOND)
+      [Invention]
+      [Philosophy]
+      [Quantum Thought]
+```
+
+✦ ━━━━━━━━━━━━━━━━━━━━━━━ 🌐 ━━━━━━━━━━━━━━━━━━━━━━━ ✦
+
+<h2> ⌘ APP DIRECTORY / CONNECT ⌘ </h2>
+
+<h3> 🎧 FREQUENCY WAVES 🎧 </h3>
 <a href="https://soundcloud.com/iakadion"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white"/></a>
-<a href="https://open.spotify.com/user/31w3syplutlik764wir6lrl4zlum"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=black"/></a>
-<a href="https://beatstars.com/akadion"><img src="https://img.shields.io/badge/BeatStars-FF6600?style=for-the-badge&logo=music&logoColor=white"/></a>
-<a href="https://soundverse.com/akadion"><img src="https://img.shields.io/badge/Soundverse-9333FF?style=for-the-badge&logo=soundcloud&logoColor=white"/></a>
-<a href="https://suno.com/akadion"><img src="https://img.shields.io/badge/Suno-00D4FF?style=for-the-badge&logo=music&logoColor=white"/></a>
-<a href="https://genius.com/akadion"><img src="https://img.shields.io/badge/Genius-FFFF64?style=for-the-badge&logo=genius&logoColor=black"/></a>
-<br><br>
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30"/> <b><code>SOCIAL ⊹ MEDIA</code></b> <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30"/>
-<br><br>
+<a href="https://open.spotify.com/user/31w3syplutlik764wir6lrl4zlum"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=12141a"/></a>
+<a href="https://beatstars.com/akadion"><img src="https://img.shields.io/badge/BeatStars-FF6600?style=for-the-badge&logo=beatstars&logoColor=white"/></a>
+<a href="https://soundverse.com/akadion"><img src="https://img.shields.io/badge/Soundverse-9333FF?style=for-the-badge&logo=shazam&logoColor=white"/></a>
+<a href="https://suno.com/akadion"><img src="https://img.shields.io/badge/Suno-00D4FF?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
+<a href="https://genius.com/akadion"><img src="https://img.shields.io/badge/Genius-FFFF64?style=for-the-badge&logo=genius&logoColor=12141a"/></a>
+
+<h3> 📱 SOCIAL PROTOCOLS 📱 </h3>
 <a href="https://instagram.com/iakadion"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://youtube.com/@iakadion"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href="https://twitter.com/iakadion"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://twitch.tv/iakadion"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
-<a href="https://m.facebook.com/profile.php?id=100075107335354"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="https://threads.net/@iakadion"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/></a>
 <a href="https://bsky.app/profile/akadion"><img src="https://img.shields.io/badge/BlueSky-0085FF?style=for-the-badge&logo=bluesky&logoColor=white"/></a>
 <a href="https://reddit.com/u/iakadion"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
-<br><br>
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30"/> <b><code>CODE ⊹ DEV</code></b> <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30"/>
-<br><br>
+
+<h3> 💻 TERMINAL ACCESS 💻 </h3>
 <a href="https://github.com/iakadion"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://gitlab.com/akadion"><img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
 <a href="https://codepen.io/akadion"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
-<a href="https://stackoverflow.com/users/akadion"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
+<a href="https://stackoverflow.com/users/akadion"><img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
 <a href="https://replit.com/@akadion"><img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white"/></a>
-<a href="https://hub.docker.com/u/akadion"><img src="https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
-<br><br>
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30"/> <b><code>CREATIVE ⊹ WRITING</code></b> <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30"/>
-<br><br>
+<a href="https://hub.docker.com/u/akadion"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
+
+<h3> 🎨 CANVAS INTERFACES 🎨 </h3>
 <a href="https://behance.net/akadion"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/></a>
 <a href="https://dribbble.com/akadion"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/></a>
 <a href="https://figma.com/@akadion"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
 <a href="https://medium.com/@akadion"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-<a href="https://wordpress.com/iakadion"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
-<br><br>
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4b72-be0c-b3cae38e6e8c.gif" width="30"/> <b><code>INNOVATION ⊹ SUPPORT</code></b> <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4b72-be0c-b3cae38e6e8c.gif" width="30"/>
-<br><br>
-<a href="https://producthunt.com/@akadion"><img src="https://img.shields.io/badge/Product_Hunt-DA552F?style=for-the-badge&logo=producthunt&logoColor=white"/></a>
-<a href="https://patreon.com/akadion"><img src="https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white"/></a>
-<a href="mailto:ogenhoanimation01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</div>
-<div align="center">
-<br>
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"/> <b><code>TECH ARSENAL</code></b> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"/>
-<br><br>
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06e6c90.gif" width="300"/>
-<br><br>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,javascript,typescript,nodejs,nextjs,webpack,vite,git,github,gitlab,docker,figma&theme=dark&perline=15" />
-<br>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,graphql,express,sass,bootstrap,vercel,netlify,aws,threejs,vue,python,cpp,rust&theme=dark&perline=15" />
-<br>
-<img src="https://skillicons.dev/icons?i=electron,firebase,supabase,prisma,linux,bash,vim,blender,unity,unreal,godot,androidstudio,swift,kotlin,go&theme=dark&perline=15" />
-</div>
-<div align="center">
-<br>
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4ee83c3e7c71.gif" width="30"/> <b><code>LEGENDARY PROJECTS</code></b> <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4ee83c3e7c71.gif" width="30"/>
-<br><br>
-<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="350"/>
-</div>
-<details open>
-<summary>🔥 <b>Akia.js — Universal Renderer</b></summary>
-<br>
-<blockquote>Singleton renderer transpiling 7+ languages with Native Innovation.<br><b>Tech:</b> <code>JavaScript</code> <code>ESNext</code> <code>Transpiler</code> <code>Compiler</code><br><img src="https://progress-bar.dev/95/?title=Progress&width=350&color=00f7f7"/></blockquote>
-</details>
-<details>
-<summary>⚡ <b>.ak Language — Proprietary Web Language</b></summary>
-<br>
-<blockquote>The future of web development. Native compiler for modern revolution.<br><b>Tech:</b> <code>Compiler Design</code> <code>Native Language</code> <code>Web Innovation</code><br><img src="https://progress-bar.dev/88/?title=Progress&width=350&color=ff6b6b"/></blockquote>
-</details>
-<details>
-<summary>🌐 <b>readgex — Intelligent AI Browser</b></summary>
-<br>
-<blockquote>Smart Autonomous Agent Browser Integration with AI-Powered Navigation.<br><b>Tech:</b> <code>React</code> <code>TypeScript</code> <code>AI</code> <code>Autonomous Agent</code><br><img src="https://progress-bar.dev/82/?title=Progress&width=350&color=4ecdc4"/></blockquote>
-</details>
-<details>
-<summary>🧠 <b>Bilbid — Semantic Knowledge Engine</b></summary>
-<br>
-<blockquote>Intelligent knowledge graph with semantic understanding and NLP.<br><b>Tech:</b> <code>AI</code> <code>NLP</code> <code>Wikipedia API</code> <code>Knowledge Graph</code><br><img src="https://progress-bar.dev/87/?title=Progress&width=350&color=6c5ce7"/></blockquote>
-</details>
-<details>
-<summary>🎵 <b>IUKKA Player — Quantum Streaming</b></summary>
-<br>
-<blockquote>Next-gen music streaming with quantum-inspired processing architecture.<br><b>Tech:</b> <code>WebRTC</code> <code>Media APIs</code> <code>Quantum Processing</code><br><img src="https://progress-bar.dev/79/?title=Progress&width=350&color=e17055"/></blockquote>
-</details>
-<details>
-<summary>💼 <b>SHIYO — Social Media Portfolio Platform</b></summary>
-<br>
-<blockquote>All-in-one social portfolio builder with cross-platform integration.<br><b>Tech:</b> <code>React</code> <code>Node.js</code> <code>Social Integration</code><br><img src="https://progress-bar.dev/74/?title=Progress&width=350&color=fdcb6e"/></blockquote>
-</details>
-<details>
-<summary>🎨 <b>NYX — Creative Portfolio Showcase</b></summary>
-<br>
-<blockquote>Immersive 3D portfolio experience with WebGL-powered visuals.<br><b>Tech:</b> <code>React</code> <code>WebGL</code> <code>Three.js</code> <code>3D Graphics</code><br><img src="https://progress-bar.dev/71/?title=Progress&width=350&color=a29bfe"/></blockquote>
-</details>
-<details>
-<summary>🏢 <b>Akadaion — Institutional HQ</b></summary>
-<br>
-<blockquote>Enterprise-grade institutional headquarters and brand hub.<br><b>Tech:</b> <code>Next.js</code> <code>TypeScript</code> <code>Enterprise</code><br><img src="https://progress-bar.dev/68/?title=Progress&width=350&color=00b894"/></blockquote>
-</details>
-<details>
-<summary>📊 <b>akash — Universal Dashboard</b></summary>
-<br>
-<blockquote>Centralized admin panel for managing all platforms and projects.<br><b>Tech:</b> <code>Dashboard</code> <code>Admin Panel</code> <code>Site Management</code><br><img src="https://progress-bar.dev/65/?title=Progress&width=350&color=0984e3"/></blockquote>
-</details>
-<details>
-<summary>✨ <b>Fillshy — Background AI Content Generator</b></summary>
-<br>
-<blockquote>AI-powered content generation running in background processes.<br><b>Tech:</b> <code>AI</code> <code>Content Generation</code> <code>Background Processing</code><br><img src="https://progress-bar.dev/60/?title=Progress&width=350&color=e84393"/></blockquote>
-</details>
-<details>
-<summary>🎯 <b>Owni — Component & Icon Library</b></summary>
-<br>
-<blockquote>Custom animated icon system and reusable web component library.<br><b>Tech:</b> <code>Web Components</code> <code>Animated Icons</code> <code>SVG</code><br><img src="https://progress-bar.dev/55/?title=Progress&width=350&color=fab1a0"/></blockquote>
-</details>
-<div align="center">
-<br>
-<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"/> <b><code>CREATOR STATS</code></b> <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"/>
-<br><br>
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d10a7.gif" width="150"/>
-<br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=iakadion&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117&title_color=00f7f7&text_color=ffffff&icon_color=00f7f7&ring_color=00f7f7" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iakadion&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00f7f7&text_color=ffffff&icon_color=00f7f7" height="180"/>
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iakadion&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f7f7&ring=00f7f7&fire=ff6b6b&currStreakLabel=00f7f7" width="700"/>
-<br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iakadion&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f7f7&line=00f7f7&point=ff6b6b&area=true&area_color=00f7f7" width="900"/>
-</div>
-<div align="center">
-<br>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="30"/> <b><code>WORKFLOW ⊹ PHILOSOPHY</code></b> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="30"/>
-<br><br>
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350"/>
-<br><br>
 
-```typescript
-const genho = {
-  title: "Multi-Dimensional Creator",
-  loop: async () => {
-    while (true) {
-      await inspire();
-      await create();
-      await innovate();
-      await share();
-    }
-  }
-};
-genho.loop();
+✦ ━━━━━━━━━━━━━━━━━━━━━━━ 🧠 ━━━━━━━━━━━━━━━━━━━━━━━ ✦
+
+<h2> ⌘ TECH ARSENAL ⌘ </h2>
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzV2MmJwMDc0bzV5ZW4zeWJ0dDNmb3Mxd2N2eGNsZXE0ZDQzcTN1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iDadb1KQ/giphy.gif" width="220"/>
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,tailwind,sass,css,html,nodejs,express,graphql,webpack,vite,npm&theme=dark" />
+</a>
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=py,cpp,bash,linux,git,github,gitlab,docker,aws,vercel,netlify,mongodb,postgres,redis,figma&theme=dark" />
+</a>
+
+✦ ━━━━━━━━━━━━━━━━━━━━━━━ 🚀 ━━━━━━━━━━━━━━━━━━━━━━━ ✦
+
+<h2> ⌘ LEGENDARY PROGRAMS ⌘ </h2>
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG4wanBneHRvdHhkcjFwNzgwZWwzdGF3aDcyMHAycDhwcDcxZXgxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="250"/>
+
+<details open>
+<summary><b>🔥 ［ Akia.js ］ UNIVERSAL RENDERER</b></summary>
+<div><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=15&color=00F7F7&width=500&height=25&lines=Transpiling+the+future+of+web+standards."/></div>
+<div><img src="https://img.shields.io/badge/COMPILER-FF0055?style=flat-square&logo=cplusplus"/> <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript"/> <img src="https://img.shields.io/badge/ESNEXT-000000?style=flat-square&logo=nodedotjs"/></div>
+<div><img src="https://progress-bar.dev/95/?title=Deployment&width=350&color=00f7f7&bg=12141a" /></div>
+</details>
+
+<details open>
+<summary><b>⚡ ［ .ak ］ PROPRIETARY WEB LANGUAGE</b></summary>
+<div><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=15&color=FD5C5C&width=500&height=25&lines=Native+architecture+for+next-gen+browsers."/></div>
+<div><img src="https://img.shields.io/badge/NATIVE_CODE-2B3137?style=flat-square&logo=linux"/> <img src="https://img.shields.io/badge/WEB_INNOVATION-0052CC?style=flat-square&logo=webassembly"/></div>
+<div><img src="https://progress-bar.dev/88/?title=Architecture&width=350&color=fd5c5c&bg=12141a" /></div>
+</details>
+
+<details>
+<summary><b>🌐 ［ Readgex ］ AUTONOMOUS BRWSR AGENT</b></summary>
+<div><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=15&color=4ECDC4&width=500&height=25&lines=AI-driven+semantic+search+and+navigation."/></div>
+<div><img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=typescript"/> <img src="https://img.shields.io/badge/AI_AGENT-000000?style=flat-square&logo=openai"/></div>
+<div><img src="https://progress-bar.dev/82/?title=Integration&width=350&color=4ecdc4&bg=12141a" /></div>
+</details>
+
+<details>
+<summary><b>🧠 ［ Bilbid ］ SEMANTIC KNOWLEDGE ENGINE</b></summary>
+<div><img src="https://img.shields.io/badge/NLP_SYSTEM-6C5CE7?style=flat-square&logo=python"/> <img src="https://img.shields.io/badge/KNOWLEDGE_GRAPH-FF9900?style=flat-square&logo=amazonaws"/></div>
+</details>
+
+<details>
+<summary><b>🎵 ［ IUKKA ］ QUANTUM MEDIA STREAMING</b></summary>
+<div><img src="https://img.shields.io/badge/WEBRTC-333333?style=flat-square&logo=webrtc"/> <img src="https://img.shields.io/badge/AUDIO_API-00F7F7?style=flat-square&logo=spotify"/></div>
+</details>
+
+<details>
+<summary><b>💼 ［ SHIYO ］ SOCIAL PORTFOLIO PROTOCOL</b></summary>
+<div><img src="https://img.shields.io/badge/NODE.JS-339933?style=flat-square&logo=nodedotjs"/> <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=react"/></div>
+</details>
+
+<details>
+<summary><b>🎨 ［ NYX ］ 3D VISUAL SHOWCASE ENV</b></summary>
+<div><img src="https://img.shields.io/badge/WEBGL-990000?style=flat-square&logo=webgl"/> <img src="https://img.shields.io/badge/3D_RENDERING-000000?style=flat-square&logo=threedotjs"/></div>
+</details>
+
+<details>
+<summary><b>🏢 ［ Akadaion ］ ENTERPRISE HQ DB</b></summary>
+<div><img src="https://img.shields.io/badge/NEXT.JS-000000?style=flat-square&logo=nextdotjs"/> <img src="https://img.shields.io/badge/ARCHITECTURE-555555?style=flat-square&logo=vercel"/></div>
+</details>
+
+✦ ━━━━━━━━━━━━━━━━━━━━━━━ 📊 ━━━━━━━━━━━━━━━━━━━━━━━ ✦
+
+<h2> ⌘ ANALYTICS & DIAGNOSTICS ⌘ </h2>
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJmZXQ5cTZzNGh0NzRydm5wdWNpbnMwNGc1bzI3aGRjdDNwOW4ycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" width="200"/>
+
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=iakadion&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0a0c10&title_color=00f7f7&text_color=ffffff&icon_color=ff0055" height="195"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iakadion&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0a0c10&title_color=00f7f7&text_color=ffffff&icon_color=00f7f7" height="195"/>
+</div>
+
+<div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iakadion&theme=tokyonight&hide_border=true&background=0a0c10&stroke=00f7f7&ring=00f7f7&fire=ff0055&currStreakLabel=00f7f7" />
+</div>
+
+<div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iakadion&theme=tokyo-night&hide_border=true&bg_color=0a0c10&color=00f7f7&line=00f7f7&point=ff0055" />
+</div>
+
+✦ ━━━━━━━━━━━━━━━━━━━━━━━ 🧬 ━━━━━━━━━━━━━━━━━━━━━━━ ✦
+
+<h2> ⌘ NEURAL WORKFLOW ⌘ </h2>
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#0a0c10', 'edgeLabelBackground':'#12141a', 'tertiaryColor': '#12141a', 'primaryBorderColor': '#00f7f7', 'lineColor': '#ff0055'}}}%%
+graph TD
+    A(("🔥 INSPIRATION")) --> B{"💡 CONCEPT"}
+    B -->|CODE| C["[ TERMINAL ]"]
+    B -->|AUDIO| D["[ STUDIO ]"]
+    B -->|VISUAL| E["[ CANVAS ]"]
+    C --> F{"🛠 SYNTHESIS"}
+    D --> F
+    E --> F
+    F -->|COMPILE| G(("✅ MASTERPIECE"))
+    G -.->|FEEDBACK LOOP| A
 ```
 
-<br>
-<b><i>"Create. Innovate. Inspire. Repeat. ∞"</i></b>
+```typescript
+// CORE ENGINE: INFINITE CREATION LOOP
+class GenhoEntity extends Creator implements MultiDimensional {
+  public energyLevel: number = Infinity;
+  public focus: string[] = ['Code', 'Audio', 'Visuals'];
+
+  async executeLifeCycle(): Promise<void> {
+    while (this.energyLevel > 0) {
+      const abstractIdea = await this.observeUniverse();
+      const mappedData = this.translateToVisions(abstractIdea);
+      
+      await Promise.all([
+        this.writeCode(mappedData),
+        this.produceBPM(mappedData),
+        this.renderPixels(mappedData)
+      ]);
+
+      await this.inspireCollective();
+      this.evolveVersion();
+    }
+  }
+}
+
+new GenhoEntity().executeLifeCycle();
+```
+
+✦ ━━━━━━━━━━━━━━━━━━━━━━━ 🐍 ━━━━━━━━━━━━━━━━━━━━━━━ ✦
+
+<h2> ⌘ COMMIT ACTIVITY GRID ⌘ </h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iakadion/iakadion/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iakadion/iakadion/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iakadion/iakadion/output/github-contribution-grid-snake-dark.svg" width="100%">
+</picture>
+
+✦ ━━━━━━━━━━━━━━━━━━━━━━━ 🏆 ━━━━━━━━━━━━━━━━━━━━━━━ ✦
+
+<h2> ⌘ UNLOCKED ACHIEVEMENTS ⌘ </h2>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=iakadion&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+</a>
+
+<div>
+<img src="https://profile-counter.glitch.me/iakadion/count.svg" />
+<img src="https://komarev.com/ghpvc/?username=iakadion&color=00f7f7&style=flat-square&label=PAGELOADS" />
 </div>
-<div align="center">
-<br>
-<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="30"/> <b><code>CONTRIBUTIONS</code></b> <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="30"/>
-<br><br>
-<img src="https://raw.githubusercontent.com/iakadion/iakadion/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-<div align="center">
-<br>
-<img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" width="30"/> <b><code>ACHIEVEMENTS</code></b> <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" width="30"/>
-<br><br>
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iakadion&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15"/></a>
-<br><br>
-<img src="https://profile-counter.glitch.me/iakadion/count.svg"/>
-<br>
-<a href="https://github.com/iakadion"><img src="https://komarev.com/ghpvc/?username=iakadion&color=00f7f7&style=for-the-badge&label=PROFILE+VIEWS"/></a>
-<br><br>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
-<br>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a1b3a,50:00f7f7,75:1a1b3a,100:0d1117&height=150&section=footer" width="100%"/>
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="800"/>
-<br>
-<b>⚡ Built with passion, powered by creativity ⚡</b>
-<br>
-<sub>© 2026 Genho Akadion — All dimensions reserved</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=120&section=footer" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=16&color=FFFFFF&center=true&width=400&height=30&lines=⚡+SYSTEM+ONLINE+⚡" />
+
 </div>
