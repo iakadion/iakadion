@@ -1,106 +1,67 @@
+
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- HEADER -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    CINEMATIC HEADER                         ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:00f7f7,50:6c5ce7,75:ff6b6b,100:0d1117&height=300&section=header&text=GENHO%20AKADION&fontSize=85&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=⟨%20Code%20⟩%20•%20⟨%20Music%20⟩%20•%20⟨%20Art%20⟩%20•%20⟨%20Innovation%20⟩&descAlignY=56&descSize=18&descColor=c9d1d9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,10:161B22,30:00F7F7,50:7C3AED,70:F43F5E,90:161B22,100:0D1117&height=320&section=header&text=GENHO%20AKADION&fontSize=82&fontColor=FFFFFF&animation=fadeIn&fontAlignY=30&desc=⟐%20%20Multi-Dimensional%20Creator%20%20⟐&descAlignY=52&descSize=20&descColor=8B949E&fontAlign=50" width="100%"/>
 
-<!-- TYPING ANIMATION -->
+<!-- TYPING -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=800&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%E2%9C%A6+Multi-Dimensional+Creator+%7C+Infinite+Builder+%E2%9C%A6;%F0%9F%8E%B5+Musician+%E2%94%82+%F0%9F%8E%AC+Filmmaker+%E2%94%82+%F0%9F%92%BB+Developer+%E2%94%82+%F0%9F%8E%A8+Designer;%F0%9F%9A%80+Inventing+the+Future%2C+One+Pixel+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1200&color=00F7F7&center=true&vCenter=true&repeat=true&width=750&height=45&lines=%E2%97%86+Code+%C2%B7+Music+%C2%B7+Film+%C2%B7+Design+%C2%B7+Innovation+%E2%97%86;%E2%97%87+Building+the+future+one+pixel+at+a+time+%E2%97%87;%E2%97%86+Musician+%E2%94%82+Developer+%E2%94%82+Filmmaker+%E2%94%82+Visionary+%E2%97%86" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<!-- LOCATION & STATUS -->
-<img src="https://img.shields.io/badge/📍_Broadcasting_from-Brazil_🇧🇷-00f7f7?style=for-the-badge&labelColor=0d1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/🟢_Status-Building_Something_Epic-6c5ce7?style=for-the-badge&labelColor=0d1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/☕_Fuel-Infinite_Coffee-ff6b6b?style=for-the-badge&labelColor=0d1117"/>
-
 <br/><br/>
 
-<!-- ANIMATED DIVIDER -->
+<!-- STATUS BADGES -->
+<img src="https://img.shields.io/badge/%F0%9F%93%8D%20Brazil-00F7F7?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/%E2%80%8B-0D1117?style=flat-square"/>
+<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Building-7C3AED?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/%E2%80%8B-0D1117?style=flat-square"/>
+<img src="https://img.shields.io/badge/%E2%98%95%20Infinite%20Coffee-F43F5E?style=flat-square&labelColor=0D1117"/>
+
+<br/>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ABOUT ME SECTION -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <br/>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0d1117?style=flat" />
-  <h2>
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"/>
-    &nbsp; THE ARCHITECT &nbsp;
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"/>
-  </h2>
-  <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0d1117?style=flat" />
-</div>
-
-<br/>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                      THE ARCHITECT                          ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" style="border-radius: 15px;"/>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350"/>
 
 <br/><br/>
 
-```yaml
-name: "Genho Akadion"
-title: "Multi-Dimensional Creator"
-location: "Brazil 🇧🇷"
-current_mission: "Building the Future"
-
-philosophy:
-  - "Create what doesn't exist"
-  - "Break barriers between disciplines"
-  - "Art is Technology, Technology is Art"
+```
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│     I don't choose between code and music —                  │
+│     I compose symphonies in both.                            │
+│                                                              │
+│     I am a multi-dimensional creator navigating              │
+│     the intersection of Code, Music, and Visual Arts.        │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
 ```
 
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 🌌 **Dimensions I Operate In**
-
-</div>
-
 <br/>
 
-| Dimension | Role | Mastery |
-|:-:|:-:|:-:|
-| 🎵 **Sound** | Musician · Producer · Engineer | `████████████░░` 85% |
-| 💻 **Code** | Full-Stack Dev · Tool Builder | `██████████████░` 93% |
-| 🎬 **Visual** | Filmmaker · Designer · VFX | `███████████░░░░` 78% |
-| ✍️ **Words** | Writer · Lyricist · Storyteller | `████████████░░░` 82% |
-| 🎮 **Gaming** | Game Dev · World Builder | `██████████░░░░░` 70% |
-| 🚀 **Innovation** | Inventor · Architect · Visionary | `█████████████░░` 90% |
-
+<img src="https://img.shields.io/badge/🎵_Musician_·_Producer_·_Engineer-0D1117?style=for-the-badge&labelColor=0D1117"/>
 <br/>
-
-<div align="center">
-
-> *"I don't choose between code and music —*
-> *I compose symphonies in both."*
+<img src="https://img.shields.io/badge/💻_Programmer_·_Full--Stack_·_Tool_Builder-0D1117?style=for-the-badge&labelColor=0D1117"/>
+<br/>
+<img src="https://img.shields.io/badge/🎬_Filmmaker_·_Writer_·_Visual_Artist-0D1117?style=for-the-badge&labelColor=0D1117"/>
+<br/>
+<img src="https://img.shields.io/badge/🚀_Inventor_·_Architect_·_Visionary-0D1117?style=for-the-badge&labelColor=0D1117"/>
 
 </div>
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -108,86 +69,88 @@ philosophy:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- CONNECT SECTION -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <br/>
 
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"/>
-    &nbsp; FREQUENCY CHANNELS &nbsp;
-    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"/>
-  </h2>
-</div>
-
-<br/>
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                  FREQUENCY CHANNELS                         ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<!-- 🎵 SOUND & FREQUENCY -->
-<details open>
-<summary><b>&nbsp;🎵 SOUND & FREQUENCY&nbsp;</b></summary>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=4000&pause=3000&color=7C3AED&center=true&vCenter=true&repeat=false&width=500&height=50&lines=%E2%9C%A6+FREQUENCY+CHANNELS+%E2%9C%A6" />
+
+<br/><br/>
+
+<!-- ─── 🎵 SOUND ─── -->
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=4000&pause=3000&color=00F7F7&center=true&vCenter=true&repeat=false&width=250&height=25&lines=%E2%94%80%E2%94%80%E2%94%80+%F0%9F%8E%B5+SOUND+%26+FREQUENCY+%E2%94%80%E2%94%80%E2%94%80" />
+
 <br/>
+
 <a href="https://soundcloud.com/iakadion"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white"/></a>
 <a href="https://open.spotify.com/user/31w3syplutlik764wir6lrl4zlum"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/></a>
 <a href="https://beatstars.com/akadion"><img src="https://img.shields.io/badge/BeatStars-E8115B?style=for-the-badge&logo=beatport&logoColor=white"/></a>
 <a href="https://soundverse.com/akadion"><img src="https://img.shields.io/badge/Soundverse-8B5CF6?style=for-the-badge&logo=audiomack&logoColor=white"/></a>
-<a href="https://suno.com/akadion"><img src="https://img.shields.io/badge/Suno_AI-00D4FF?style=for-the-badge&logo=waveform&logoColor=white"/></a>
+<a href="https://suno.com/akadion"><img src="https://img.shields.io/badge/Suno-00D4FF?style=for-the-badge&logo=apple-music&logoColor=white"/></a>
 <a href="https://genius.com/akadion"><img src="https://img.shields.io/badge/Genius-FFFF64?style=for-the-badge&logo=genius&logoColor=black"/></a>
-<br/><br/>
-</details>
 
-<!-- 📱 SOCIAL & MEDIA -->
-<details open>
-<summary><b>&nbsp;📱 SOCIAL & MEDIA&nbsp;</b></summary>
+<br/><br/>
+
+<!-- ─── 📱 SOCIAL ─── -->
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=4000&pause=3000&color=F43F5E&center=true&vCenter=true&repeat=false&width=250&height=25&lines=%E2%94%80%E2%94%80%E2%94%80+%F0%9F%93%B1+SOCIAL+%26+MEDIA+%E2%94%80%E2%94%80%E2%94%80" />
+
 <br/>
+
 <a href="https://instagram.com/iakadion"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://youtube.com/@iakadion"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-<a href="https://twitter.com/iakadion"><img src="https://img.shields.io/badge/𝕏_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://twitter.com/iakadion"><img src="https://img.shields.io/badge/𝕏-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 <a href="https://twitch.tv/iakadion"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
 <a href="https://m.facebook.com/profile.php?id=100075107335354"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="https://threads.net/@iakadion"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/></a>
 <a href="https://bsky.app/profile/akadion"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white"/></a>
 <a href="https://reddit.com/u/iakadion"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
-<br/><br/>
-</details>
 
-<!-- 💻 CODE & DEV -->
-<details open>
-<summary><b>&nbsp;💻 CODE & DEV&nbsp;</b></summary>
+<br/><br/>
+
+<!-- ─── 💻 CODE ─── -->
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=4000&pause=3000&color=00F7F7&center=true&vCenter=true&repeat=false&width=250&height=25&lines=%E2%94%80%E2%94%80%E2%94%80+%F0%9F%92%BB+CODE+%26+DEV+%E2%94%80%E2%94%80%E2%94%80" />
+
 <br/>
+
 <a href="https://github.com/iakadion"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://gitlab.com/akadion"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
 <a href="https://codepen.io/akadion"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
 <a href="https://stackoverflow.com/users/akadion"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
 <a href="https://replit.com/@akadion"><img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white"/></a>
-<a href="https://hub.docker.com/u/akadion"><img src="https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
-<br/><br/>
-</details>
+<a href="https://hub.docker.com/u/akadion"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
 
-<!-- 🎨 CREATIVE STUDIO -->
-<details open>
-<summary><b>&nbsp;🎨 CREATIVE STUDIO&nbsp;</b></summary>
+<br/><br/>
+
+<!-- ─── 🎨 CREATIVE ─── -->
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=4000&pause=3000&color=7C3AED&center=true&vCenter=true&repeat=false&width=250&height=25&lines=%E2%94%80%E2%94%80%E2%94%80+%F0%9F%8E%A8+CREATIVE+STUDIO+%E2%94%80%E2%94%80%E2%94%80" />
+
 <br/>
+
 <a href="https://behance.net/akadion"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/></a>
 <a href="https://dribbble.com/akadion"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/></a>
 <a href="https://figma.com/@akadion"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
 <a href="https://medium.com/@akadion"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
 <a href="https://wordpress.com/iakadion"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
-<br/><br/>
-</details>
 
-<!-- 🚀 SUPPORT & CONTACT -->
-<details open>
-<summary><b>&nbsp;🚀 SUPPORT & CONTACT&nbsp;</b></summary>
+<br/><br/>
+
+<!-- ─── 🚀 SUPPORT ─── -->
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=4000&pause=3000&color=F43F5E&center=true&vCenter=true&repeat=false&width=280&height=25&lines=%E2%94%80%E2%94%80%E2%94%80+%F0%9F%9A%80+SUPPORT+%26+CONTACT+%E2%94%80%E2%94%80%E2%94%80" />
+
 <br/>
+
 <a href="https://producthunt.com/@akadion"><img src="https://img.shields.io/badge/Product_Hunt-DA552F?style=for-the-badge&logo=producthunt&logoColor=white"/></a>
 <a href="https://patreon.com/akadion"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"/></a>
 <a href="mailto:ogenhoanimation01@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<br/><br/>
-</details>
 
 </div>
 
@@ -197,57 +160,67 @@ philosophy:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- TECH ARSENAL -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <br/>
 
-<div align="center">
-  <h2>
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"/>
-    &nbsp; TECH ARSENAL &nbsp;
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"/>
-  </h2>
-</div>
-
-<br/>
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                     TECH ARSENAL                             ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<!-- LANGUAGES -->
-<h4>⚡ Languages & Core</h4>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=4000&pause=3000&color=00F7F7&center=true&vCenter=true&repeat=false&width=400&height=50&lines=%E2%9C%A6+TECH+ARSENAL+%E2%9C%A6" />
+
+<br/>
+
+<img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="80"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=12&duration=4000&pause=3000&color=8B949E&center=true&vCenter=true&repeat=false&width=200&height=20&lines=%E2%96%B8+Languages+%26+Core" />
+
+<br/>
+
 <img src="https://skillicons.dev/icons?i=javascript,typescript,python,cpp,rust,go,lua,bash&theme=dark&perline=8" />
 
 <br/><br/>
 
-<!-- FRONTEND -->
-<h4>🎨 Frontend & UI</h4>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=12&duration=4000&pause=3000&color=8B949E&center=true&vCenter=true&repeat=false&width=200&height=20&lines=%E2%96%B8+Frontend+%26+UI" />
+
+<br/>
+
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,html,css,sass,tailwind,bootstrap&theme=dark&perline=9" />
 
 <br/><br/>
 
-<!-- BACKEND & DATA -->
-<h4>⚙️ Backend & Data</h4>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=12&duration=4000&pause=3000&color=8B949E&center=true&vCenter=true&repeat=false&width=200&height=20&lines=%E2%96%B8+Backend+%26+Data" />
+
+<br/>
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,mongodb,postgres,redis,firebase,supabase&theme=dark&perline=8" />
 
 <br/><br/>
 
-<!-- DEVOPS & TOOLS -->
-<h4>🛠️ DevOps & Tools</h4>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=12&duration=4000&pause=3000&color=8B949E&center=true&vCenter=true&repeat=false&width=200&height=20&lines=%E2%96%B8+DevOps+%26+Tools" />
+
+<br/>
+
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,aws,vercel,netlify,linux&theme=dark&perline=8" />
 
 <br/><br/>
 
-<!-- CREATIVE & 3D -->
-<h4>🎬 Creative & Design</h4>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=12&duration=4000&pause=3000&color=8B949E&center=true&vCenter=true&repeat=false&width=200&height=20&lines=%E2%96%B8+Creative+%26+3D" />
+
+<br/>
+
 <img src="https://skillicons.dev/icons?i=figma,blender,ae,pr,ps,ai,threejs,webgl&theme=dark&perline=8" />
 
 <br/><br/>
 
-<!-- BUILD TOOLS -->
-<h4>📦 Build & Runtime</h4>
-<img src="https://skillicons.dev/icons?i=vite,webpack,bun,deno,pnpm,npm,yarn,cmake&theme=dark&perline=8" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=12&duration=4000&pause=3000&color=8B949E&center=true&vCenter=true&repeat=false&width=200&height=20&lines=%E2%96%B8+Build+%26+Runtime" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=vite,webpack,bun,deno,pnpm,npm,cmake,wasm&theme=dark&perline=8" />
 
 </div>
 
@@ -257,189 +230,139 @@ philosophy:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- LEGENDARY PROJECTS -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<br/>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                   LEGENDARY PROJECTS                        ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=4000&pause=3000&color=F43F5E&center=true&vCenter=true&repeat=false&width=500&height=50&lines=%E2%9C%A6+LEGENDARY+PROJECTS+%E2%9C%A6" />
 
 <br/>
 
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"/>
-    &nbsp; LEGENDARY PROJECTS &nbsp;
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"/>
-  </h2>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="80"/>
 
-  <br/>
+<br/><br/>
 
-  <i>"Each project is a universe I architect from zero."</i>
+<i>「 Each project is a universe I architect from zero 」</i>
+
 </div>
 
 <br/>
 
-<!-- ROW 1 -->
-<table align="center">
-<tr>
+<!-- ─── PROJECT 01 ─── -->
 
-<td width="50%">
 <div align="center">
-<h3>🔥 Akia.js</h3>
-<sub><b>Universal Renderer Engine</b></sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/Status-95%25-00f7f7?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Type-Engine-6c5ce7?style=flat-square&labelColor=0d1117"/>
-<br/><br/>
 
-```
- Singleton renderer transpiling 7+
- languages with Native Innovation.
-```
+<img src="https://img.shields.io/badge/%20%F0%9F%94%A5%20AKIA.JS%20%E2%94%80%20Universal%20Renderer%20Engine%20-0D1117?style=for-the-badge&labelColor=0D1117"/>
 
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-95%25-00F7F7?style=flat-square&labelColor=161B22"/>
+<img src="https://img.shields.io/badge/TYPE-Engine-7C3AED?style=flat-square&labelColor=161B22"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/ESNext-000000?style=flat-square&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Transpiler-00f7f7?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Compiler-ff6b6b?style=flat-square&logoColor=white"/>
-<br/>
-<sub>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ 95%</sub>
+<img src="https://img.shields.io/badge/ESNext-000000?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Transpiler-00F7F7?style=flat-square&labelColor=161B22"/>
+<img src="https://img.shields.io/badge/Compiler-F43F5E?style=flat-square&labelColor=161B22"/>
+
+*Singleton renderer transpiling 7+ languages with Native Innovation.*
+
+`▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░` **95%**
+
 </div>
-</td>
 
-<td width="50%">
-<div align="center">
-<h3>⚡ .ak Language</h3>
-<sub><b>Proprietary Web Language</b></sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/Status-88%25-ff6b6b?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Type-Language-ff6b6b?style=flat-square&labelColor=0d1117"/>
-<br/><br/>
-
-```
- The future of web development.
- Native compiler for modern revolution.
-```
-
-<img src="https://img.shields.io/badge/Compiler_Design-6c5ce7?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Native_Language-00f7f7?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Web_Innovation-ff6b6b?style=flat-square&logoColor=white"/>
 <br/>
-<sub>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ 88%</sub>
-</div>
-</td>
 
-</tr>
-</table>
+<!-- ─── PROJECT 02 ─── -->
 
-<!-- ROW 2 -->
-<table align="center">
-<tr>
-
-<td width="50%">
 <div align="center">
-<h3>🌐 Readgex</h3>
-<sub><b>Intelligent AI Browser</b></sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/Status-82%25-4ecdc4?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Type-AI_Browser-4ecdc4?style=flat-square&labelColor=0d1117"/>
-<br/><br/>
 
-```
- Smart Autonomous Agent Browser
- with AI Integration.
-```
+<img src="https://img.shields.io/badge/%20%E2%9A%A1%20.AK%20LANGUAGE%20%E2%94%80%20Proprietary%20Web%20Language%20-0D1117?style=for-the-badge&labelColor=0D1117"/>
 
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-88%25-F43F5E?style=flat-square&labelColor=161B22"/>
+<img src="https://img.shields.io/badge/TYPE-Language-7C3AED?style=flat-square&labelColor=161B22"/>
+<img src="https://img.shields.io/badge/Compiler_Design-7C3AED?style=flat-square&labelColor=161B22"/>
+<img src="https://img.shields.io/badge/Native_Lang-00F7F7?style=flat-square&labelColor=161B22"/>
+<img src="https://img.shields.io/badge/Web_Innovation-F43F5E?style=flat-square&labelColor=161B22"/>
+
+*The future of web development. Native compiler for modern revolution.*
+
+`▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░` **88%**
+
+</div>
+
+<br/>
+
+<!-- ─── PROJECT 03 ─── -->
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/%20%F0%9F%8C%90%20READGEX%20%E2%94%80%20Intelligent%20AI%20Browser%20-0D1117?style=for-the-badge&labelColor=0D1117"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-82%25-4ECDC4?style=flat-square&labelColor=161B22"/>
+<img src="https://img.shields.io/badge/TYPE-AI_Browser-7C3AED?style=flat-square&labelColor=161B22"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI-ff6b6b?style=flat-square&logoColor=white"/>
-<br/>
-<sub>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ 82%</sub>
-</div>
-</td>
+<img src="https://img.shields.io/badge/AI-F43F5E?style=flat-square&labelColor=161B22"/>
 
-<td width="50%">
+*Smart Autonomous Agent Browser Integration.*
+
+`▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░` **82%**
+
+</div>
+
+<br/>
+
+<!-- ─── PROJECT 04 ─── -->
+
 <div align="center">
-<h3>🧠 Bilbid</h3>
-<sub><b>Semantic Knowledge Engine</b></sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/Status-87%25-6c5ce7?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Type-AI_Engine-6c5ce7?style=flat-square&labelColor=0d1117"/>
-<br/><br/>
 
-```
- Semantic knowledge graph with
- NLP-powered intelligence.
-```
+<img src="https://img.shields.io/badge/%20%F0%9F%A7%A0%20BILBID%20%E2%94%80%20Semantic%20Knowledge%20Engine%20-0D1117?style=for-the-badge&labelColor=0D1117"/>
 
-<img src="https://img.shields.io/badge/AI-6c5ce7?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLP-00f7f7?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Knowledge_Graph-ff6b6b?style=flat-square&logoColor=white"/>
 <br/>
-<sub>▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ 87%</sub>
+
+<img src="https://img.shields.io/badge/STATUS-87%25-7C3AED?style=flat-square&labelColor=161B22"/>
+<img src="https://img.shields.io/badge/TYPE-AI_Engine-7C3AED?style=flat-square&labelColor=161B22"/>
+<img src="https://img.shields.io/badge/NLP-00F7F7?style=flat-square&labelColor=161B22"/>
+<img src="https://img.shields.io/badge/Knowledge_Graph-F43F5E?style=flat-square&labelColor=161B22"/>
+
+*Semantic knowledge graph with NLP-powered intelligence.*
+
+`▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░` **87%**
+
 </div>
-</td>
-
-</tr>
-</table>
 
 <br/>
 
-<!-- MORE PROJECTS - COMPACT GRID -->
+<!-- ─── MORE PROJECTS ─── -->
+
 <div align="center">
-<h4>🗂️ More From the Lab</h4>
-</div>
 
-<table align="center">
-<tr>
-<td align="center" width="16.6%">
-<br/>
-<b>🎵 IUKKA</b><br/>
-<sub>Quantum Streaming<br/>Player</sub><br/><br/>
-<img src="https://img.shields.io/badge/-WebRTC-00f7f7?style=flat-square&logoColor=white"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=12&duration=4000&pause=3000&color=8B949E&center=true&vCenter=true&repeat=false&width=250&height=20&lines=%E2%96%B8+More+from+the+Lab" />
+
 <br/><br/>
-</td>
-<td align="center" width="16.6%">
+
+<img src="https://img.shields.io/badge/🎵_IUKKA-Quantum_Streaming_Player-00F7F7?style=flat-square&labelColor=161B22"/>
 <br/>
-<b>💼 SHIYO</b><br/>
-<sub>Social Portfolio<br/>Platform</sub><br/><br/>
-<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<br/><br/>
-</td>
-<td align="center" width="16.6%">
+<img src="https://img.shields.io/badge/💼_SHIYO-Social_Portfolio_Platform-7C3AED?style=flat-square&labelColor=161B22"/>
 <br/>
-<b>🎨 NYX</b><br/>
-<sub>Creative Portfolio<br/>Showcase</sub><br/><br/>
-<img src="https://img.shields.io/badge/-WebGL-990000?style=flat-square&logoColor=white"/>
-<br/><br/>
-</td>
-<td align="center" width="16.6%">
+<img src="https://img.shields.io/badge/🎨_NYX-Creative_Portfolio_Showcase-F43F5E?style=flat-square&labelColor=161B22"/>
 <br/>
-<b>🏢 AKADAION</b><br/>
-<sub>Institutional<br/>HQ</sub><br/><br/>
-<img src="https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js"/>
-<br/><br/>
-</td>
-<td align="center" width="16.6%">
+<img src="https://img.shields.io/badge/🏢_AKADAION-Institutional_HQ-00F7F7?style=flat-square&labelColor=161B22"/>
 <br/>
-<b>📊 AKASH</b><br/>
-<sub>Universal<br/>Dashboard</sub><br/><br/>
-<img src="https://img.shields.io/badge/-Admin-6c5ce7?style=flat-square&logoColor=white"/>
-<br/><br/>
-</td>
-<td align="center" width="16.6%">
+<img src="https://img.shields.io/badge/📊_AKASH-Universal_Dashboard-7C3AED?style=flat-square&labelColor=161B22"/>
 <br/>
-<b>✨ FILLSHY</b><br/>
-<sub>AI Content<br/>Generator</sub><br/><br/>
-<img src="https://img.shields.io/badge/-AI-ff6b6b?style=flat-square&logoColor=white"/>
-<br/><br/>
-</td>
-</tr>
-<tr>
-<td align="center" colspan="6">
+<img src="https://img.shields.io/badge/✨_FILLSHY-AI_Content_Generator-F43F5E?style=flat-square&labelColor=161B22"/>
 <br/>
-<b>🎯 OWNI</b> — Component & Animated Icon Library &nbsp;&nbsp;|&nbsp;&nbsp; <i>...and many more in the forge</i>
-<br/><br/>
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/🎯_OWNI-Component_&_Icon_Library-00F7F7?style=flat-square&labelColor=161B22"/>
+
+</div>
 
 <br/>
 
@@ -447,45 +370,42 @@ philosophy:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- GITHUB STATS -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <br/>
 
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"/>
-    &nbsp; PERFORMANCE METRICS &nbsp;
-    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"/>
-  </h2>
-</div>
-
-<br/>
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                   PERFORMANCE METRICS                       ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<!-- STATS ROW 1 -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=4000&pause=3000&color=7C3AED&center=true&vCenter=true&repeat=false&width=500&height=50&lines=%E2%9C%A6+PERFORMANCE+METRICS+%E2%9C%A6" />
+
+<br/>
+
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="60"/>
+
+<br/><br/>
+
 <a href="https://github.com/iakadion">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iakadion&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117&title_color=00f7f7&text_color=c9d1d9&icon_color=6c5ce7&ring_color=00f7f7"/>
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=iakadion&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1117&title_color=00F7F7&text_color=C9D1D9&icon_color=7C3AED&ring_color=00F7F7"/>
 </a>
-&nbsp;&nbsp;
+
+<br/>
+
 <a href="https://github.com/iakadion">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iakadion&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00f7f7&text_color=c9d1d9&icon_color=6c5ce7&langs_count=8"/>
+  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iakadion&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=00F7F7&text_color=C9D1D9&langs_count=10"/>
 </a>
 
 <br/><br/>
 
-<!-- STREAK -->
 <a href="https://github.com/iakadion">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iakadion&theme=radical&hide_border=true&background=0d1117&stroke=00f7f730&ring=00f7f7&fire=ff6b6b&currStreakNum=ffffff&sideNums=00f7f7&currStreakLabel=00f7f7&sideLabels=6c5ce7&dates=c9d1d9"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iakadion&hide_border=true&background=0D1117&stroke=161B2200&ring=00F7F7&fire=F43F5E&currStreakNum=FFFFFF&sideNums=00F7F7&currStreakLabel=00F7F7&sideLabels=7C3AED&dates=8B949E"/>
 </a>
 
 <br/><br/>
 
-<!-- ACTIVITY GRAPH -->
 <a href="https://github.com/iakadion">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iakadion&theme=react-dark&hide_border=true&bg_color=0d1117&color=00f7f7&line=6c5ce7&point=ff6b6b&area=true&area_color=00f7f730" width="98%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iakadion&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7F7&line=7C3AED&point=F43F5E&area=true&area_color=7C3AED30" width="98%"/>
 </a>
 
 </div>
@@ -496,61 +416,52 @@ philosophy:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- WORKFLOW & PHILOSOPHY -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <br/>
 
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35"/>
-    &nbsp; WORKFLOW & PHILOSOPHY &nbsp;
-    <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35"/>
-  </h2>
-</div>
-
-<br/>
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                  WORKFLOW & PHILOSOPHY                       ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=4000&pause=3000&color=00F7F7&center=true&vCenter=true&repeat=false&width=500&height=50&lines=%E2%9C%A6+PHILOSOPHY+%E2%9C%A6" />
+
+<br/><br/>
 
 ```mermaid
-%%{init: {'theme':'dark', 'themeVariables': {'primaryColor': '#00f7f7', 'primaryTextColor': '#fff', 'primaryBorderColor': '#6c5ce7', 'lineColor': '#ff6b6b', 'secondaryColor': '#0d1117', 'tertiaryColor': '#161b22'}}}%%
+%%{init: {'theme':'dark', 'themeVariables': {'primaryColor': '#00f7f7', 'primaryTextColor': '#fff', 'primaryBorderColor': '#7C3AED', 'lineColor': '#F43F5E', 'secondaryColor': '#0D1117', 'tertiaryColor': '#161B22'}}}%%
 graph LR
-    A["💡 Inspiration"] -->|"Spark"| B("🔨 Creation")
-    B -->|"Code / Music / Art"| C{"🧪 Innovation"}
-    C -->|"Refine"| D["✨ Masterpiece"]
-    C -->|"Iterate"| A
-    D -->|"Share"| E["🌍 Impact"]
-    E -->|"Feedback"| A
+    A["💡 Spark"] -->|imagine| B("🔨 Build")
+    B -->|iterate| C{"🧪 Test"}
+    C -->|refine| D["✨ Ship"]
+    C -->|pivot| A
+    D -->|impact| E["🌍 World"]
+    E -->|learn| A
 
-    style A fill:#6c5ce7,stroke:#6c5ce7,stroke-width:2px,color:#fff
-    style B fill:#00f7f7,stroke:#00f7f7,stroke-width:2px,color:#000
-    style C fill:#ff6b6b,stroke:#ff6b6b,stroke-width:2px,color:#fff
-    style D fill:#ffd93d,stroke:#ffd93d,stroke-width:2px,color:#000
-    style E fill:#6c5ce7,stroke:#6c5ce7,stroke-width:2px,color:#fff
+    style A fill:#7C3AED,stroke:#7C3AED,color:#fff
+    style B fill:#00F7F7,stroke:#00F7F7,color:#000
+    style C fill:#F43F5E,stroke:#F43F5E,color:#fff
+    style D fill:#FFD93D,stroke:#FFD93D,color:#000
+    style E fill:#7C3AED,stroke:#7C3AED,color:#fff
 ```
 
 <br/>
 
 ```typescript
-// ─── The Infinite Loop of Creation ───────────────────────
+// ◆ genho.akadion.ts ◆
 
-class GenhoAkadion implements Creator, Musician, Developer, Artist {
-  
-  readonly name    = "Genho Akadion";
+class GenhoAkadion implements Creator, Musician, Developer {
+
   readonly mission = "Build what doesn't exist yet";
   readonly fuel    = Infinity;
 
-  async live(): Promise<void> {
-    while (this.isAlive()) {
-      const idea    = await this.imagine();
-      const project = await this.build(idea);
-      const art     = await this.polish(project);
-      
-      await this.shareWithWorld(art);
-      await this.learnFromFeedback();
-      // The loop never breaks ♾️
+  async live(): Promise<never> {
+    while (true) {
+      const spark   = await this.imagine();
+      const craft   = await this.build(spark);
+      const refined = await this.polish(craft);
+      await this.ship(refined);
+      // ♾️ the loop never breaks
     }
   }
 }
@@ -560,7 +471,7 @@ new GenhoAkadion().live();
 
 <br/>
 
-### ✦ *"Create. Innovate. Inspire. Repeat."* ✦
+### ◆ *"Create. Innovate. Inspire. Repeat."* ◆
 
 </div>
 
@@ -570,18 +481,20 @@ new GenhoAkadion().live();
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- CONTRIBUTIONS SNAKE -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <br/>
 
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    CONTRIBUTION SNAKE                        ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
 <div align="center">
-  <h2>
-    🐍 &nbsp; CONTRIBUTION SNAKE &nbsp; 🐍
-  </h2>
-  <br/>
-  <img src="https://raw.githubusercontent.com/iakadion/iakadion/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=4000&pause=3000&color=F43F5E&center=true&vCenter=true&repeat=false&width=500&height=50&lines=%F0%9F%90%8D+CONTRIBUTION+SNAKE+%F0%9F%90%8D" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/iakadion/iakadion/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake"/>
+
 </div>
 
 <br/>
@@ -590,55 +503,58 @@ new GenhoAkadion().live();
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ACHIEVEMENTS & FOOTER -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <br/>
 
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                      TROPHY CASE                            ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
 <div align="center">
-  <h2>🏆 &nbsp; TROPHY CASE &nbsp; 🏆</h2>
-  <br/>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=iakadion&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="98%"/>
-  </a>
-</div>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=4000&pause=3000&color=FFD93D&center=true&vCenter=true&repeat=false&width=400&height=50&lines=%F0%9F%8F%86+TROPHY+CASE+%F0%9F%8F%86" />
 
 <br/><br/>
 
-<!-- METRICS BAR -->
-<div align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=00f7f7&labelColor=0d1117&label=🔭%20Repos&query=$.public_repos&url=https://api.github.com/users/iakadion&style=for-the-badge"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/dynamic/json?color=6c5ce7&labelColor=0d1117&label=👥%20Followers&query=$.followers&url=https://api.github.com/users/iakadion&style=for-the-badge"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/dynamic/json?color=ff6b6b&labelColor=0d1117&label=⭐%20Following&query=$.following&url=https://api.github.com/users/iakadion&style=for-the-badge"/>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=iakadion&color=00f7f7&style=for-the-badge&label=👁️+PROFILE+VIEWS"/>
-</div>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=iakadion&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=12&margin-h=12" width="96%"/>
+</a>
 
 <br/><br/>
 
-<!-- SPOTIFY NOW PLAYING (optional) -->
-<div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31w3syplutlik764wir6lrl4zlum&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=00f7f7&bar_color_cover=true" width="400"/>
+<!-- LIVE COUNTERS -->
+
+<img src="https://img.shields.io/badge/dynamic/json?color=00F7F7&labelColor=0D1117&label=%F0%9F%94%AD%20Repos&query=$.public_repos&url=https://api.github.com/users/iakadion&style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?color=7C3AED&labelColor=0D1117&label=%F0%9F%91%A5%20Followers&query=$.followers&url=https://api.github.com/users/iakadion&style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?color=F43F5E&labelColor=0D1117&label=%E2%AD%90%20Following&query=$.following&url=https://api.github.com/users/iakadion&style=for-the-badge"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=iakadion&color=00F7F7&style=for-the-badge&label=%F0%9F%91%81%EF%B8%8F+VIEWS"/>
+
+<br/><br/>
+
+<!-- SPOTIFY -->
+
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31w3syplutlik764wir6lrl4zlum&cover_image=true&theme=novatorem&show_offline=true&background_color=0D1117&interchange=true&bar_color=00F7F7&bar_color_cover=true" width="420"/>
+
 </div>
 
 <br/>
 
-<!-- FOOTER WAVE -->
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                        FOOTER                               ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:00f7f7,50:6c5ce7,75:ff6b6b,100:0d1117&height=150&section=footer&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,10:161B22,30:00F7F7,50:7C3AED,70:F43F5E,90:161B22,100:0D1117&height=160&section=footer&fontSize=0" width="100%"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/⚡_Built_with_passion,_powered_by_creativity_⚡-0d1117?style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=4000&pause=3000&color=8B949E&center=true&vCenter=true&repeat=false&width=500&height=25&lines=%E2%9A%A1+Built+with+passion%2C+powered+by+creativity+%E2%9A%A1" />
 
 <br/>
 
-<sub>
-  <b>© 2026 Genho Akadion</b> — <i>All dimensions reserved.</i>
-</sub>
+<sub><b>© 2025 Genho Akadion</b> — <i>All dimensions reserved.</i></sub>
 
 </div>
