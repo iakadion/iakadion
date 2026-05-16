@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320">
+  <defs>
+    <radialGradient id="bgGlow" cx="50%" cy="40%" r="60%" fx="50%" fy="40%">
+      <stop offset="0%" stop-color="#8534F3" stop-opacity="0.25"/>
+      <stop offset="30%" stop-color="#8534F3" stop-opacity="0.08"/>
+      <stop offset="70%" stop-color="#00E5FF" stop-opacity="0.03"/>
+      <stop offset="100%" stop-color="#04040A" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="cyanGlow" cx="80%" cy="80%" r="50%">
+      <stop offset="0%" stop-color="#00E5FF" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#00E5FF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="baseLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#04040A" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#8534F3" stop-opacity="0.6"/>
+      <stop offset="50%" stop-color="#00E5FF" stop-opacity="0.8"/>
+      <stop offset="80%" stop-color="#8534F3" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#04040A" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="textGradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#E6E6E6"/>
+      <stop offset="50%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#8534F3" stop-opacity="0.9"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" fill="#04040A"/>
+
+  <rect width="1200" height="320" fill="url(#bgGlow)"/>
+  <rect width="1200" height="320" fill="url(#cyanGlow)"/>
+
+  <circle cx="100" cy="60" r="40" fill="none" stroke="#8534F3" stroke-width="1" stroke-opacity="0.15">
+    <animate attributeName="r" values="30;42;30" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-opacity" values="0.1;0.25;0.1" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="100" cy="60" r="20" fill="none" stroke="#00E5FF" stroke-width="0.5" stroke-opacity="0.2">
+    <animate attributeName="r" values="15;25;15" dur="6s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="1100" cy="260" r="50" fill="none" stroke="#00E5FF" stroke-width="1" stroke-opacity="0.12">
+    <animate attributeName="r" values="40;55;40" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-opacity" values="0.08;0.2;0.08" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1100" cy="260" r="25" fill="none" stroke="#8534F3" stroke-width="0.5" stroke-opacity="0.15">
+    <animate attributeName="r" values="20;30;20" dur="8s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="1150" cy="50" r="15" fill="none" stroke="#FE4C25" stroke-width="0.5" stroke-opacity="0.15">
+    <animate attributeName="r" values="10;18;10" dur="5s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="60" cy="280" r="8" fill="#8534F3" opacity="0.15">
+    <animate attributeName="opacity" values="0.1;0.3;0.1" dur="4s" repeatCount="indefinite"/>
+  </circle>
+
+  <g filter="url(#glow)">
+    <text x="600" y="148" text-anchor="middle" font-family="'Space Grotesk', 'Segoe UI', Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="4" fill="url(#textGradient)">
+      GENHO AKADION
+    </text>
+  </g>
+
+  <text x="600" y="192" text-anchor="middle" font-family="'Space Grotesk', 'Segoe UI', Arial, sans-serif" font-size="16" font-weight="300" letter-spacing="8" fill="#6E7681">
+    ✦ MULTIDIMENSIONAL CREATOR ✦
+  </text>
+
+  <line x1="0" y1="300" x2="1200" y2="300" stroke="url(#baseLine)" stroke-width="2"/>
+  <line x1="0" y1="312" x2="1200" y2="312" stroke="url(#baseLine)" stroke-width="1" stroke-opacity="0.4"/>
+
+  <g transform="translate(1100, 80)" opacity="0.5">
+    <polygon points="0,-25 15,0 0,25 -15,0" fill="none" stroke="#00E5FF" stroke-width="1.5" stroke-opacity="0.6">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="12s" repeatCount="indefinite" additive="sum"/>
+    </polygon>
+    <polygon points="0,-14 8,0 0,14 -8,0" fill="#8534F3" fill-opacity="0.4">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="12s" repeatCount="indefinite" additive="sum"/>
+    </polygon>
+  </g>
+
+  <g transform="translate(80, 240)" opacity="0.35">
+    <polygon points="0,-18 10,0 0,18 -10,0" fill="none" stroke="#FE4C25" stroke-width="1" stroke-opacity="0.5">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="15s" repeatCount="indefinite" additive="sum"/>
+    </polygon>
+  </g>
+
+  <rect x="0" y="318" width="1200" height="2" fill="#8534F3" opacity="0.15">
+    <animate attributeName="opacity" values="0.1;0.25;0.1" dur="3s" repeatCount="indefinite"/>
+  </rect>
+</svg>

@@ -8,31 +8,31 @@
   <meta name="author" content="Genho Akadion">
   <meta property="og:title" content="Genho Akadion — Multidimensional Creator">
   <meta property="og:description" content="Bridging the gap between art and technology.">
-  <meta property="og:image" content="https://raw.githubusercontent.com/iakadion/iakadion/main/assets/hero-dark.svg">
-  <meta name="theme-color" content="#0d1117">
+  <meta property="og:image" content="https://raw.githubusercontent.com/iakadion/iakadion/main/assets/hero-purple.svg">
+  <meta name="theme-color" content="#04040A">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;600;700&family=Space+Grotesk:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <style>
     *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
     :root {
-      --cyan: #00f7f7;
-      --cyan-dim: rgba(0,247,247,0.08);
-      --blue: #58a6ff;
-      --purple: #a855f7;
-      --pink: #ff3366;
-      --gold: #ffd700;
-      --red: #ff6b6b;
-      --green: #1DB954;
-      --bg: #0a0a0f;
-      --bg-card: rgba(13,17,23,0.7);
-      --bg-elevated: rgba(22,27,34,0.8);
-      --text: #c9d1d9;
-      --text-dim: #8b949e;
-      --text-bright: #ffffff;
-      --glass: rgba(255,255,255,0.03);
-      --glass-border: rgba(0,247,247,0.12);
-      --glass-hover: rgba(0,247,247,0.06);
+      --purple: #8534F3;
+      --purple-dim: rgba(133,52,243,0.08);
+      --purple-glow: rgba(133,52,243,0.3);
+      --cyan: #00E5FF;
+      --cyan-dim: rgba(0,229,255,0.08);
+      --orange: #FE4C25;
+      --orange-dim: rgba(254,76,37,0.08);
+      --lavender: #B388FF;
+      --bg: #04040A;
+      --bg-card: rgba(4,4,10,0.8);
+      --bg-elevated: rgba(10,10,20,0.9);
+      --text: #E6E6E6;
+      --text-dim: #6E7681;
+      --text-bright: #FFFFFF;
+      --glass: rgba(133,52,243,0.04);
+      --glass-border: rgba(133,52,243,0.15);
+      --glass-hover: rgba(133,52,243,0.08);
       --radius: 16px;
       --radius-sm: 10px;
       --transition: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
@@ -48,7 +48,7 @@
     }
     ::-webkit-scrollbar { width: 6px; }
     ::-webkit-scrollbar-track { background: var(--bg); }
-    ::-webkit-scrollbar-thumb { background: var(--cyan); border-radius: 3px; }
+    ::-webkit-scrollbar-thumb { background: var(--purple); border-radius: 3px; }
 
     #particles-canvas {
       position: fixed; top: 0; left: 0; width: 100%; height: 100%;
@@ -61,7 +61,7 @@
 
     nav {
       position: fixed; top: 0; left: 0; right: 0; z-index: 100;
-      background: rgba(10,10,15,0.8); backdrop-filter: blur(20px);
+      background: rgba(4,4,10,0.85); backdrop-filter: blur(20px);
       border-bottom: 1px solid var(--glass-border);
       padding: 0.8rem 0;
       transition: var(--transition);
@@ -69,7 +69,7 @@
     nav .container { display: flex; align-items: center; justify-content: space-between; }
     .nav-logo {
       font-family: 'Space Grotesk', sans-serif; font-weight: 800; font-size: 1.2rem;
-      color: var(--cyan); text-decoration: none;
+      color: var(--purple); text-decoration: none;
     }
     .nav-links { display: flex; gap: 2rem; align-items: center; list-style: none; }
     .nav-links a {
@@ -78,9 +78,9 @@
     }
     .nav-links a::after {
       content: ''; position: absolute; bottom: -4px; left: 0; width: 0; height: 2px;
-      background: var(--cyan); transition: var(--transition);
+      background: var(--purple); transition: var(--transition);
     }
-    .nav-links a:hover { color: var(--cyan); }
+    .nav-links a:hover { color: var(--purple); }
     .nav-links a:hover::after { width: 100%; }
     .nav-toggle { display: none; flex-direction: column; gap: 4px; cursor: pointer; background: none; border: none; }
     .nav-toggle span { width: 24px; height: 2px; background: var(--text); border-radius: 2px; transition: var(--transition); }
@@ -88,13 +88,13 @@
     section { padding: 5rem 0; position: relative; }
     .section-title {
       font-family: 'Space Grotesk', sans-serif; font-size: 0.7rem; font-weight: 600;
-      text-transform: uppercase; letter-spacing: 4px; color: var(--cyan); text-align: center;
+      text-transform: uppercase; letter-spacing: 4px; color: var(--lavender); text-align: center;
       margin-bottom: 0.5rem;
     }
     .section-heading {
       font-family: 'Space Grotesk', sans-serif; font-size: 2.2rem; font-weight: 800;
       text-align: center; margin-bottom: 3rem;
-      background: linear-gradient(135deg, var(--cyan), var(--blue), var(--purple));
+      background: linear-gradient(135deg, var(--purple), var(--cyan), var(--lavender));
       -webkit-background-clip: text; -webkit-text-fill-color: transparent;
       background-clip: text;
     }
@@ -105,8 +105,8 @@
     }
     .hero-content { max-width: 800px; }
     .hero-badge {
-      display: inline-block; background: var(--cyan-dim); border: 1px solid var(--glass-border);
-      border-radius: 100px; padding: 0.4rem 1.2rem; font-size: 0.75rem; color: var(--cyan);
+      display: inline-block; background: var(--purple-dim); border: 1px solid var(--glass-border);
+      border-radius: 100px; padding: 0.4rem 1.2rem; font-size: 0.75rem; color: var(--lavender);
       font-weight: 500; letter-spacing: 1px; margin-bottom: 1.5rem;
     }
     .hero-title {
@@ -114,7 +114,7 @@
       font-weight: 900; line-height: 1.1; margin-bottom: 0.5rem;
     }
     .hero-title .gradient {
-      background: linear-gradient(135deg, var(--cyan), var(--blue), var(--purple), var(--pink));
+      background: linear-gradient(135deg, var(--purple), var(--cyan), var(--orange));
       -webkit-background-clip: text; -webkit-text-fill-color: transparent;
       background-clip: text;
     }
@@ -136,15 +136,15 @@
       border: none; font-family: inherit;
     }
     .btn-primary {
-      background: linear-gradient(135deg, var(--cyan), var(--blue));
-      color: var(--bg); box-shadow: 0 4px 20px rgba(0,247,247,0.3);
+      background: linear-gradient(135deg, var(--purple), var(--cyan));
+      color: var(--bg); box-shadow: 0 4px 20px var(--purple-glow);
     }
-    .btn-primary:hover { transform: translateY(-2px); box-shadow: 0 8px 30px rgba(0,247,247,0.4); }
+    .btn-primary:hover { transform: translateY(-2px); box-shadow: 0 8px 30px var(--purple-glow); }
     .btn-outline {
       background: transparent; border: 1px solid var(--glass-border);
       color: var(--text);
     }
-    .btn-outline:hover { border-color: var(--cyan); color: var(--cyan); background: var(--cyan-dim); }
+    .btn-outline:hover { border-color: var(--purple); color: var(--purple); background: var(--purple-dim); }
     .scroll-indicator {
       position: absolute; bottom: 2rem; left: 50%; transform: translateX(-50%);
       display: flex; flex-direction: column; align-items: center; gap: 0.5rem;
@@ -167,24 +167,24 @@
       background: linear-gradient(135deg, transparent, var(--glass));
       opacity: 0; transition: var(--transition);
     }
-    .bento-card:hover { border-color: var(--cyan); transform: translateY(-2px); }
+    .bento-card:hover { border-color: var(--purple); transform: translateY(-2px); }
     .bento-card:hover::before { opacity: 1; }
     .bento-card .icon { font-size: 2rem; margin-bottom: 0.8rem; display: block; }
     .bento-card h3 { font-size: 1rem; font-weight: 700; margin-bottom: 0.4rem; }
     .bento-card p { font-size: 0.85rem; color: var(--text-dim); line-height: 1.6; }
     .bento-card.accent-cyan h3 { color: var(--cyan); }
-    .bento-card.accent-blue h3 { color: var(--blue); }
-    .bento-card.accent-pink h3 { color: var(--pink); }
-    .bento-card.accent-gold h3 { color: var(--gold); }
+    .bento-card.accent-blue h3 { color: var(--lavender); }
+    .bento-card.accent-pink h3 { color: var(--orange); }
+    .bento-card.accent-gold h3 { color: var(--cyan); }
     .bento-card.accent-purple h3 { color: var(--purple); }
-    .bento-card.accent-red h3 { color: var(--red); }
+    .bento-card.accent-red h3 { color: var(--orange); }
 
     .project-card {
       background: var(--bg-card); backdrop-filter: blur(12px);
       border: 1px solid var(--glass-border); border-radius: var(--radius);
       padding: 1.5rem; transition: var(--transition);
     }
-    .project-card:hover { border-color: var(--cyan); transform: translateY(-3px); }
+    .project-card:hover { border-color: var(--purple); transform: translateY(-3px); }
     .project-card .header { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 0.5rem; }
     .project-card h3 { font-size: 1.1rem; font-weight: 700; }
     .project-card .badge { font-size: 0.7rem; padding: 0.2rem 0.6rem; border-radius: 100px; font-weight: 600; background: var(--cyan-dim); color: var(--cyan); }
@@ -202,17 +202,17 @@
       border-radius: 100px; padding: 0.5rem 1rem;
       font-size: 0.8rem; color: var(--text); transition: var(--transition);
     }
-    .skill-badge:hover { border-color: var(--cyan); color: var(--cyan); transform: translateY(-1px); }
+    .skill-badge:hover { border-color: var(--purple); color: var(--purple); transform: translateY(-1px); }
 
     .stat-card {
       background: var(--bg-card); backdrop-filter: blur(12px);
       border: 1px solid var(--glass-border); border-radius: var(--radius);
       padding: 1.5rem; text-align: center; transition: var(--transition);
     }
-    .stat-card:hover { border-color: var(--cyan); }
+    .stat-card:hover { border-color: var(--purple); }
     .stat-card .number {
       font-family: 'Space Grotesk', sans-serif; font-size: 2.5rem; font-weight: 800;
-      background: linear-gradient(135deg, var(--cyan), var(--blue));
+      background: linear-gradient(135deg, var(--purple), var(--cyan));
       -webkit-background-clip: text; -webkit-text-fill-color: transparent;
       background-clip: text;
     }
@@ -228,7 +228,7 @@
       text-decoration: none; color: var(--text); font-size: 0.85rem; font-weight: 500;
       transition: var(--transition);
     }
-    .social-link:hover { border-color: var(--cyan); color: var(--cyan); transform: translateY(-2px); }
+    .social-link:hover { border-color: var(--purple); color: var(--purple); transform: translateY(-2px); }
     .social-link .social-icon { font-size: 1.1rem; }
 
     footer {
@@ -244,7 +244,7 @@
       border-radius: 100px; padding: 0.4rem 1rem; font-size: 0.8rem; color: var(--text-dim);
       margin-top: 1.5rem;
     }
-    .visitor-count .count { color: var(--cyan); font-family: 'JetBrains Mono', monospace; font-weight: 600; }
+    .visitor-count .count { color: var(--purple); font-family: 'JetBrains Mono', monospace; font-weight: 600; }
 
     .projects-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem; }
 
@@ -532,7 +532,7 @@
     </p>
 
     <div style="max-width: 500px; margin: 0 auto;">
-      <p class="fade-in" style="color: var(--cyan); font-weight: 600; font-size: 0.9rem; text-align: center; margin-bottom: 1rem;">🎵 Sound & Frequency</p>
+      <p class="fade-in" style="color: var(--purple); font-weight: 600; font-size: 0.9rem; text-align: center; margin-bottom: 1rem;">🎵 Sound & Frequency</p>
       <div class="social-grid fade-in">
         <a href="https://soundcloud.com/iakadion" class="social-link" target="_blank" rel="noopener"><span class="social-icon">🎧</span> SoundCloud</a>
         <a href="https://open.spotify.com/user/31w3syplutlik764wir6lrl4zlum" class="social-link" target="_blank" rel="noopener"><span class="social-icon">🟢</span> Spotify</a>
@@ -541,7 +541,7 @@
         <a href="https://genius.com/akadion" class="social-link" target="_blank" rel="noopener"><span class="social-icon">📝</span> Genius</a>
       </div>
       <br>
-      <p class="fade-in" style="color: var(--blue); font-weight: 600; font-size: 0.9rem; text-align: center; margin-bottom: 1rem;">📱 Social & Media</p>
+      <p class="fade-in" style="color: var(--cyan); font-weight: 600; font-size: 0.9rem; text-align: center; margin-bottom: 1rem;">📱 Social & Media</p>
       <div class="social-grid fade-in">
         <a href="https://instagram.com/iakadion" class="social-link" target="_blank" rel="noopener"><span class="social-icon">📸</span> Instagram</a>
         <a href="https://youtube.com/@iakadion" class="social-link" target="_blank" rel="noopener"><span class="social-icon">▶️</span> YouTube</a>
@@ -570,7 +570,7 @@
 
 <footer>
   <div class="container">
-    <p style="font-family: 'JetBrains Mono', monospace; color: var(--cyan); font-size: 0.9rem;">✦ Create. Innovate. Inspire. Repeat. ✦</p>
+    <p style="font-family: 'JetBrains Mono', monospace; color: var(--purple); font-size: 0.9rem;">✦ Create. Innovate. Inspire. Repeat. ✦</p>
     <br>
     <div class="visitor-count">
       <span>👁️</span>
@@ -645,7 +645,7 @@
           ctx.beginPath();
           ctx.moveTo(particles[i].x, particles[i].y);
           ctx.lineTo(particles[j].x, particles[j].y);
-          ctx.strokeStyle = `rgba(0, 247, 247, ${0.06 * (1 - dist / 120)})`;
+          ctx.strokeStyle = `rgba(133, 52, 243, ${0.06 * (1 - dist / 120)})`;
           ctx.lineWidth = 0.5;
           ctx.stroke();
         }
