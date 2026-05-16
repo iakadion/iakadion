@@ -1,21 +1,65 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:001a33,100:003366&height=300&section=header&text=𝗚𝗘𝗡𝗛𝗢%20𝗔𝗞𝗔𝗗𝗜𝗢𝗡&fontSize=72&fontColor=00f7f7&animation=twinkling&fontAlignY=32&desc=⟐%20Multi-Dimensional%20Creator%20⟐%20Code%20⟐%20Music%20⟐%20Art%20⟐&descAlignY=56&descSize=18&descColor=58a6ff" width="100%"/>
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=%E2%9C%A6+Musician+%E2%80%A2+Filmmaker+%E2%80%A2+Developer+%E2%80%A2+Designer;%E2%9C%A6+Writer+%E2%80%A2+Game+Creator+%E2%80%A2+Inventor+%E2%80%A2+Artist;%E2%9C%A6+Building+the+future+one+pixel+at+a+time" alt="Typing SVG"/>
-</a>
-<br>
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="380"/>
-<br>
-<img src="https://img.shields.io/badge/📍_Broadcasting_from-Brazil_🇧🇷-00f7f7?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/🔭_Status-Creating_Universes-ff6b6b?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/⚡_Mode-Legendary-ffd700?style=for-the-badge&labelColor=0d1117"/>
-</div>
-<div align="center">
 
-## ◈ 𝗪𝗛𝗢 𝗔𝗠 𝗜 ◈
+<!-- ===== AURORA HERO ===== -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iakadion/iakadion/main/assets/hero-dark.svg">
+  <img src="https://raw.githubusercontent.com/iakadion/iakadion/main/assets/hero-light.svg" width="100%" alt="Genho Akadion - Multidimensional Creator">
+</picture>
+
+<br>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&duration=3000&pause=800&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%E2%9C%A6+Musician+%E2%80%A2+Filmmaker+%E2%80%A2+Developer+%E2%80%A2+Designer;%E2%9C%A6+Writer+%E2%80%A2+Game+Creator+%E2%80%A2+Inventor+%E2%80%A2+Artist;%E2%9C%A6+Building+the+future+one+pixel+at+a+time;%E2%9C%A6+Architect+of+the+Akadion+Ecosystem" alt="Typing SVG">
+</a>
+
+<br>
+
+<!-- ===== STATUS BADGES ===== -->
+<img src="https://img.shields.io/badge/%F0%9F%93%8D_Broadcasting_from-Brazil_%F0%9F%87%A7%F0%9F%87%B7-00f7f7?style=flat&labelColor=0d1117&logo=googlemaps&logoColor=00f7f7"/>
+<img src="https://img.shields.io/badge/%F0%9F%94%AD_Status-Creating_Universes-ff6b6b?style=flat&labelColor=0d1117&logo=react&logoColor=ff6b6b"/>
+<img src="https://img.shields.io/badge/%E2%9A%A1_Mode-Legendary-ffd700?style=flat&labelColor=0d1117&logo=lightning&logoColor=ffd700"/>
+<img src="https://img.shields.io/badge/%F0%9F%93%86_Since-2024-58a6ff?style=flat&labelColor=0d1117&logo=github&logoColor=58a6ff"/>
+
+</div>
+
+<!-- ===== SECTION DIVIDER ===== -->
+<img src="https://raw.githubusercontent.com/iakadion/iakadion/main/assets/divider.svg" width="100%" alt="divider">
+
+<!-- ===== BENTO GRID: ABOUT ===== -->
+<div align="center" style="margin: 2rem 0;">
+
+## ◈ 𝗪𝗛𝗢 𝗜𝗦 𝗚𝗘𝗡𝗛𝗢 𝗔𝗞𝗔𝗗𝗜𝗢𝗡? ◈
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; max-width: 960px; margin: 1.5rem auto;">
+
+<div style="background: linear-gradient(135deg, rgba(0,247,247,0.08), rgba(168,85,247,0.08)); border: 1px solid rgba(0,247,247,0.2); border-radius: 16px; padding: 1.5rem; backdrop-filter: blur(12px);">
+  <b style="color: #00f7f7; font-size: 1.1rem;">🎵 MUSIC UNIVERSE</b>
+  <br>
+  <span style="color: #8b949e; font-size: 0.9rem;">Musician & Artist · Lyricist & Songwriter · Audio Engineer · Music Producer</span>
+</div>
+
+<div style="background: linear-gradient(135deg, rgba(88,166,255,0.08), rgba(168,85,247,0.08)); border: 1px solid rgba(88,166,255,0.2); border-radius: 16px; padding: 1.5rem; backdrop-filter: blur(12px);">
+  <b style="color: #58a6ff; font-size: 1.1rem;">💻 TECH DIMENSION</b>
+  <br>
+  <span style="color: #8b949e; font-size: 0.9rem;">Full-Stack Developer · Tool & Language Builder · AI Integrator · App Creator</span>
+</div>
+
+<div style="background: linear-gradient(135deg, rgba(255,107,107,0.08), rgba(255,215,0,0.08)); border: 1px solid rgba(255,107,107,0.2); border-radius: 16px; padding: 1.5rem; backdrop-filter: blur(12px);">
+  <b style="color: #ff6b6b; font-size: 1.1rem;">🎨 CREATIVE REALM</b>
+  <br>
+  <span style="color: #8b949e; font-size: 0.9rem;">Filmmaker & Director · Visual Designer · Writer & Storyteller · Game Developer</span>
+</div>
+
+<div style="background: linear-gradient(135deg, rgba(255,215,0,0.08), rgba(0,247,247,0.08)); border: 1px solid rgba(255,215,0,0.2); border-radius: 16px; padding: 1.5rem; backdrop-filter: blur(12px);">
+  <b style="color: #ffd700; font-size: 1.1rem;">🚀 INNOVATION LAB</b>
+  <br>
+  <span style="color: #8b949e; font-size: 0.9rem;">Inventor & Architect · Visionary & Futurist · Experimenter · Systems Designer</span>
+</div>
+
+</div>
 
 ```mermaid
-%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#00f7f7','primaryTextColor':'#ffffff','primaryBorderColor':'#00f7f7','lineColor':'#58a6ff','secondaryColor':'#1a1a2e','tertiaryColor':'#16213e','fontSize':'14px'}}}%%
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#00f7f7','primaryTextColor':'#ffffff','primaryBorderColor':'#00f7f7','lineColor':'#58a6ff','secondaryColor':'#0d1117','tertiaryColor':'#161b22','fontSize':'14px'}}}%%
 mindmap
   root((🌌 GENHO<br/>AKADION))
     🎵 MUSIC UNIVERSE
@@ -40,73 +84,183 @@ mindmap
       📐 Systems Designer
 ```
 
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="90"/>
-<br>
-<img src="https://img.shields.io/badge/🎸_Music-Musician%20•%20Artist%20•%20Lyricist%20•%20Engineer%20•%20Producer-ff3366?style=flat-square&labelColor=0d1117"/>
-<br>
-<img src="https://img.shields.io/badge/💻_Tech-Programmer%20•%20Full--Stack%20•%20Language%20Designer%20•%20AI-00f7f7?style=flat-square&labelColor=0d1117"/>
-<br>
-<img src="https://img.shields.io/badge/🎨_Creative-Filmmaker%20•%20Writer%20•%20Game%20Dev%20•%20Visual%20Artist-a855f7?style=flat-square&labelColor=0d1117"/>
-<br>
-<img src="https://img.shields.io/badge/🚀_Innovation-Inventor%20•%20Architect%20•%20Visionary%20•%20Futurist-ffd700?style=flat-square&labelColor=0d1117"/>
 </div>
-<div align="center">
 
-## ◈ 𝗖𝗢𝗡𝗡𝗘𝗖𝗧 𝗪𝗜𝗧𝗛 𝗠𝗘 ◈
+<img src="https://raw.githubusercontent.com/iakadion/iakadion/main/assets/divider.svg" width="100%" alt="divider">
 
-<img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="70"/>
-<br>
-<b>🎵 𝗦𝗢𝗨𝗡𝗗 ⟐ 𝗙𝗥𝗘𝗤𝗨𝗘𝗡𝗖𝗬</b>
-<br>
-<a href="https://soundcloud.com/iakadion"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white"/></a>
-<a href="https://open.spotify.com/user/31w3syplutlik764wir6lrl4zlum"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/></a>
-<a href="https://beatstars.com/akadion"><img src="https://img.shields.io/badge/BeatStars-E8430C?style=for-the-badge&logo=beatport&logoColor=white"/></a>
-<a href="https://soundverse.com/akadion"><img src="https://img.shields.io/badge/Soundverse-7C3AED?style=for-the-badge&logo=audiomack&logoColor=white"/></a>
-<a href="https://suno.com/akadion"><img src="https://img.shields.io/badge/Suno_AI-00D4FF?style=for-the-badge&logo=waveform&logoColor=white"/></a>
-<a href="https://genius.com/akadion"><img src="https://img.shields.io/badge/Genius-FFFF64?style=for-the-badge&logo=genius&logoColor=black"/></a>
-<br><br>
-<b>📱 𝗦𝗢𝗖𝗜𝗔𝗟 ⟐ 𝗠𝗘𝗗𝗜𝗔</b>
-<br>
-<a href="https://instagram.com/iakadion"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://youtube.com/@iakadion"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-<a href="https://twitter.com/iakadion"><img src="https://img.shields.io/badge/𝕏-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://twitch.tv/iakadion"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
-<a href="https://m.facebook.com/profile.php?id=100075107335354"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://threads.net/@iakadion"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/></a>
-<a href="https://bsky.app/profile/akadion"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white"/></a>
-<a href="https://reddit.com/u/iakadion"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
-<br><br>
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="60"/>
-<br>
-<b>💻 𝗖𝗢𝗗𝗘 ⟐ 𝗗𝗘𝗩</b>
-<br>
-<a href="https://github.com/iakadion"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://gitlab.com/akadion"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
-<a href="https://codepen.io/akadion"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
-<a href="https://stackoverflow.com/users/akadion"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
-<a href="https://replit.com/@akadion"><img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white"/></a>
-<a href="https://hub.docker.com/u/akadion"><img src="https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
-<br><br>
-<b>🎨 𝗖𝗥𝗘𝗔𝗧𝗜𝗩𝗘 ⟐ 𝗪𝗥𝗜𝗧𝗜𝗡𝗚</b>
-<br>
-<a href="https://behance.net/akadion"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/></a>
-<a href="https://dribbble.com/akadion"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/></a>
-<a href="https://figma.com/@akadion"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
-<a href="https://medium.com/@akadion"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
-<a href="https://wordpress.com/iakadion"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
-<br><br>
-<b>🚀 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 ⟐ 𝗖𝗢𝗡𝗧𝗔𝗖𝗧</b>
-<br>
-<a href="https://producthunt.com/@akadion"><img src="https://img.shields.io/badge/Product_Hunt-DA552F?style=for-the-badge&logo=producthunt&logoColor=white"/></a>
-<a href="https://patreon.com/akadion"><img src="https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white"/></a>
-<a href="mailto:ogenhoanimation01@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<!-- ===== BENTO GRID: ECOSYSTEM ===== -->
+<div align="center" style="margin: 2rem 0;">
+
+## ◈ 𝗧𝗛𝗘 𝗔𝗞𝗔𝗗𝗜𝗢𝗡 𝗘𝗖𝗢𝗦𝗬𝗦𝗧𝗘𝗠 ◈
+
+```mermaid
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#00f7f7','primaryTextColor':'#fff','lineColor':'#58a6ff','secondaryColor':'#161b22'}}}%%
+graph LR
+    A((🌌 AKADION<br/>ECOSYSTEM)) --> B[🔥 Akia.js]
+    A --> C[⚡ .ak Lang]
+    A --> D[🌐 Readgex]
+    A --> E[🧠 Bilbid]
+    A --> F[🎵 IUKKA]
+    A --> G[💼 SHIYO]
+    A --> H[🎨 NYX]
+    A --> I[🏢 Akadaion]
+    A --> J[📊 Akash]
+    A --> K[✨ Fillshy]
+    A --> L[🎯 Owni]
+    style A fill:#00f7f7,stroke:#00f7f7,color:#000,stroke-width:3px
+    style B fill:#ff3366,stroke:#ff3366,color:#fff
+    style C fill:#ffd700,stroke:#ffd700,color:#000
+    style D fill:#4ecdc4,stroke:#4ecdc4,color:#000
+    style E fill:#a855f7,stroke:#a855f7,color:#fff
+    style F fill:#1DB954,stroke:#1DB954,color:#fff
+    style G fill:#58a6ff,stroke:#58a6ff,color:#000
+    style H fill:#EA4C89,stroke:#EA4C89,color:#fff
+    style I fill:#FF6B00,stroke:#FF6B00,color:#fff
+    style J fill:#00D4FF,stroke:#00D4FF,color:#000
+    style K fill:#F472B6,stroke:#F472B6,color:#000
+    style L fill:#34D399,stroke:#34D399,color:#000
+```
+
 </div>
-<div align="center">
+
+<!-- ===== PROJECTS ===== -->
+<div align="center" style="margin: 2rem 0;">
+
+## ◈ 𝗟𝗘𝗚𝗘𝗡𝗗𝗔𝗥𝗬 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 ◈
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(340px, 1fr)); gap: 1rem; max-width: 1060px; margin: 1.5rem auto;">
+
+<div style="background: linear-gradient(135deg, rgba(255,51,102,0.06), rgba(0,247,247,0.06)); border: 1px solid rgba(255,51,102,0.2); border-radius: 16px; padding: 1.5rem;">
+  <b style="color: #ff3366; font-size: 1.2rem;">🔥 Akia.js</b>
+  <span style="color: #8b949e; font-size: 0.8rem; display: block; margin: 0.3rem 0 0.5rem;">Universal Singleton Renderer</span>
+  <div style="height: 6px; background: #1a1a2e; border-radius: 3px; overflow: hidden; margin: 0.6rem 0;">
+    <div style="height: 100%; width: 95%; background: linear-gradient(90deg, #ff3366, #00f7f7); border-radius: 3px;"></div>
+  </div>
+  <span style="color: #00f7f7; font-size: 0.8rem;">95%</span>
+  <br>
+  <span style="color: #555; font-size: 0.8rem;">JS · ESNext · Transpiler · Compiler</span>
+</div>
+
+<div style="background: linear-gradient(135deg, rgba(255,215,0,0.06), rgba(255,107,107,0.06)); border: 1px solid rgba(255,215,0,0.2); border-radius: 16px; padding: 1.5rem;">
+  <b style="color: #ffd700; font-size: 1.2rem;">⚡ .ak Language</b>
+  <span style="color: #8b949e; font-size: 0.8rem; display: block; margin: 0.3rem 0 0.5rem;">Proprietary Web Language</span>
+  <div style="height: 6px; background: #1a1a2e; border-radius: 3px; overflow: hidden; margin: 0.6rem 0;">
+    <div style="height: 100%; width: 88%; background: linear-gradient(90deg, #ffd700, #ff6b6b); border-radius: 3px;"></div>
+  </div>
+  <span style="color: #ffd700; font-size: 0.8rem;">88%</span>
+  <br>
+  <span style="color: #555; font-size: 0.8rem;">Compiler Design · Native Language</span>
+</div>
+
+<div style="background: linear-gradient(135deg, rgba(78,205,196,0.06), rgba(88,166,255,0.06)); border: 1px solid rgba(78,205,196,0.2); border-radius: 16px; padding: 1.5rem;">
+  <b style="color: #4ecdc4; font-size: 1.2rem;">🌐 Readgex</b>
+  <span style="color: #8b949e; font-size: 0.8rem; display: block; margin: 0.3rem 0 0.5rem;">Intelligent AI Browser</span>
+  <div style="height: 6px; background: #1a1a2e; border-radius: 3px; overflow: hidden; margin: 0.6rem 0;">
+    <div style="height: 100%; width: 82%; background: linear-gradient(90deg, #4ecdc4, #58a6ff); border-radius: 3px;"></div>
+  </div>
+  <span style="color: #4ecdc4; font-size: 0.8rem;">82%</span>
+  <br>
+  <span style="color: #555; font-size: 0.8rem;">React · TS · AI · Autonomous Agent</span>
+</div>
+
+<div style="background: linear-gradient(135deg, rgba(168,85,247,0.06), rgba(0,247,247,0.06)); border: 1px solid rgba(168,85,247,0.2); border-radius: 16px; padding: 1.5rem;">
+  <b style="color: #a855f7; font-size: 1.2rem;">🧠 Bilbid</b>
+  <span style="color: #8b949e; font-size: 0.8rem; display: block; margin: 0.3rem 0 0.5rem;">Semantic Knowledge Engine</span>
+  <div style="height: 6px; background: #1a1a2e; border-radius: 3px; overflow: hidden; margin: 0.6rem 0;">
+    <div style="height: 100%; width: 87%; background: linear-gradient(90deg, #a855f7, #00f7f7); border-radius: 3px;"></div>
+  </div>
+  <span style="color: #a855f7; font-size: 0.8rem;">87%</span>
+  <br>
+  <span style="color: #555; font-size: 0.8rem;">AI · NLP · Wikipedia API · Knowledge Graph</span>
+</div>
+
+<div style="background: linear-gradient(135deg, rgba(29,185,84,0.06), rgba(0,247,247,0.06)); border: 1px solid rgba(29,185,84,0.2); border-radius: 16px; padding: 1.5rem;">
+  <b style="color: #1DB954; font-size: 1.2rem;">🎵 IUKKA Player</b>
+  <span style="color: #8b949e; font-size: 0.8rem; display: block; margin: 0.3rem 0 0.5rem;">Quantum Streaming Platform</span>
+  <div style="height: 6px; background: #1a1a2e; border-radius: 3px; overflow: hidden; margin: 0.6rem 0;">
+    <div style="height: 100%; width: 76%; background: linear-gradient(90deg, #1DB954, #00f7f7); border-radius: 3px;"></div>
+  </div>
+  <span style="color: #1DB954; font-size: 0.8rem;">76%</span>
+  <br>
+  <span style="color: #555; font-size: 0.8rem;">WebRTC · Media APIs · Streaming · Audio Engine</span>
+</div>
+
+<div style="background: linear-gradient(135deg, rgba(88,166,255,0.06), rgba(168,85,247,0.06)); border: 1px solid rgba(88,166,255,0.2); border-radius: 16px; padding: 1.5rem;">
+  <b style="color: #58a6ff; font-size: 1.2rem;">💼 SHIYO</b>
+  <span style="color: #8b949e; font-size: 0.8rem; display: block; margin: 0.3rem 0 0.5rem;">Social Media Portfolio Platform</span>
+  <div style="height: 6px; background: #1a1a2e; border-radius: 3px; overflow: hidden; margin: 0.6rem 0;">
+    <div style="height: 100%; width: 70%; background: linear-gradient(90deg, #58a6ff, #a855f7); border-radius: 3px;"></div>
+  </div>
+  <span style="color: #58a6ff; font-size: 0.8rem;">70%</span>
+  <br>
+  <span style="color: #555; font-size: 0.8rem;">React · Node.js · Social Integration</span>
+</div>
+
+<div style="background: linear-gradient(135deg, rgba(234,76,137,0.06), rgba(168,85,247,0.06)); border: 1px solid rgba(234,76,137,0.2); border-radius: 16px; padding: 1.5rem;">
+  <b style="color: #EA4C89; font-size: 1.2rem;">🎨 NYX</b>
+  <span style="color: #8b949e; font-size: 0.8rem; display: block; margin: 0.3rem 0 0.5rem;">Creative Portfolio Showcase</span>
+  <div style="height: 6px; background: #1a1a2e; border-radius: 3px; overflow: hidden; margin: 0.6rem 0;">
+    <div style="height: 100%; width: 65%; background: linear-gradient(90deg, #EA4C89, #a855f7); border-radius: 3px;"></div>
+  </div>
+  <span style="color: #EA4C89; font-size: 0.8rem;">65%</span>
+  <br>
+  <span style="color: #555; font-size: 0.8rem;">React · WebGL · 3D Graphics · GLSL</span>
+</div>
+
+<div style="background: linear-gradient(135deg, rgba(255,107,0,0.06), rgba(255,215,0,0.06)); border: 1px solid rgba(255,107,0,0.2); border-radius: 16px; padding: 1.5rem;">
+  <b style="color: #FF6B00; font-size: 1.2rem;">🏢 Akadaion</b>
+  <span style="color: #8b949e; font-size: 0.8rem; display: block; margin: 0.3rem 0 0.5rem;">Institutional HQ</span>
+  <div style="height: 6px; background: #1a1a2e; border-radius: 3px; overflow: hidden; margin: 0.6rem 0;">
+    <div style="height: 100%; width: 80%; background: linear-gradient(90deg, #FF6B00, #ffd700); border-radius: 3px;"></div>
+  </div>
+  <span style="color: #FF6B00; font-size: 0.8rem;">80%</span>
+  <br>
+  <span style="color: #555; font-size: 0.8rem;">Next.js · TypeScript · Enterprise</span>
+</div>
+
+<div style="background: linear-gradient(135deg, rgba(0,212,255,0.06), rgba(0,247,247,0.06)); border: 1px solid rgba(0,212,255,0.2); border-radius: 16px; padding: 1.5rem;">
+  <b style="color: #00D4FF; font-size: 1.2rem;">📊 Akash</b>
+  <span style="color: #8b949e; font-size: 0.8rem; display: block; margin: 0.3rem 0 0.5rem;">Universal Dashboard</span>
+  <div style="height: 6px; background: #1a1a2e; border-radius: 3px; overflow: hidden; margin: 0.6rem 0;">
+    <div style="height: 100%; width: 73%; background: linear-gradient(90deg, #00D4FF, #00f7f7); border-radius: 3px;"></div>
+  </div>
+  <span style="color: #00D4FF; font-size: 0.8rem;">73%</span>
+  <br>
+  <span style="color: #555; font-size: 0.8rem;">Dashboard · Admin Panel · Analytics</span>
+</div>
+
+<div style="background: linear-gradient(135deg, rgba(244,114,182,0.06), rgba(168,85,247,0.06)); border: 1px solid rgba(244,114,182,0.2); border-radius: 16px; padding: 1.5rem;">
+  <b style="color: #F472B6; font-size: 1.2rem;">✨ Fillshy</b>
+  <span style="color: #8b949e; font-size: 0.8rem; display: block; margin: 0.3rem 0 0.5rem;">Background AI Content Generator</span>
+  <div style="height: 6px; background: #1a1a2e; border-radius: 3px; overflow: hidden; margin: 0.6rem 0;">
+    <div style="height: 100%; width: 68%; background: linear-gradient(90deg, #F472B6, #a855f7); border-radius: 3px;"></div>
+  </div>
+  <span style="color: #F472B6; font-size: 0.8rem;">68%</span>
+  <br>
+  <span style="color: #555; font-size: 0.8rem;">AI · Content Generation · NLP</span>
+</div>
+
+<div style="background: linear-gradient(135deg, rgba(52,211,153,0.06), rgba(0,247,247,0.06)); border: 1px solid rgba(52,211,153,0.2); border-radius: 16px; padding: 1.5rem;">
+  <b style="color: #34D399; font-size: 1.2rem;">🎯 Owni</b>
+  <span style="color: #8b949e; font-size: 0.8rem; display: block; margin: 0.3rem 0 0.5rem;">Component & Icon Library</span>
+  <div style="height: 6px; background: #1a1a2e; border-radius: 3px; overflow: hidden; margin: 0.6rem 0;">
+    <div style="height: 100%; width: 60%; background: linear-gradient(90deg, #34D399, #00f7f7); border-radius: 3px;"></div>
+  </div>
+  <span style="color: #34D399; font-size: 0.8rem;">60%</span>
+  <br>
+  <span style="color: #555; font-size: 0.8rem;">Web Components · SVG · Design System</span>
+</div>
+
+</div>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/iakadion/iakadion/main/assets/divider.svg" width="100%" alt="divider">
+
+<!-- ===== TECH ARSENAL ===== -->
+<div align="center" style="margin: 2rem 0;">
 
 ## ◈ 𝗧𝗘𝗖𝗛 𝗔𝗥𝗦𝗘𝗡𝗔𝗟 ◈
-
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="340"/>
-<br>
 
 ```mermaid
 %%{init: {'theme':'dark','themeVariables':{'primaryColor':'#00f7f7','primaryTextColor':'#fff','primaryBorderColor':'#00f7f7','lineColor':'#58a6ff','secondaryColor':'#0d1117','tertiaryColor':'#161b22'}}}%%
@@ -147,193 +301,53 @@ graph TB
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,graphql,docker,aws,vercel,netlify,git,github,gitlab,figma,blender,threejs,webgl&theme=dark&perline=15"/>
 <br>
 <img src="https://skillicons.dev/icons?i=vscode,neovim,linux,bash,webpack,vite,pnpm,prisma,supabase,firebase,electron,tauri,wasm,solidity,tensorflow&theme=dark&perline=15"/>
-</div>
-<div align="center">
-
-## ◈ 𝗟𝗘𝗚𝗘𝗡𝗗𝗔𝗥𝗬 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 ◈
-
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280"/>
-
-```mermaid
-%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#00f7f7','primaryTextColor':'#fff','lineColor':'#58a6ff','secondaryColor':'#161b22'}}}%%
-graph LR
-    A((🌌 AKADION<br/>ECOSYSTEM)) --> B[🔥 Akia.js]
-    A --> C[⚡ .ak Lang]
-    A --> D[🌐 Readgex]
-    A --> E[🧠 Bilbid]
-    A --> F[🎵 IUKKA]
-    A --> G[💼 SHIYO]
-    A --> H[🎨 NYX]
-    A --> I[🏢 Akadaion]
-    A --> J[📊 Akash]
-    A --> K[✨ Fillshy]
-    A --> L[🎯 Owni]
-    style A fill:#00f7f7,stroke:#00f7f7,color:#000,stroke-width:3px
-    style B fill:#ff3366,stroke:#ff3366,color:#fff
-    style C fill:#ffd700,stroke:#ffd700,color:#000
-    style D fill:#4ecdc4,stroke:#4ecdc4,color:#000
-    style E fill:#a855f7,stroke:#a855f7,color:#fff
-    style F fill:#1DB954,stroke:#1DB954,color:#fff
-    style G fill:#58a6ff,stroke:#58a6ff,color:#000
-    style H fill:#EA4C89,stroke:#EA4C89,color:#fff
-    style I fill:#FF6B00,stroke:#FF6B00,color:#fff
-    style J fill:#00D4FF,stroke:#00D4FF,color:#000
-    style K fill:#F472B6,stroke:#F472B6,color:#000
-    style L fill:#34D399,stroke:#34D399,color:#000
-```
 
 </div>
-<details open>
-<summary><b>🔥 Akia.js ─ Universal Singleton Renderer</b></summary>
-<div align="center">
-<br>
-<img src="https://img.shields.io/badge/Status-95%25_Complete-00f7f7?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Tech-JavaScript_•_ESNext_•_Transpiler_•_Compiler-ff3366?style=flat-square&labelColor=0d1117"/>
-<br>
-<i>Singleton renderer transpiling 7+ languages with native innovation. Redefining how code becomes interface.</i>
-<br>
-<img src="https://progress-bar.xyz/95/?title=PROGRESS&width=400&color=00f7f7"/>
-</div>
-</details>
-<details>
-<summary><b>⚡ .ak Language ─ Proprietary Web Language</b></summary>
-<div align="center">
-<br>
-<img src="https://img.shields.io/badge/Status-88%25_Complete-ffd700?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Tech-Compiler_Design_•_Native_Language_•_Web_Revolution-ffd700?style=flat-square&labelColor=0d1117"/>
-<br>
-<i>The future of web development. A native compiler designed for the modern revolution of how we build the web.</i>
-<br>
-<img src="https://progress-bar.xyz/88/?title=PROGRESS&width=400&color=ffd700"/>
-</div>
-</details>
-<details>
-<summary><b>🌐 Readgex ─ Intelligent AI Browser</b></summary>
-<div align="center">
-<br>
-<img src="https://img.shields.io/badge/Status-82%25_Complete-4ecdc4?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Tech-React_•_TypeScript_•_AI_•_Autonomous_Agent-4ecdc4?style=flat-square&labelColor=0d1117"/>
-<br>
-<i>Smart autonomous agent browser integration. Browsing reimagined through artificial intelligence.</i>
-<br>
-<img src="https://progress-bar.xyz/82/?title=PROGRESS&width=400&color=4ecdc4"/>
-</div>
-</details>
-<details>
-<summary><b>🧠 Bilbid ─ Semantic Knowledge Engine</b></summary>
-<div align="center">
-<br>
-<img src="https://img.shields.io/badge/Status-87%25_Complete-a855f7?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Tech-AI_•_NLP_•_Wikipedia_API_•_Knowledge_Graph-a855f7?style=flat-square&labelColor=0d1117"/>
-<br>
-<i>Semantic engine that transforms raw data into structured knowledge. Understanding the world through code.</i>
-<br>
-<img src="https://progress-bar.xyz/87/?title=PROGRESS&width=400&color=a855f7"/>
-</div>
-</details>
-<details>
-<summary><b>🎵 IUKKA Player ─ Quantum Streaming Platform</b></summary>
-<div align="center">
-<br>
-<img src="https://img.shields.io/badge/Status-76%25_Complete-1DB954?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Tech-WebRTC_•_Media_APIs_•_Streaming_•_Audio_Engine-1DB954?style=flat-square&labelColor=0d1117"/>
-<br>
-<i>Next-generation music streaming with quantum-inspired audio processing and immersive sound design.</i>
-<br>
-<img src="https://progress-bar.xyz/76/?title=PROGRESS&width=400&color=1DB954"/>
-</div>
-</details>
-<details>
-<summary><b>💼 SHIYO ─ Social Media Portfolio Platform</b></summary>
-<div align="center">
-<br>
-<img src="https://img.shields.io/badge/Status-70%25_Complete-58a6ff?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Tech-React_•_Node.js_•_Social_Integration_•_API-58a6ff?style=flat-square&labelColor=0d1117"/>
-<br>
-<i>Where your portfolio meets social media. Showcase your work, connect with creators, build your brand.</i>
-<br>
-<img src="https://progress-bar.xyz/70/?title=PROGRESS&width=400&color=58a6ff"/>
-</div>
-</details>
-<details>
-<summary><b>🎨 NYX ─ Creative Portfolio Showcase</b></summary>
-<div align="center">
-<br>
-<img src="https://img.shields.io/badge/Status-65%25_Complete-EA4C89?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Tech-React_•_WebGL_•_3D_Graphics_•_GLSL-EA4C89?style=flat-square&labelColor=0d1117"/>
-<br>
-<i>Immersive 3D portfolio experience. Art meets technology in a visual masterpiece.</i>
-<br>
-<img src="https://progress-bar.xyz/65/?title=PROGRESS&width=400&color=EA4C89"/>
-</div>
-</details>
-<details>
-<summary><b>🏢 Akadaion ─ Institutional HQ</b></summary>
-<div align="center">
-<br>
-<img src="https://img.shields.io/badge/Status-80%25_Complete-FF6B00?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Tech-Next.js_•_TypeScript_•_Enterprise_•_CMS-FF6B00?style=flat-square&labelColor=0d1117"/>
-<br>
-<i>The official headquarters of the Akadion ecosystem. Enterprise-grade institutional platform.</i>
-<br>
-<img src="https://progress-bar.xyz/80/?title=PROGRESS&width=400&color=FF6B00"/>
-</div>
-</details>
-<details>
-<summary><b>📊 Akash ─ Universal Dashboard</b></summary>
-<div align="center">
-<br>
-<img src="https://img.shields.io/badge/Status-73%25_Complete-00D4FF?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Tech-Dashboard_•_Admin_Panel_•_Analytics_•_Management-00D4FF?style=flat-square&labelColor=0d1117"/>
-<br>
-<i>Unified dashboard for managing all platforms, sites, and services across the Akadion universe.</i>
-<br>
-<img src="https://progress-bar.xyz/73/?title=PROGRESS&width=400&color=00D4FF"/>
-</div>
-</details>
-<details>
-<summary><b>✨ Fillshy ─ Background AI Content Generator</b></summary>
-<div align="center">
-<br>
-<img src="https://img.shields.io/badge/Status-68%25_Complete-F472B6?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Tech-AI_•_Content_Generation_•_Background_Processing_•_NLP-F472B6?style=flat-square&labelColor=0d1117"/>
-<br>
-<i>AI-powered content generation running silently in the background. Create while you sleep.</i>
-<br>
-<img src="https://progress-bar.xyz/68/?title=PROGRESS&width=400&color=F472B6"/>
-</div>
-</details>
-<details>
-<summary><b>🎯 Owni ─ Component & Icon Library</b></summary>
-<div align="center">
-<br>
-<img src="https://img.shields.io/badge/Status-60%25_Complete-34D399?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Tech-Web_Components_•_Animated_Icons_•_SVG_•_Design_System-34D399?style=flat-square&labelColor=0d1117"/>
-<br>
-<i>Beautiful animated icon library and web component system. Design consistency across all projects.</i>
-<br>
-<img src="https://progress-bar.xyz/60/?title=PROGRESS&width=400&color=34D399"/>
-</div>
-</details>
-<div align="center">
+
+<img src="https://raw.githubusercontent.com/iakadion/iakadion/main/assets/divider.svg" width="100%" alt="divider">
+
+<!-- ===== STATS ===== -->
+<div align="center" style="margin: 2rem 0;">
 
 ## ◈ 𝗖𝗥𝗘𝗔𝗧𝗢𝗥 𝗦𝗧𝗔𝗧𝗦 ◈
 
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="80"/>
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="80"/>
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=iakadion&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117&title_color=00f7f7&text_color=c9d1d9&icon_color=58a6ff&ring_color=00f7f7" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iakadion&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00f7f7&text_color=c9d1d9" width="40%"/>
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iakadion&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f7f7&ring=00f7f7&fire=ff6b6b&currStreakLabel=00f7f7&sideLabels=58a6ff&dates=c9d1d9" width="60%"/>
-<br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iakadion&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f7f7&line=58a6ff&point=ff6b6b&area=true&area_color=00f7f7" width="95%"/>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem; max-width: 960px; margin: 1.5rem auto;">
+  <div style="background: linear-gradient(135deg, rgba(0,247,247,0.05), rgba(88,166,255,0.05)); border: 1px solid rgba(0,247,247,0.15); border-radius: 12px; padding: 0.5rem;">
+    <img src="https://github-readme-stats.vercel.app/api?username=iakadion&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117&title_color=00f7f7&text_color=c9d1d9&icon_color=58a6ff&ring_color=00f7f7" width="100%" style="max-width: 460px;"/>
+  </div>
+  <div style="background: linear-gradient(135deg, rgba(168,85,247,0.05), rgba(0,247,247,0.05)); border: 1px solid rgba(168,85,247,0.15); border-radius: 12px; padding: 0.5rem;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iakadion&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00f7f7&text_color=c9d1d9" width="100%" style="max-width: 380px;"/>
+  </div>
 </div>
-<div align="center">
+
+<div style="background: linear-gradient(135deg, rgba(255,107,107,0.05), rgba(255,215,0,0.05)); border: 1px solid rgba(255,107,107,0.15); border-radius: 12px; padding: 0.5rem; max-width: 720px; margin: 1rem auto;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iakadion&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f7f7&ring=00f7f7&fire=ff6b6b&currStreakLabel=00f7f7&sideLabels=58a6ff&dates=c9d1d9" width="100%"/>
+</div>
+
+<div style="background: linear-gradient(135deg, rgba(0,247,247,0.05), rgba(168,85,247,0.05)); border: 1px solid rgba(0,247,247,0.15); border-radius: 12px; padding: 0.5rem; max-width: 960px; margin: 1rem auto;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iakadion&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f7f7&line=58a6ff&point=ff6b6b&area=true&area_color=00f7f7" width="100%"/>
+</div>
+
+<br>
+
+```mermaid
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#00f7f7','primaryTextColor':'#fff','lineColor':'#58a6ff'}}}%%
+pie title 🧠 Creative Energy Distribution
+    "💻 Code & Development" : 30
+    "🎵 Music & Production" : 25
+    "🎨 Design & Visual Art" : 20
+    "🎬 Film & Storytelling" : 15
+    "🎮 Games & Interactive" : 10
+```
+
+</div>
+
+<img src="https://raw.githubusercontent.com/iakadion/iakadion/main/assets/divider.svg" width="100%" alt="divider">
+
+<!-- ===== WORKFLOW ===== -->
+<div align="center" style="margin: 2rem 0;">
 
 ## ◈ 𝗪𝗢𝗥𝗞𝗙𝗟𝗢𝗪 ⟐ 𝗣𝗛𝗜𝗟𝗢𝗦𝗢𝗣𝗛𝗬 ◈
-
-<img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="200"/>
 
 ```mermaid
 %%{init: {'theme':'dark','themeVariables':{'primaryColor':'#00f7f7','primaryTextColor':'#000','lineColor':'#58a6ff','secondaryColor':'#161b22','tertiaryColor':'#0d1117'}}}%%
@@ -353,54 +367,120 @@ flowchart LR
     style F fill:#58a6ff,stroke:#58a6ff,color:#000,stroke-width:2px
 ```
 
-<img src="https://img.shields.io/badge/✦-Create._Innovate._Inspire._Repeat.-00f7f7?style=for-the-badge&labelColor=0d1117"/>
-<br>
-
-```typescript
-const genho = new MultidimensionalCreator({
-  domains: ["Code", "Music", "Film", "Design", "Writing", "Games"],
-  philosophy: "Every pixel, every note, every line of code tells a story",
-  mission: "Bridge the gap between art and technology",
-  fuel: "☕ Coffee × ∞",
+<pre style="background: #0d1117; border: 1px solid rgba(0,247,247,0.2); border-radius: 12px; padding: 1rem; max-width: 720px; margin: 1rem auto; text-align: left; font-family: 'JetBrains Mono', monospace; font-size: 0.85rem; color: #c9d1d9; overflow-x: auto;">
+<span style="color: #00f7f7;">const</span> genho <span style="color: #58a6ff;">=</span> <span style="color: #ffd700;">new</span> <span style="color: #00f7f7;">MultidimensionalCreator</span>({
+  domains: [<span style="color: #ff6b6b;">"Code"</span>, <span style="color: #ff6b6b;">"Music"</span>, <span style="color: #ff6b6b;">"Film"</span>, <span style="color: #ff6b6b;">"Design"</span>, <span style="color: #ff6b6b;">"Writing"</span>, <span style="color: #ff6b6b;">"Games"</span>],
+  philosophy: <span style="color: #4ecdc4;">"Every pixel, every note, every line of code tells a story"</span>,
+  mission: <span style="color: #4ecdc4;">"Bridge the gap between art and technology"</span>,
+  fuel: <span style="color: #a855f7;">"☕ Coffee × ∞"</span>,
 });
 
-while (genho.isAlive) {
-  const idea = await genho.dream();
-  const creation = await genho.build(idea);
-  await genho.shareWithTheWorld(creation);
-  await genho.evolve();
+<span style="color: #ffd700;">while</span> (genho.isAlive) {
+  <span style="color: #ff6b6b;">const</span> idea <span style="color: #58a6ff;">=</span> <span style="color: #ffd700;">await</span> genho.dream();
+  <span style="color: #ff6b6b;">const</span> creation <span style="color: #58a6ff;">=</span> <span style="color: #ffd700;">await</span> genho.build(idea);
+  <span style="color: #ffd700;">await</span> genho.shareWithTheWorld(creation);
+  <span style="color: #ffd700;">await</span> genho.evolve();
 }
-```
+</pre>
+
+<img src="https://img.shields.io/badge/✦-Create._Innovate._Inspire._Repeat.-00f7f7?style=for-the-badge&labelColor=0d1117"/>
 
 </div>
-<div align="center">
+
+<img src="https://raw.githubusercontent.com/iakadion/iakadion/main/assets/divider.svg" width="100%" alt="divider">
+
+<!-- ===== CONNECT ===== -->
+<div align="center" style="margin: 2rem 0;">
+
+## ◈ 𝗖𝗢𝗡𝗡𝗘𝗖𝗧 𝗪𝗜𝗧𝗛 𝗠𝗘 ◈
+
+<br>
+
+<b style="color: #00f7f7; font-size: 1rem;">🎵 𝗦𝗢𝗨𝗡𝗗 ⟐ 𝗙𝗥𝗘𝗤𝗨𝗘𝗡𝗖𝗬</b>
+<br>
+<a href="https://soundcloud.com/iakadion"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white"/></a>
+<a href="https://open.spotify.com/user/31w3syplutlik764wir6lrl4zlum"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/></a>
+<a href="https://beatstars.com/akadion"><img src="https://img.shields.io/badge/BeatStars-E8430C?style=for-the-badge&logo=beatport&logoColor=white"/></a>
+<a href="https://suno.com/akadion"><img src="https://img.shields.io/badge/Suno_AI-00D4FF?style=for-the-badge&logo=waveform&logoColor=white"/></a>
+<a href="https://genius.com/akadion"><img src="https://img.shields.io/badge/Genius-FFFF64?style=for-the-badge&logo=genius&logoColor=black"/></a>
+<br><br>
+
+<b style="color: #58a6ff; font-size: 1rem;">📱 𝗦𝗢𝗖𝗜𝗔𝗟 ⟐ 𝗠𝗘𝗗𝗜𝗔</b>
+<br>
+<a href="https://instagram.com/iakadion"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://youtube.com/@iakadion"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://twitter.com/iakadion"><img src="https://img.shields.io/badge/𝕏-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://twitch.tv/iakadion"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
+<a href="https://bsky.app/profile/akadion"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white"/></a>
+<a href="https://reddit.com/u/iakadion"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
+<br><br>
+
+<b style="color: #a855f7; font-size: 1rem;">💻 𝗖𝗢𝗗𝗘 ⟐ 𝗗𝗘𝗩</b>
+<br>
+<a href="https://github.com/iakadion"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://gitlab.com/akadion"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
+<a href="https://codepen.io/akadion"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
+<a href="https://stackoverflow.com/users/akadion"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
+<a href="https://replit.com/@akadion"><img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white"/></a>
+<a href="https://hub.docker.com/u/akadion"><img src="https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
+<br><br>
+
+<b style="color: #ff6b6b; font-size: 1rem;">🎨 𝗖𝗥𝗘𝗔𝗧𝗜𝗩𝗘 ⟐ 𝗪𝗥𝗜𝗧𝗜𝗡𝗚</b>
+<br>
+<a href="https://behance.net/akadion"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/></a>
+<a href="https://dribbble.com/akadion"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/></a>
+<a href="https://medium.com/@akadion"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://wordpress.com/iakadion"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
+<br><br>
+
+<b style="color: #ffd700; font-size: 1rem;">🚀 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 ⟐ 𝗖𝗢𝗡𝗧𝗔𝗖𝗧</b>
+<br>
+<a href="mailto:ogenhoanimation01@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://patreon.com/akadion"><img src="https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white"/></a>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/iakadion/iakadion/main/assets/divider.svg" width="100%" alt="divider">
+
+<!-- ===== CONTRIBUTIONS ===== -->
+<div align="center" style="margin: 2rem 0;">
 
 ## ◈ 𝗖𝗢𝗡𝗧𝗥𝗜𝗕𝗨𝗧𝗜𝗢𝗡𝗦 ◈
 
-<img src="https://raw.githubusercontent.com/iakadion/iakadion/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<div style="background: linear-gradient(135deg, rgba(0,247,247,0.03), rgba(88,166,255,0.03)); border: 1px solid rgba(0,247,247,0.1); border-radius: 16px; padding: 1rem; max-width: 960px; margin: 1rem auto;">
+  <img src="https://raw.githubusercontent.com/iakadion/iakadion/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
 
 ## ◈ 𝗔𝗖𝗛𝗜𝗘𝗩𝗘𝗠𝗘𝗡𝗧𝗦 ◈
 
-<img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="120"/>
-<br>
+<div style="background: linear-gradient(135deg, rgba(255,215,0,0.03), rgba(168,85,247,0.03)); border: 1px solid rgba(255,215,0,0.1); border-radius: 16px; padding: 1rem; max-width: 960px; margin: 1rem auto;">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iakadion&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="100%"/></a>
+</div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=iakadion&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 
-```mermaid
-%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#00f7f7','primaryTextColor':'#fff','lineColor':'#58a6ff'}}}%%
-pie title 🧠 Creative Energy Distribution
-    "💻 Code & Development" : 30
-    "🎵 Music & Production" : 25
-    "🎨 Design & Visual Art" : 20
-    "🎬 Film & Storytelling" : 15
-    "🎮 Games & Interactive" : 10
-```
+<img src="https://raw.githubusercontent.com/iakadion/iakadion/main/assets/divider.svg" width="100%" alt="divider">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"/> <b>Let's connect and create something extraordinary together!</b> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"/>
+<!-- ===== FOOTER ===== -->
+<div align="center" style="margin: 2rem 0; padding: 2rem;">
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"/> 
+<b style="color: #00f7f7;">Let's connect and create something extraordinary together!</b> 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"/>
 <br><br>
+
 <img src="https://profile-counter.glitch.me/iakadion/count.svg"/>
 <br>
 <a href="https://github.com/iakadion"><img src="https://komarev.com/ghpvc/?username=iakadion&color=00f7f7&style=for-the-badge&label=PROFILE+VIEWS"/></a>
 <br><br>
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:003366,50:001a33,100:0d1117&height=120&section=footer&text=⚡%20Built%20with%20passion%20•%20Powered%20by%20creativity%20⚡&fontSize=14&fontColor=58a6ff&fontAlignY=55" width="100%"/>
+
+<!-- ===== VISIT MY WEBSITE ===== -->
+<a href="https://iakadion.github.io/iakadion/">
+  <img src="https://img.shields.io/badge/🌐_Visit_My_Landing_Page-00f7f7?style=for-the-badge&labelColor=0d1117&logo=vercel&logoColor=00f7f7"/>
+</a>
+
+<pre style="color: #555; font-size: 0.75rem; margin-top: 1rem;">
+⚡ Built with passion • Powered by creativity ⚡
+</pre>
+
 </div>

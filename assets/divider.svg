@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 24" width="1200" height="24">
+  <defs>
+    <linearGradient id="divGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="transparent"/>
+      <stop offset="25%" stop-color="#00f7f7" stop-opacity="0.3"/>
+      <stop offset="50%" stop-color="#a855f7" stop-opacity="0.4"/>
+      <stop offset="75%" stop-color="#00f7f7" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="transparent"/>
+    </linearGradient>
+    <linearGradient id="divGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="transparent"/>
+      <stop offset="25%" stop-color="#58a6ff" stop-opacity="0.15"/>
+      <stop offset="50%" stop-color="#00f7f7" stop-opacity="0.2"/>
+      <stop offset="75%" stop-color="#58a6ff" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="transparent"/>
+    </linearGradient>
+  </defs>
+  <line x1="100" y1="8" x2="1100" y2="8" stroke="url(#divGrad2)" stroke-width="1"/>
+  <line x1="150" y1="12" x2="1050" y2="12" stroke="url(#divGrad)" stroke-width="1"/>
+  <line x1="200" y1="16" x2="1000" y2="16" stroke="url(#divGrad2)" stroke-width="1"/>
+  <circle cx="600" cy="12" r="4" fill="#00f7f7" opacity="0.6">
+    <animate attributeName="r" values="3;5;3" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4;0.8;0.4" dur="3s" repeatCount="indefinite"/>
+  </circle>
+</svg>
