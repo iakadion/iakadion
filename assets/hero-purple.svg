@@ -76,7 +76,6 @@
   </circle>
 
   <g filter="url(#glow)">
-    <hexagon/>
     <g transform="translate(600, 130)">
       <polygon points="0,-42 36.4,-21 36.4,21 0,42 -36.4,21 -36.4,-21" fill="none" stroke="url(#logoGrad)" stroke-width="2.5" stroke-opacity="0.9">
         <animate attributeName="stroke-opacity" values="0.7;1;0.7" dur="3s" repeatCount="indefinite"/>
