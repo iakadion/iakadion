@@ -111,8 +111,9 @@
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=iakadion&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" width="49%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=iakadion&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10&row=2" width="49%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=iakadion&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10&row=1" width="90%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=iakadion&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10&row=2" width="90%"/>
 
 <br><br>
 
