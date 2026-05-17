@@ -1,39 +1,57 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="820" height="280" viewBox="0 0 820 280">
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&amp;display=swap');
-    text { font-family: 'Inter', 'Segoe UI', system-ui, sans-serif; }
+    text { font-family: 'Inter','Segoe UI',system-ui,sans-serif; }
     .card { fill: #161b22; }
-    .card:hover { fill: #1c2333; }
-    .title { font-size: 20px; font-weight: 700; }
+    .title { font-size: 18px; font-weight: 700; }
     .item { font-size: 13px; fill: #c9d1d9; }
   </style>
   <rect width="820" height="280" rx="16" fill="#0d1117"/>
 
   <rect x="16" y="16" width="185" height="248" rx="14" class="card"/>
-  <text x="108" y="50" text-anchor="middle" class="title" fill="#ff6b9d">🎵 Music</text>
-  <text x="108" y="86" text-anchor="middle" class="item">Musician &amp; Artist</text>
-  <text x="108" y="112" text-anchor="middle" class="item">Lyricist &amp; Songwriter</text>
-  <text x="108" y="138" text-anchor="middle" class="item">Audio Engineer</text>
-  <text x="108" y="164" text-anchor="middle" class="item">Music Producer</text>
+  <circle cx="108" cy="48" r="16" fill="#ff6b9d" opacity="0.12"/>
+  <g transform="translate(99,39)">
+    <path d="M9 18V5l12-2v13" stroke="#ff6b9d" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="15" cy="11" r="0" fill="#ff6b9d"/>
+  </g>
+  <text x="108" y="82" text-anchor="middle" class="title" fill="#ff6b9d">Music</text>
+  <text x="108" y="110" text-anchor="middle" class="item">Musician &amp; Artist</text>
+  <text x="108" y="132" text-anchor="middle" class="item">Lyricist &amp; Songwriter</text>
+  <text x="108" y="154" text-anchor="middle" class="item">Audio Engineer</text>
+  <text x="108" y="176" text-anchor="middle" class="item">Music Producer</text>
 
   <rect x="217" y="16" width="185" height="248" rx="14" class="card"/>
-  <text x="309" y="50" text-anchor="middle" class="title" fill="#00f7f7">💻 Tech</text>
-  <text x="309" y="86" text-anchor="middle" class="item">Full-Stack Developer</text>
-  <text x="309" y="112" text-anchor="middle" class="item">Tool &amp; Language Builder</text>
-  <text x="309" y="138" text-anchor="middle" class="item">AI Integrator</text>
-  <text x="309" y="164" text-anchor="middle" class="item">App Creator</text>
+  <circle cx="309" cy="48" r="16" fill="#00f7f7" opacity="0.12"/>
+  <g transform="translate(300,39)">
+    <rect x="2" y="3" width="14" height="12" rx="2" stroke="#00f7f7" stroke-width="1.8" fill="none"/>
+    <path d="M6 3v-2M12 3v-2M2 9h14" stroke="#00f7f7" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  </g>
+  <text x="309" y="82" text-anchor="middle" class="title" fill="#00f7f7">Tech</text>
+  <text x="309" y="110" text-anchor="middle" class="item">Full-Stack Developer</text>
+  <text x="309" y="132" text-anchor="middle" class="item">Tool &amp; Language Builder</text>
+  <text x="309" y="154" text-anchor="middle" class="item">AI Integrator</text>
+  <text x="309" y="176" text-anchor="middle" class="item">App Creator</text>
 
   <rect x="418" y="16" width="185" height="248" rx="14" class="card"/>
-  <text x="510" y="50" text-anchor="middle" class="title" fill="#a855f7">🎨 Creative</text>
-  <text x="510" y="86" text-anchor="middle" class="item">Filmmaker &amp; Director</text>
-  <text x="510" y="112" text-anchor="middle" class="item">Visual Designer</text>
-  <text x="510" y="138" text-anchor="middle" class="item">Writer &amp; Storyteller</text>
-  <text x="510" y="164" text-anchor="middle" class="item">Game Developer</text>
+  <circle cx="510" cy="48" r="16" fill="#a855f7" opacity="0.12"/>
+  <g transform="translate(501,39)">
+    <circle cx="9" cy="9" r="7" stroke="#a855f7" stroke-width="1.8" fill="none"/>
+    <path d="M9 5v4l3 3" stroke="#a855f7" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="510" y="82" text-anchor="middle" class="title" fill="#a855f7">Creative</text>
+  <text x="510" y="110" text-anchor="middle" class="item">Filmmaker &amp; Director</text>
+  <text x="510" y="132" text-anchor="middle" class="item">Visual Designer</text>
+  <text x="510" y="154" text-anchor="middle" class="item">Writer &amp; Storyteller</text>
+  <text x="510" y="176" text-anchor="middle" class="item">Game Developer</text>
 
   <rect x="619" y="16" width="185" height="248" rx="14" class="card"/>
-  <text x="711" y="50" text-anchor="middle" class="title" fill="#ffd700">🚀 Innovation</text>
-  <text x="711" y="86" text-anchor="middle" class="item">Inventor &amp; Architect</text>
-  <text x="711" y="112" text-anchor="middle" class="item">Visionary &amp; Futurist</text>
-  <text x="711" y="138" text-anchor="middle" class="item">Experimenter</text>
-  <text x="711" y="164" text-anchor="middle" class="item">Systems Designer</text>
+  <circle cx="711" cy="48" r="16" fill="#ffd700" opacity="0.12"/>
+  <g transform="translate(702,39)">
+    <path d="M12 2l3.09 6.26L22 9.27l-5 4.87L18.18 21 12 17.77 5.82 21 7 14.14l-5-4.87 6.91-1.01z" stroke="#ffd700" stroke-width="1.5" fill="none" stroke-linejoin="round"/>
+  </g>
+  <text x="711" y="82" text-anchor="middle" class="title" fill="#ffd700">Innovation</text>
+  <text x="711" y="110" text-anchor="middle" class="item">Inventor &amp; Architect</text>
+  <text x="711" y="132" text-anchor="middle" class="item">Visionary &amp; Futurist</text>
+  <text x="711" y="154" text-anchor="middle" class="item">Experimenter</text>
+  <text x="711" y="176" text-anchor="middle" class="item">Systems Designer</text>
 </svg>
