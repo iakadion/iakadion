@@ -1,16 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=160&section=header&text=GENHO%20AKADION&fontSize=64&fontColor=ffffff&fontAlignY=45&desc=Multi-Dimensional%20Creator%20%7C%20Code%20%C2%B7%20Music%20%C2%B7%20Art&descAlignY=68&descSize=15&descColor=a0a0a0" width="100%"/>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:00f7f7&height=200&section=header&text=GENHO%20AKADION&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Creator%20%E2%9C%A6%20Developer%20%E2%9C%A6%20Artist&descSize=16&descAlignY=58)
 
-<br>
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2500&pause=800&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%E2%9C%A6+Musician+%E2%80%A2+Filmmaker+%E2%80%A2+Developer+%E2%80%A2+Designer;%E2%9C%A6+Writer+%E2%80%A2+Game+Creator+%E2%80%A2+Inventor+%E2%80%A2+Artist;%E2%9C%A6+Building+the+future+one+pixel+at+a+time" alt="Typing SVG"/>
-</a>
-
-<br>
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv68qvqB/giphy.gif" width="400"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="100"/><br>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Musician+%7C+Filmmaker+%7C+Developer+%7C+Designer;Writer+%7C+Game+Creator+%7C+Inventor+%7C+Artist;Building+the+future+one+pixel+at+a+time" alt="Typing"/>
 
 <br><br>
 
@@ -22,7 +15,7 @@
 
 <div align="center">
 
-## ◈ WHO AM I ◈
+## ✦ WHO AM I ✦
 
 <img src="https://raw.githubusercontent.com/iakadion/iakadion/main/windjets/whoami.svg" width="820"/>
 
@@ -32,7 +25,7 @@
 
 <div align="center">
 
-## ◈ TECH ARSENAL ◈
+## ✦ TECH ARSENAL ✦
 
 <br>
 
@@ -52,7 +45,7 @@
 
 <div align="center">
 
-## ◈ PROJECTS ◈
+## ✦ PROJECTS ✦
 
 <br>
 
