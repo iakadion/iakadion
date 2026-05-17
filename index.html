@@ -1,709 +1,1008 @@
 <!DOCTYPE html>
-<html lang="en" data-theme="dark">
+<html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Genho Akadion — Multidimensional Creator</title>
-  <meta name="description" content="Multidimensional Creator bridging the gap between art and technology. Musician, Filmmaker, Developer, Designer, Inventor.">
-  <meta name="author" content="Genho Akadion">
-  <meta property="og:title" content="Genho Akadion — Multidimensional Creator">
-  <meta property="og:description" content="Bridging the gap between art and technology.">
-  <meta property="og:image" content="https://raw.githubusercontent.com/iakadion/iakadion/main/assets/hero-purple.svg">
-  <meta name="theme-color" content="#04040A">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;600;700&family=Space+Grotesk:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-  <style>
-    *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
-    :root {
-      --purple: #8534F3;
-      --purple-dim: rgba(133,52,243,0.08);
-      --purple-glow: rgba(133,52,243,0.3);
-      --cyan: #00E5FF;
-      --cyan-dim: rgba(0,229,255,0.08);
-      --orange: #FE4C25;
-      --orange-dim: rgba(254,76,37,0.08);
-      --lavender: #B388FF;
-      --bg: #04040A;
-      --bg-card: rgba(4,4,10,0.8);
-      --bg-elevated: rgba(10,10,20,0.9);
-      --text: #E6E6E6;
-      --text-dim: #6E7681;
-      --text-bright: #FFFFFF;
-      --glass: rgba(133,52,243,0.04);
-      --glass-border: rgba(133,52,243,0.15);
-      --glass-hover: rgba(133,52,243,0.08);
-      --radius: 16px;
-      --radius-sm: 10px;
-      --transition: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-    }
-    html { scroll-behavior: smooth; }
-    body {
-      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
-      background: var(--bg);
-      color: var(--text);
-      line-height: 1.6;
-      overflow-x: hidden;
-      -webkit-font-smoothing: antialiased;
-    }
-    ::-webkit-scrollbar { width: 6px; }
-    ::-webkit-scrollbar-track { background: var(--bg); }
-    ::-webkit-scrollbar-thumb { background: var(--purple); border-radius: 3px; }
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Genho Akadion — Multidimensional Creator</title>
+<meta name="description" content="Genho Akadion — Developer, Musician, Filmmaker, Designer, Inventor. Bridging the gap between art and technology.">
+<meta property="og:title" content="Genho Akadion — Multidimensional Creator">
+<meta property="og:description" content="Developer, Musician, Filmmaker, Designer, Inventor">
+<meta property="og:image" content="hero.svg">
+<meta property="og:type" content="website">
+<meta name="theme-color" content="#0D1117">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&family=Space+Grotesk:wght@700;800&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #0D1117;
+  --bg-elevated: #161B22;
+  --bg-glass: rgba(22, 27, 34, 0.6);
+  --text: #E6EDF3;
+  --text-dim: #8B949E;
+  --text-muted: #484F58;
+  --accent: #00E5FF;
+  --accent-dim: rgba(0, 229, 255, 0.12);
+  --accent-glow: 0 0 20px rgba(0, 229, 255, 0.3);
+  --border: rgba(48, 54, 61, 0.6);
+  --border-accent: rgba(0, 229, 255, 0.15);
+  --success: #3FB950;
+  --warning: #D29922;
+}
 
-    #particles-canvas {
-      position: fixed; top: 0; left: 0; width: 100%; height: 100%;
-      z-index: 0; pointer-events: none;
-    }
+*, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
 
-    .container {
-      max-width: 1100px; margin: 0 auto; padding: 0 1.5rem; position: relative; z-index: 1;
-    }
+html { scroll-behavior: smooth; }
 
-    nav {
-      position: fixed; top: 0; left: 0; right: 0; z-index: 100;
-      background: rgba(4,4,10,0.85); backdrop-filter: blur(20px);
-      border-bottom: 1px solid var(--glass-border);
-      padding: 0.8rem 0;
-      transition: var(--transition);
-    }
-    nav .container { display: flex; align-items: center; justify-content: space-between; }
-    .nav-logo {
-      font-family: 'Space Grotesk', sans-serif; font-weight: 800; font-size: 1.2rem;
-      color: var(--purple); text-decoration: none;
-    }
-    .nav-links { display: flex; gap: 2rem; align-items: center; list-style: none; }
-    .nav-links a {
-      color: var(--text-dim); text-decoration: none; font-size: 0.85rem; font-weight: 500;
-      transition: var(--transition); position: relative;
-    }
-    .nav-links a::after {
-      content: ''; position: absolute; bottom: -4px; left: 0; width: 0; height: 2px;
-      background: var(--purple); transition: var(--transition);
-    }
-    .nav-links a:hover { color: var(--purple); }
-    .nav-links a:hover::after { width: 100%; }
-    .nav-toggle { display: none; flex-direction: column; gap: 4px; cursor: pointer; background: none; border: none; }
-    .nav-toggle span { width: 24px; height: 2px; background: var(--text); border-radius: 2px; transition: var(--transition); }
+body {
+  font-family: 'Inter', sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  min-height: 100vh;
+  overflow-x: hidden;
+  line-height: 1.6;
+}
 
-    section { padding: 5rem 0; position: relative; }
-    .section-title {
-      font-family: 'Space Grotesk', sans-serif; font-size: 0.7rem; font-weight: 600;
-      text-transform: uppercase; letter-spacing: 4px; color: var(--lavender); text-align: center;
-      margin-bottom: 0.5rem;
-    }
-    .section-heading {
-      font-family: 'Space Grotesk', sans-serif; font-size: 2.2rem; font-weight: 800;
-      text-align: center; margin-bottom: 3rem;
-      background: linear-gradient(135deg, var(--purple), var(--cyan), var(--lavender));
-      -webkit-background-clip: text; -webkit-text-fill-color: transparent;
-      background-clip: text;
-    }
+#scroll-progress {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 2px;
+  width: 0%;
+  background: var(--accent);
+  z-index: 9999;
+  transition: width 0.1s linear;
+  box-shadow: var(--accent-glow);
+}
 
-    .hero {
-      min-height: 100vh; display: flex; align-items: center; justify-content: center;
-      text-align: center; padding-top: 4rem;
-    }
-    .hero-content { max-width: 800px; }
-    .hero-badge {
-      display: inline-block; background: var(--purple-dim); border: 1px solid var(--glass-border);
-      border-radius: 100px; padding: 0.4rem 1.2rem; font-size: 0.75rem; color: var(--lavender);
-      font-weight: 500; letter-spacing: 1px; margin-bottom: 1.5rem;
-    }
-    .hero-title {
-      font-family: 'Space Grotesk', sans-serif; font-size: clamp(2.5rem, 8vw, 5rem);
-      font-weight: 900; line-height: 1.1; margin-bottom: 0.5rem;
-    }
-    .hero-title .gradient {
-      background: linear-gradient(135deg, var(--purple), var(--cyan), var(--orange));
-      -webkit-background-clip: text; -webkit-text-fill-color: transparent;
-      background-clip: text;
-    }
-    .hero-subtitle {
-      font-family: 'JetBrains Mono', monospace; font-size: clamp(0.9rem, 2vw, 1.2rem);
-      color: var(--text-dim); margin-bottom: 1rem; letter-spacing: 2px;
-    }
-    .hero-desc {
-      color: var(--text-dim); font-size: 1.05rem; max-width: 600px; margin: 0 auto 2rem;
-      line-height: 1.7;
-    }
-    .hero-cta {
-      display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;
-    }
-    .btn {
-      display: inline-flex; align-items: center; gap: 0.5rem;
-      padding: 0.8rem 2rem; border-radius: 100px; font-size: 0.9rem; font-weight: 600;
-      text-decoration: none; cursor: pointer; transition: var(--transition);
-      border: none; font-family: inherit;
-    }
-    .btn-primary {
-      background: linear-gradient(135deg, var(--purple), var(--cyan));
-      color: var(--bg); box-shadow: 0 4px 20px var(--purple-glow);
-    }
-    .btn-primary:hover { transform: translateY(-2px); box-shadow: 0 8px 30px var(--purple-glow); }
-    .btn-outline {
-      background: transparent; border: 1px solid var(--glass-border);
-      color: var(--text);
-    }
-    .btn-outline:hover { border-color: var(--purple); color: var(--purple); background: var(--purple-dim); }
-    .scroll-indicator {
-      position: absolute; bottom: 2rem; left: 50%; transform: translateX(-50%);
-      display: flex; flex-direction: column; align-items: center; gap: 0.5rem;
-      color: var(--text-dim); font-size: 0.7rem; letter-spacing: 2px;
-      animation: float 2s ease-in-out infinite;
-    }
-    .scroll-indicator .line { width: 1px; height: 40px; background: linear-gradient(to bottom, var(--text-dim), transparent); }
-    @keyframes float { 0%, 100% { transform: translateX(-50%) translateY(0); } 50% { transform: translateX(-50%) translateY(-8px); } }
+.bg-mesh {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  background:
+    radial-gradient(ellipse 600px 400px at 10% 20%, rgba(0, 229, 255, 0.06) 0%, transparent 70%),
+    radial-gradient(ellipse 500px 500px at 80% 10%, rgba(0, 229, 255, 0.04) 0%, transparent 70%),
+    radial-gradient(ellipse 400px 300px at 60% 80%, rgba(0, 229, 255, 0.03) 0%, transparent 70%),
+    radial-gradient(ellipse 300px 400px at 20% 70%, rgba(0, 229, 255, 0.04) 0%, transparent 70%);
+}
 
-    .bento-grid {
-      display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem;
-    }
-    .bento-card {
-      background: var(--bg-card); backdrop-filter: blur(12px);
-      border: 1px solid var(--glass-border); border-radius: var(--radius);
-      padding: 1.8rem; transition: var(--transition); position: relative; overflow: hidden;
-    }
-    .bento-card::before {
-      content: ''; position: absolute; top: 0; left: 0; right: 0; bottom: 0;
-      background: linear-gradient(135deg, transparent, var(--glass));
-      opacity: 0; transition: var(--transition);
-    }
-    .bento-card:hover { border-color: var(--purple); transform: translateY(-2px); }
-    .bento-card:hover::before { opacity: 1; }
-    .bento-card .icon { font-size: 2rem; margin-bottom: 0.8rem; display: block; }
-    .bento-card h3 { font-size: 1rem; font-weight: 700; margin-bottom: 0.4rem; }
-    .bento-card p { font-size: 0.85rem; color: var(--text-dim); line-height: 1.6; }
-    .bento-card.accent-cyan h3 { color: var(--cyan); }
-    .bento-card.accent-blue h3 { color: var(--lavender); }
-    .bento-card.accent-pink h3 { color: var(--orange); }
-    .bento-card.accent-gold h3 { color: var(--cyan); }
-    .bento-card.accent-purple h3 { color: var(--purple); }
-    .bento-card.accent-red h3 { color: var(--orange); }
+.particles {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  overflow: hidden;
+}
 
-    .project-card {
-      background: var(--bg-card); backdrop-filter: blur(12px);
-      border: 1px solid var(--glass-border); border-radius: var(--radius);
-      padding: 1.5rem; transition: var(--transition);
-    }
-    .project-card:hover { border-color: var(--purple); transform: translateY(-3px); }
-    .project-card .header { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 0.5rem; }
-    .project-card h3 { font-size: 1.1rem; font-weight: 700; }
-    .project-card .badge { font-size: 0.7rem; padding: 0.2rem 0.6rem; border-radius: 100px; font-weight: 600; background: var(--cyan-dim); color: var(--cyan); }
-    .project-card .desc { font-size: 0.85rem; color: var(--text-dim); margin-bottom: 0.8rem; line-height: 1.5; }
-    .project-card .tech { font-size: 0.75rem; color: #555; margin-bottom: 0.8rem; }
-    .progress-bar { height: 5px; background: #1a1a2e; border-radius: 3px; overflow: hidden; }
-    .progress-bar .fill { height: 100%; border-radius: 3px; transition: width 1s ease; }
+.dot {
+  position: absolute;
+  width: 2px;
+  height: 2px;
+  background: rgba(0, 229, 255, 0.3);
+  border-radius: 50%;
+  animation: drift linear infinite;
+}
 
-    .skills-grid {
-      display: flex; flex-wrap: wrap; justify-content: center; gap: 0.8rem;
-    }
-    .skill-badge {
-      display: flex; align-items: center; gap: 0.4rem;
-      background: var(--bg-card); border: 1px solid var(--glass-border);
-      border-radius: 100px; padding: 0.5rem 1rem;
-      font-size: 0.8rem; color: var(--text); transition: var(--transition);
-    }
-    .skill-badge:hover { border-color: var(--purple); color: var(--purple); transform: translateY(-1px); }
+@keyframes drift {
+  0% { transform: translateY(0) translateX(0); opacity: 0; }
+  10% { opacity: 1; }
+  90% { opacity: 1; }
+  100% { transform: translateY(-100vh) translateX(20px); opacity: 0; }
+}
 
-    .stat-card {
-      background: var(--bg-card); backdrop-filter: blur(12px);
-      border: 1px solid var(--glass-border); border-radius: var(--radius);
-      padding: 1.5rem; text-align: center; transition: var(--transition);
-    }
-    .stat-card:hover { border-color: var(--purple); }
-    .stat-card .number {
-      font-family: 'Space Grotesk', sans-serif; font-size: 2.5rem; font-weight: 800;
-      background: linear-gradient(135deg, var(--purple), var(--cyan));
-      -webkit-background-clip: text; -webkit-text-fill-color: transparent;
-      background-clip: text;
-    }
-    .stat-card .label { font-size: 0.8rem; color: var(--text-dim); margin-top: 0.2rem; }
+.dot:nth-child(1) { left: 5%; top: 100%; animation-duration: 18s; animation-delay: 0s; }
+.dot:nth-child(2) { left: 12%; top: 100%; animation-duration: 22s; animation-delay: 3s; }
+.dot:nth-child(3) { left: 20%; top: 100%; animation-duration: 20s; animation-delay: 1s; }
+.dot:nth-child(4) { left: 28%; top: 100%; animation-duration: 25s; animation-delay: 5s; }
+.dot:nth-child(5) { left: 35%; top: 100%; animation-duration: 19s; animation-delay: 2s; }
+.dot:nth-child(6) { left: 42%; top: 100%; animation-duration: 23s; animation-delay: 7s; }
+.dot:nth-child(7) { left: 50%; top: 100%; animation-duration: 17s; animation-delay: 0s; }
+.dot:nth-child(8) { left: 58%; top: 100%; animation-duration: 21s; animation-delay: 4s; }
+.dot:nth-child(9) { left: 65%; top: 100%; animation-duration: 24s; animation-delay: 6s; }
+.dot:nth-child(10) { left: 72%; top: 100%; animation-duration: 18s; animation-delay: 2s; }
+.dot:nth-child(11) { left: 80%; top: 100%; animation-duration: 20s; animation-delay: 8s; }
+.dot:nth-child(12) { left: 88%; top: 100%; animation-duration: 22s; animation-delay: 1s; }
+.dot:nth-child(13) { left: 93%; top: 100%; animation-duration: 19s; animation-delay: 9s; }
+.dot:nth-child(14) { left: 15%; top: 100%; animation-duration: 26s; animation-delay: 3s; width: 3px; height: 3px; }
+.dot:nth-child(15) { left: 55%; top: 100%; animation-duration: 28s; animation-delay: 6s; width: 3px; height: 3px; }
 
-    .social-grid {
-      display: flex; flex-wrap: wrap; justify-content: center; gap: 0.8rem;
-    }
-    .social-link {
-      display: flex; align-items: center; gap: 0.5rem;
-      background: var(--bg-card); border: 1px solid var(--glass-border);
-      border-radius: var(--radius-sm); padding: 0.7rem 1.2rem;
-      text-decoration: none; color: var(--text); font-size: 0.85rem; font-weight: 500;
-      transition: var(--transition);
-    }
-    .social-link:hover { border-color: var(--purple); color: var(--purple); transform: translateY(-2px); }
-    .social-link .social-icon { font-size: 1.1rem; }
+nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 2rem;
+  height: 64px;
+  background: rgba(13, 17, 23, 0.5);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border-bottom: 1px solid var(--border);
+  transition: background 0.3s ease;
+}
 
-    footer {
-      text-align: center; padding: 3rem 0;
-      border-top: 1px solid var(--glass-border); margin-top: 3rem;
-    }
-    footer p { font-size: 0.8rem; color: var(--text-dim); }
-    footer .mono { font-family: 'JetBrains Mono', monospace; color: var(--cyan); }
+nav.scrolled { background: rgba(13, 17, 23, 0.95); }
 
-    .visitor-count {
-      display: inline-flex; align-items: center; gap: 0.5rem;
-      background: var(--bg-card); border: 1px solid var(--glass-border);
-      border-radius: 100px; padding: 0.4rem 1rem; font-size: 0.8rem; color: var(--text-dim);
-      margin-top: 1.5rem;
-    }
-    .visitor-count .count { color: var(--purple); font-family: 'JetBrains Mono', monospace; font-weight: 600; }
+.nav-logo {
+  font-family: 'Space Grotesk', sans-serif;
+  font-weight: 800;
+  font-size: 1.3rem;
+  color: var(--accent);
+  text-decoration: none;
+  letter-spacing: -0.5px;
+}
 
-    .projects-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem; }
+.nav-links { display: flex; gap: 2rem; list-style: none; }
 
-    @media (max-width: 768px) {
-      .nav-links { display: none; position: fixed; top: 56px; left: 0; right: 0;
-        background: rgba(10,10,15,0.95); backdrop-filter: blur(20px);
-        flex-direction: column; padding: 2rem; gap: 1.5rem;
-        border-bottom: 1px solid var(--glass-border);
-      }
-      .nav-links.open { display: flex; }
-      .nav-toggle { display: flex; }
-      .section-heading { font-size: 1.8rem; }
-      .hero { min-height: 90vh; }
-      .bento-grid { grid-template-columns: 1fr; }
-      .projects-grid { grid-template-columns: 1fr; }
-    }
+.nav-links a {
+  color: var(--text-dim);
+  text-decoration: none;
+  font-size: 0.875rem;
+  font-weight: 600;
+  transition: color 0.2s;
+  position: relative;
+}
 
-    .fade-in { opacity: 0; transform: translateY(20px); transition: opacity 0.6s ease, transform 0.6s ease; }
-    .fade-in.visible { opacity: 1; transform: translateY(0); }
+.nav-links a::after {
+  content: '';
+  position: absolute;
+  bottom: -4px;
+  left: 0;
+  width: 0%;
+  height: 2px;
+  background: var(--accent);
+  transition: width 0.3s ease;
+}
 
-    .glow-orb {
-      position: absolute; border-radius: 50%; filter: blur(80px);
-      pointer-events: none;
-    }
-  </style>
+.nav-links a:hover { color: var(--text); }
+.nav-links a:hover::after { width: 100%; }
+
+.hamburger {
+  display: none;
+  flex-direction: column;
+  gap: 5px;
+  cursor: pointer;
+  background: none;
+  border: none;
+  padding: 4px;
+}
+
+.hamburger span {
+  width: 24px;
+  height: 2px;
+  background: var(--text);
+  border-radius: 2px;
+  transition: all 0.3s ease;
+}
+
+.hamburger.active span:nth-child(1) { transform: rotate(45deg) translateY(7px); }
+.hamburger.active span:nth-child(2) { opacity: 0; }
+.hamburger.active span:nth-child(3) { transform: rotate(-45deg) translateY(-7px); }
+
+.mobile-menu {
+  display: none;
+  position: fixed;
+  top: 64px;
+  left: 0;
+  right: 0;
+  background: rgba(13, 17, 23, 0.98);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border-bottom: 1px solid var(--border);
+  padding: 1.5rem 2rem;
+  z-index: 999;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+
+.mobile-menu.open { display: flex; }
+
+.mobile-menu a {
+  color: var(--text-dim);
+  text-decoration: none;
+  font-size: 1rem;
+  font-weight: 600;
+  transition: color 0.2s;
+}
+
+.mobile-menu a:hover { color: var(--accent); }
+
+main {
+  position: relative;
+  z-index: 1;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 96px 2rem 2rem;
+}
+
+.bento {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: auto;
+  grid-template-areas:
+    "hero hero hero status"
+    "hero hero hero status"
+    "stack stack project project"
+    "stack stack project project"
+    "github github github contact"
+    "github github github contact";
+  gap: 1.25rem;
+}
+
+.card {
+  background: var(--bg-glass);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 2rem;
+  transition: border-color 0.3s ease, box-shadow 0.3s ease, transform 0.1s ease;
+  transform-style: preserve-3d;
+  will-change: transform;
+  position: relative;
+  overflow: hidden;
+}
+
+.card::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: 16px;
+  background: linear-gradient(135deg, rgba(0, 229, 255, 0.03) 0%, transparent 50%);
+  pointer-events: none;
+}
+
+.card:hover {
+  border-color: var(--border-accent);
+  box-shadow: var(--accent-glow);
+}
+
+.card-label {
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: var(--accent);
+  margin-bottom: 1rem;
+}
+
+.hero { grid-area: hero; }
+.status { grid-area: status; }
+.stack { grid-area: stack; }
+.project { grid-area: project; }
+.github { grid-area: github; }
+.contact { grid-area: contact; }
+
+.hero h1 {
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: clamp(2.5rem, 5vw, 4rem);
+  font-weight: 800;
+  line-height: 1.1;
+  letter-spacing: -2px;
+  background: linear-gradient(135deg, #E6EDF3 0%, #8B949E 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  margin-bottom: 1rem;
+}
+
+.typewriter-wrap {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: var(--accent);
+  margin-bottom: 0.75rem;
+  min-height: 2rem;
+}
+
+.typewriter-wrap .cursor {
+  display: inline-block;
+  width: 2px;
+  height: 1.2em;
+  background: var(--accent);
+  vertical-align: text-bottom;
+  animation: blink 1s step-end infinite;
+  margin-left: 2px;
+}
+
+@keyframes blink {
+  50% { opacity: 0; }
+}
+
+.hero-sub {
+  font-size: 1.05rem;
+  color: var(--text-dim);
+  margin-bottom: 1.5rem;
+  max-width: 480px;
+}
+
+.hero-actions { display: flex; gap: 1rem; flex-wrap: wrap; margin-bottom: 1.5rem; }
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.75rem 1.75rem;
+  border-radius: 10px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: all 0.25s ease;
+  cursor: pointer;
+  border: none;
+}
+
+.btn-primary {
+  background: var(--accent);
+  color: var(--bg);
+}
+
+.btn-primary:hover {
+  box-shadow: var(--accent-glow);
+  transform: translateY(-2px);
+}
+
+.btn-outline {
+  background: transparent;
+  color: var(--accent);
+  border: 1.5px solid var(--border-accent);
+}
+
+.btn-outline:hover {
+  background: var(--accent-dim);
+  border-color: var(--accent);
+  transform: translateY(-2px);
+}
+
+.location-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.4rem 0.9rem;
+  border-radius: 20px;
+  background: var(--accent-dim);
+  border: 1px solid var(--border-accent);
+  font-size: 0.8rem;
+  color: var(--text-dim);
+}
+
+.status .available {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+  font-weight: 600;
+  font-size: 0.95rem;
+}
+
+.status .available .dot-green {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--success);
+  animation: pulse-dot 2s ease infinite;
+}
+
+@keyframes pulse-dot {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(63, 185, 80, 0.5); }
+  50% { box-shadow: 0 0 0 6px rgba(63, 185, 80, 0); }
+}
+
+.status-stats {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.status-stat {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.75rem 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.status-stat:last-child { border-bottom: none; }
+
+.status-stat .label { color: var(--text-dim); font-size: 0.85rem; }
+.status-stat .value { font-weight: 800; font-family: 'Space Grotesk', sans-serif; color: var(--text); font-size: 1.1rem; }
+
+.stack-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(90px, 1fr));
+  gap: 0.6rem;
+}
+
+.tech-badge {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.6rem 0.4rem;
+  border-radius: 10px;
+  background: rgba(22, 27, 34, 0.5);
+  border: 1px solid var(--border);
+  font-size: 0.7rem;
+  color: var(--text-dim);
+  transition: all 0.2s ease;
+  text-align: center;
+}
+
+.tech-badge:hover {
+  border-color: var(--border-accent);
+  color: var(--accent);
+  background: var(--accent-dim);
+  transform: translateY(-2px);
+}
+
+.tech-badge .tech-icon {
+  font-size: 1.4rem;
+  line-height: 1;
+}
+
+.projects-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.85rem;
+}
+
+.project-card {
+  background: rgba(13, 17, 23, 0.5);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 1.1rem;
+  transition: all 0.25s ease;
+  text-decoration: none;
+  color: var(--text);
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.project-card:hover {
+  border-color: var(--border-accent);
+  background: var(--accent-dim);
+  transform: translateY(-2px);
+  box-shadow: var(--accent-glow);
+}
+
+.project-card .proj-name {
+  font-weight: 700;
+  font-size: 0.95rem;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.project-card .proj-desc {
+  font-size: 0.78rem;
+  color: var(--text-dim);
+  line-height: 1.4;
+  flex: 1;
+}
+
+.project-card .proj-meta {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  margin-top: auto;
+}
+
+.lang-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.lang-html { background: #E34C26; }
+.lang-ts { background: #3178C6; }
+.lang-ps { background: #012456; }
+
+.github-stats-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.github-stats-grid img {
+  width: 100%;
+  border-radius: 10px;
+  display: block;
+}
+
+.counters-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0.75rem;
+}
+
+.counter-item {
+  text-align: center;
+  padding: 0.75rem 0.5rem;
+  border-radius: 10px;
+  background: rgba(13, 17, 23, 0.5);
+  border: 1px solid var(--border);
+}
+
+.counter-item .count {
+  font-family: 'Space Grotesk', sans-serif;
+  font-weight: 800;
+  font-size: 1.5rem;
+  color: var(--accent);
+  display: block;
+}
+
+.counter-item .count-label {
+  font-size: 0.7rem;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-top: 0.2rem;
+  display: block;
+}
+
+.connect-section { display: flex; flex-direction: column; gap: 1.25rem; }
+
+.connect-group-label {
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  color: var(--text-muted);
+}
+
+.connect-pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.45rem 0.9rem;
+  border-radius: 20px;
+  border: 1px solid var(--border);
+  background: rgba(13, 17, 23, 0.5);
+  color: var(--text-dim);
+  text-decoration: none;
+  font-size: 0.78rem;
+  font-weight: 600;
+  transition: all 0.2s ease;
+}
+
+.pill:hover {
+  border-color: var(--border-accent);
+  color: var(--accent);
+  background: var(--accent-dim);
+  transform: translateY(-1px);
+}
+
+.pill .pill-icon { font-size: 0.9rem; }
+
+footer {
+  position: relative;
+  z-index: 1;
+  text-align: center;
+  padding: 2rem;
+  margin-top: 2rem;
+  border-top: 1px solid var(--border);
+}
+
+footer p {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  margin-bottom: 0.75rem;
+}
+
+.reveal {
+  opacity: 0;
+  transform: translateY(30px);
+  transition: opacity 0.6s ease, transform 0.6s ease;
+}
+
+.reveal.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.reveal-delay-1 { transition-delay: 0.1s; }
+.reveal-delay-2 { transition-delay: 0.2s; }
+.reveal-delay-3 { transition-delay: 0.3s; }
+.reveal-delay-4 { transition-delay: 0.4s; }
+.reveal-delay-5 { transition-delay: 0.5s; }
+
+@media (max-width: 768px) {
+  .bento {
+    grid-template-columns: 1fr;
+    grid-template-areas:
+      "hero"
+      "status"
+      "stack"
+      "project"
+      "github"
+      "contact";
+  }
+
+  .nav-links { display: none; }
+  .hamburger { display: flex; }
+  .projects-grid { grid-template-columns: 1fr; }
+  .counters-grid { grid-template-columns: repeat(2, 1fr); }
+  main { padding: 80px 1rem 1rem; }
+  .card { padding: 1.5rem; }
+  .hero h1 { font-size: 2.2rem; }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  .bento {
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-areas:
+      "hero hero"
+      "hero hero"
+      "status stack"
+      "project project"
+      "github github"
+      "connect contact";
+  }
+}
+</style>
 </head>
 <body>
 
-<canvas id="particles-canvas"></canvas>
+<div id="scroll-progress"></div>
 
-<nav>
-  <div class="container">
-    <a href="#" class="nav-logo">✦ AKADION</a>
-    <button class="nav-toggle" id="navToggle" aria-label="Menu">
-      <span></span><span></span><span></span>
-    </button>
-    <ul class="nav-links" id="navLinks">
-      <li><a href="#about">About</a></li>
-      <li><a href="#projects">Projects</a></li>
-      <li><a href="#skills">Skills</a></li>
-      <li><a href="#stats">Stats</a></li>
-      <li><a href="#connect">Connect</a></li>
-    </ul>
-  </div>
+<div class="bg-mesh"></div>
+
+<div class="particles">
+  <div class="dot"></div><div class="dot"></div><div class="dot"></div>
+  <div class="dot"></div><div class="dot"></div><div class="dot"></div>
+  <div class="dot"></div><div class="dot"></div><div class="dot"></div>
+  <div class="dot"></div><div class="dot"></div><div class="dot"></div>
+  <div class="dot"></div><div class="dot"></div><div class="dot"></div>
+</div>
+
+<nav id="navbar">
+  <a href="#" class="nav-logo">⬡ AKADION</a>
+  <ul class="nav-links">
+    <li><a href="#about">About</a></li>
+    <li><a href="#projects">Projects</a></li>
+    <li><a href="#skills">Skills</a></li>
+    <li><a href="#stats">Stats</a></li>
+    <li><a href="#connect">Connect</a></li>
+  </ul>
+  <button class="hamburger" id="hamburger" aria-label="Menu">
+    <span></span><span></span><span></span>
+  </button>
 </nav>
 
-<section class="hero">
-  <div class="container hero-content">
-    <div class="hero-badge" style="animation: float 3s ease-in-out infinite;">🌌 Multidimensional Creator</div>
-    <h1 class="hero-title">
-      <span class="gradient">Genho Akadion</span>
-    </h1>
-    <p class="hero-subtitle">⟐ MUSICIAN ⟐ FILMMAKER ⟐ DEVELOPER ⟐ DESIGNER ⟐ INVENTOR ⟐</p>
-    <p class="hero-desc">Bridging the gap between art and technology. Architect of the Akadion Ecosystem — building the future one pixel at a time.</p>
-    <div class="hero-cta">
-      <a href="#projects" class="btn btn-primary">✦ Explore My Work</a>
-      <a href="#connect" class="btn btn-outline">Connect With Me</a>
-    </div>
-  </div>
-  <div class="scroll-indicator">
-    <span>SCROLL</span>
-    <div class="line"></div>
-  </div>
-</section>
+<div class="mobile-menu" id="mobileMenu">
+  <a href="#about">About</a>
+  <a href="#projects">Projects</a>
+  <a href="#skills">Skills</a>
+  <a href="#stats">Stats</a>
+  <a href="#connect">Connect</a>
+</div>
 
-<section id="about">
-  <div class="container">
-    <p class="section-title fade-in">About</p>
-    <h2 class="section-heading fade-in">Who Is Genho Akadion?</h2>
-    <div class="bento-grid">
-      <div class="bento-card accent-cyan fade-in">
-        <span class="icon">🎵</span>
-        <h3>Music Universe</h3>
-        <p>Musician & Artist · Lyricist & Songwriter · Audio Engineer · Music Producer</p>
+<main>
+  <div class="bento">
+
+    <section class="card hero reveal" id="about">
+      <div class="card-label">Hello World</div>
+      <h1>Genho<br>Akadion</h1>
+      <div class="typewriter-wrap">
+        <span id="typewriter"></span><span class="cursor"></span>
       </div>
-      <div class="bento-card accent-blue fade-in">
-        <span class="icon">💻</span>
-        <h3>Tech Dimension</h3>
-        <p>Full-Stack Developer · Tool & Language Builder · AI Integrator · App Creator</p>
+      <p class="hero-sub">Bridging the gap between art and technology.</p>
+      <div class="hero-actions">
+        <a href="#projects" class="btn btn-primary">Explore Work →</a>
+        <a href="#connect" class="btn btn-outline">Connect</a>
       </div>
-      <div class="bento-card accent-pink fade-in">
-        <span class="icon">🎨</span>
-        <h3>Creative Realm</h3>
-        <p>Filmmaker & Director · Visual Designer · Writer & Storyteller · Game Developer</p>
+      <div class="location-badge">📍 Brazil 🇧🇷</div>
+    </section>
+
+    <section class="card status reveal reveal-delay-1" id="status">
+      <div class="card-label">Status</div>
+      <div class="available">
+        <span class="dot-green"></span>
+        Available for Projects
       </div>
-      <div class="bento-card accent-gold fade-in">
-        <span class="icon">🚀</span>
-        <h3>Innovation Lab</h3>
-        <p>Inventor & Architect · Visionary & Futurist · Experimenter · Systems Designer</p>
+      <div class="status-stats">
+        <div class="status-stat">
+          <span class="label">Repositories</span>
+          <span class="value">13</span>
+        </div>
+        <div class="status-stat">
+          <span class="label">Followers</span>
+          <span class="value">246</span>
+        </div>
+        <div class="status-stat">
+          <span class="label">Since</span>
+          <span class="value">2024</span>
+        </div>
       </div>
-      <div class="bento-card accent-purple fade-in">
-        <span class="icon">🌐</span>
-        <h3>Akadion Ecosystem</h3>
-        <p>Building an interconnected universe of tools, languages, platforms, and creative experiences.</p>
+    </section>
+
+    <section class="card stack reveal reveal-delay-2" id="skills">
+      <div class="card-label">Tech Stack</div>
+      <div class="stack-grid">
+        <div class="tech-badge"><span class="tech-icon">⚛</span>React</div>
+        <div class="tech-badge"><span class="tech-icon">🔷</span>TypeScript</div>
+        <div class="tech-badge"><span class="tech-icon">▲</span>Next.js</div>
+        <div class="tech-badge"><span class="tech-icon">◆</span>Vue</div>
+        <div class="tech-badge"><span class="tech-icon">⬢</span>Node.js</div>
+        <div class="tech-badge"><span class="tech-icon">🐍</span>Python</div>
+        <div class="tech-badge"><span class="tech-icon">🔵</span>Go</div>
+        <div class="tech-badge"><span class="tech-icon">🦀</span>Rust</div>
+        <div class="tech-badge"><span class="tech-icon">🐳</span>Docker</div>
+        <div class="tech-badge"><span class="tech-icon">☸</span>K8s</div>
+        <div class="tech-badge"><span class="tech-icon">☁</span>AWS</div>
+        <div class="tech-badge"><span class="tech-icon">🐘</span>PostgreSQL</div>
+        <div class="tech-badge"><span class="tech-icon">🍃</span>MongoDB</div>
+        <div class="tech-badge"><span class="tech-icon">⚡</span>Redis</div>
+        <div class="tech-badge"><span class="tech-icon">◈</span>GraphQL</div>
+        <div class="tech-badge"><span class="tech-icon">🎨</span>Figma</div>
+        <div class="tech-badge"><span class="tech-icon">🧊</span>Blender</div>
+        <div class="tech-badge"><span class="tech-icon">🎮</span>Unity</div>
+        <div class="tech-badge"><span class="tech-icon">🔷</span>Three.js</div>
+        <div class="tech-badge"><span class="tech-icon">💨</span>Tailwind</div>
       </div>
-      <div class="bento-card accent-red fade-in">
-        <span class="icon">⚡</span>
-        <h3>Philosophy</h3>
-        <p>Every pixel, every note, every line of code tells a story. Creation is a multidimensional act.</p>
+    </section>
+
+    <section class="card project reveal reveal-delay-3" id="projects">
+      <div class="card-label">Projects</div>
+      <div class="projects-grid">
+        <a class="project-card" href="https://readgex.netlify.app" target="_blank" rel="noopener">
+          <div class="proj-name">⬡ Readgex</div>
+          <div class="proj-desc">Intelligent AI Browser</div>
+          <div class="proj-meta">
+            <span><span class="lang-dot lang-html"></span> HTML</span>
+            <span>★ 2</span>
+          </div>
+        </a>
+        <a class="project-card" href="https://fillshy.netlify.app" target="_blank" rel="noopener">
+          <div class="proj-name">⬡ Fillshy</div>
+          <div class="proj-desc">AI Background Generation</div>
+          <div class="proj-meta">
+            <span><span class="lang-dot lang-ts"></span> TypeScript</span>
+            <span>★ 2</span>
+          </div>
+        </a>
+        <a class="project-card" href="https://github.com/iakadion/akia" target="_blank" rel="noopener">
+          <div class="proj-name">⬡ Akia</div>
+          <div class="proj-desc">JavaScript Framework</div>
+          <div class="proj-meta">
+            <span><span class="lang-dot lang-ts"></span> TypeScript</span>
+            <span>MIT</span>
+          </div>
+        </a>
+        <a class="project-card" href="https://github.com/iakadion/owni" target="_blank" rel="noopener">
+          <div class="proj-name">⬡ Owni</div>
+          <div class="proj-desc">Component & Icon Library</div>
+          <div class="proj-meta">
+            <span><span class="lang-dot lang-ts"></span> TypeScript</span>
+            <span>Apache-2.0</span>
+          </div>
+        </a>
+        <a class="project-card" href="https://github.com/iakadion/allfines" target="_blank" rel="noopener">
+          <div class="proj-name">⬡ Allfines</div>
+          <div class="proj-desc">Creative Tool</div>
+          <div class="proj-meta">
+            <span><span class="lang-dot lang-ts"></span> TypeScript</span>
+            <span>★ 1</span>
+          </div>
+        </a>
+        <a class="project-card" href="https://github.com/iakadion/PowerShell-Clear" target="_blank" rel="noopener">
+          <div class="proj-name">⬡ PS-Clear</div>
+          <div class="proj-desc">Cache & Temp File Cleaner</div>
+          <div class="proj-meta">
+            <span><span class="lang-dot lang-ps"></span> PowerShell</span>
+          </div>
+        </a>
       </div>
-    </div>
+    </section>
+
+    <section class="card github reveal reveal-delay-4" id="stats">
+      <div class="card-label">GitHub Stats</div>
+      <div class="github-stats-grid">
+        <img src="https://github-readme-stats.vercel.app/api?username=iakadion&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&icon_color=00E5FF" alt="GitHub Stats" loading="lazy">
+        <img src="https://streak-stats.demolab.com/?user=iakadion&background=0D1117&border=00E5FF&stroke=00E5FF&ring=00E5FF&fire=FF6B6B&currStreakLabel=00E5FF&sideLabels=00E5FF&dates=8B949E&hide_border=true" alt="Streak Stats" loading="lazy">
+      </div>
+      <div class="counters-grid">
+        <div class="counter-item">
+          <span class="count" data-count="246">0</span>
+          <span class="count-label">Followers</span>
+        </div>
+        <div class="counter-item">
+          <span class="count" data-count="13">0</span>
+          <span class="count-label">Repos</span>
+        </div>
+        <div class="counter-item">
+          <span class="count" data-count="24">0</span>
+          <span class="count-label">Gists</span>
+        </div>
+        <div class="counter-item">
+          <span class="count" data-count="11">0</span>
+          <span class="count-label">Projects</span>
+        </div>
+      </div>
+    </section>
+
+    <section class="card contact reveal reveal-delay-5" id="connect">
+      <div class="card-label">Connect</div>
+      <div class="connect-section">
+        <div>
+          <div class="connect-group-label">Music</div>
+          <div class="connect-pills">
+            <a href="https://open.spotify.com/artist/genhoakadion" class="pill" target="_blank" rel="noopener"><span class="pill-icon">🎵</span>Spotify</a>
+            <a href="https://soundcloud.com/genhoakadion" class="pill" target="_blank" rel="noopener"><span class="pill-icon">☁️</span>SoundCloud</a>
+          </div>
+        </div>
+        <div>
+          <div class="connect-group-label">Social</div>
+          <div class="connect-pills">
+            <a href="https://instagram.com/genhoakadion" class="pill" target="_blank" rel="noopener"><span class="pill-icon">📸</span>Instagram</a>
+            <a href="https://youtube.com/@genhoakadion" class="pill" target="_blank" rel="noopener"><span class="pill-icon">▶️</span>YouTube</a>
+            <a href="https://twitter.com/genhoakadion" class="pill" target="_blank" rel="noopener"><span class="pill-icon">🐦</span>Twitter</a>
+            <a href="https://linkedin.com/in/genhoakadion" class="pill" target="_blank" rel="noopener"><span class="pill-icon">💼</span>LinkedIn</a>
+          </div>
+        </div>
+        <div>
+          <div class="connect-group-label">Dev</div>
+          <div class="connect-pills">
+            <a href="https://github.com/iakadion" class="pill" target="_blank" rel="noopener"><span class="pill-icon">🐙</span>GitHub</a>
+            <a href="https://gitlab.com/genhoakadion" class="pill" target="_blank" rel="noopener"><span class="pill-icon">🦊</span>GitLab</a>
+          </div>
+        </div>
+        <div>
+          <div class="connect-group-label">Creative</div>
+          <div class="connect-pills">
+            <a href="https://dribbble.com/genhoakadion" class="pill" target="_blank" rel="noopener"><span class="pill-icon">🏀</span>Dribbble</a>
+            <a href="https://behance.net/genhoakadion" class="pill" target="_blank" rel="noopener"><span class="pill-icon">🅱️</span>Behance</a>
+            <a href="https://akadion.dev" class="pill" target="_blank" rel="noopener"><span class="pill-icon">🌐</span>Portfolio</a>
+          </div>
+        </div>
+        <div>
+          <div class="connect-group-label">Contact</div>
+          <div class="connect-pills">
+            <a href="mailto:contato@akadion.dev" class="pill"><span class="pill-icon">✉️</span>Email</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
   </div>
-</section>
-
-<section id="projects">
-  <div class="container">
-    <p class="section-title fade-in">Projects</p>
-    <h2 class="section-heading fade-in">Legendary Projects</h2>
-    <div class="projects-grid">
-    <div class="project-card fade-in" style="border-color: rgba(254,76,37,0.2);">
-      <div class="header">
-        <h3 style="color: #FE4C25;">🔥 Akia.js</h3>
-        <span class="badge" style="background: rgba(254,76,37,0.1); color: #FE4C25;">95%</span>
-      </div>
-      <p class="desc">Universal Singleton Renderer transpiling 7+ languages with native innovation.</p>
-      <p class="tech">JavaScript · ESNext · Transpiler · Compiler</p>
-      <div class="progress-bar"><div class="fill" style="width: 95%; background: linear-gradient(90deg, #FE4C25, #00E5FF);"></div></div>
-    </div>
-    <div class="project-card fade-in" style="border-color: rgba(255,215,0,0.2);">
-      <div class="header">
-        <h3 style="color: #FFD700;">⚡ .ak Language</h3>
-        <span class="badge" style="background: rgba(255,215,0,0.1); color: #FFD700;">88%</span>
-      </div>
-      <p class="desc">Proprietary web language with a native compiler designed for the modern revolution.</p>
-      <p class="tech">Compiler Design · Native Language · Web Revolution</p>
-      <div class="progress-bar"><div class="fill" style="width: 88%; background: linear-gradient(90deg, #FFD700, #FE4C25);"></div></div>
-    </div>
-    <div class="project-card fade-in" style="border-color: rgba(0,229,255,0.2);">
-      <div class="header">
-        <h3 style="color: #00E5FF;">🌐 Readgex</h3>
-        <span class="badge" style="background: rgba(0,229,255,0.1); color: #00E5FF;">82%</span>
-      </div>
-      <p class="desc">Intelligent autonomous agent browser. Browsing reimagined through artificial intelligence.</p>
-      <p class="tech">React · TypeScript · AI · Autonomous Agent</p>
-      <div class="progress-bar"><div class="fill" style="width: 82%; background: linear-gradient(90deg, #00E5FF, #58a6ff);"></div></div>
-    </div>
-    <div class="project-card fade-in" style="border-color: rgba(179,136,255,0.2);">
-      <div class="header">
-        <h3 style="color: #B388FF;">🧠 Bilbid</h3>
-        <span class="badge" style="background: rgba(179,136,255,0.1); color: #B388FF;">87%</span>
-      </div>
-      <p class="desc">Semantic knowledge engine transforming raw data into structured understanding.</p>
-      <p class="tech">AI · NLP · Wikipedia API · Knowledge Graph</p>
-      <div class="progress-bar"><div class="fill" style="width: 87%; background: linear-gradient(90deg, #B388FF, #8534F3);"></div></div>
-    </div>
-    <div class="project-card fade-in" style="border-color: rgba(29,185,84,0.2);">
-      <div class="header">
-        <h3 style="color: #1DB954;">🎵 IUKKA Player</h3>
-        <span class="badge" style="background: rgba(29,185,84,0.1); color: #1DB954;">76%</span>
-      </div>
-      <p class="desc">Next-gen music streaming with quantum-inspired audio processing and immersive sound.</p>
-      <p class="tech">WebRTC · Media APIs · Streaming · Audio Engine</p>
-      <div class="progress-bar"><div class="fill" style="width: 76%; background: linear-gradient(90deg, #1DB954, #00E5FF);"></div></div>
-    </div>
-    <div class="project-card fade-in" style="border-color: rgba(88,166,255,0.2);">
-      <div class="header">
-        <h3 style="color: #58a6ff;">💼 SHIYO</h3>
-        <span class="badge" style="background: rgba(88,166,255,0.1); color: #58a6ff;">70%</span>
-      </div>
-      <p class="desc">Social media portfolio platform. Showcase your work, connect with creators.</p>
-      <p class="tech">React · Node.js · Social Integration · API</p>
-      <div class="progress-bar"><div class="fill" style="width: 70%; background: linear-gradient(90deg, #58a6ff, #B388FF);"></div></div>
-    </div>
-    <div class="project-card fade-in" style="border-color: rgba(234,76,137,0.2);">
-      <div class="header">
-        <h3 style="color: #EA4C89;">🎨 NYX</h3>
-        <span class="badge" style="background: rgba(234,76,137,0.1); color: #EA4C89;">65%</span>
-      </div>
-      <p class="desc">Immersive 3D portfolio experience. Art meets technology in a visual masterpiece.</p>
-      <p class="tech">React · WebGL · 3D Graphics · GLSL</p>
-      <div class="progress-bar"><div class="fill" style="width: 65%; background: linear-gradient(90deg, #EA4C89, #B388FF);"></div></div>
-    </div>
-    <div class="project-card fade-in" style="border-color: rgba(254,76,37,0.2);">
-      <div class="header">
-        <h3 style="color: #FE4C25;">🏢 Akadaion</h3>
-        <span class="badge" style="background: rgba(254,76,37,0.1); color: #FE4C25;">80%</span>
-      </div>
-      <p class="desc">The official headquarters of the Akadion ecosystem. Enterprise-grade institutional platform.</p>
-      <p class="tech">Next.js · TypeScript · Enterprise · CMS</p>
-      <div class="progress-bar"><div class="fill" style="width: 80%; background: linear-gradient(90deg, #FE4C25, #FFD700);"></div></div>
-    </div>
-    <div class="project-card fade-in" style="border-color: rgba(0,212,255,0.2);">
-      <div class="header">
-        <h3 style="color: #00D4FF;">📊 Akash</h3>
-        <span class="badge" style="background: rgba(0,212,255,0.1); color: #00D4FF;">73%</span>
-      </div>
-      <p class="desc">Unified dashboard for managing all platforms across the Akadion universe.</p>
-      <p class="tech">Dashboard · Admin Panel · Analytics · Management</p>
-      <div class="progress-bar"><div class="fill" style="width: 73%; background: linear-gradient(90deg, #00D4FF, #00E5FF);"></div></div>
-    </div>
-    <div class="project-card fade-in" style="border-color: rgba(244,114,182,0.2);">
-      <div class="header">
-        <h3 style="color: #F472B6;">✨ Fillshy</h3>
-        <span class="badge" style="background: rgba(244,114,182,0.1); color: #F472B6;">68%</span>
-      </div>
-      <p class="desc">AI-powered content generation running silently in the background. Create while you sleep.</p>
-      <p class="tech">AI · Content Generation · Background Processing · NLP</p>
-      <div class="progress-bar"><div class="fill" style="width: 68%; background: linear-gradient(90deg, #F472B6, #B388FF);"></div></div>
-    </div>
-    <div class="project-card fade-in" style="border-color: rgba(52,211,153,0.2);">
-      <div class="header">
-        <h3 style="color: #34D399;">🎯 Owni</h3>
-        <span class="badge" style="background: rgba(52,211,153,0.1); color: #34D399;">60%</span>
-      </div>
-      <p class="desc">Beautiful animated icon library and web component system for design consistency.</p>
-      <p class="tech">Web Components · Animated Icons · SVG · Design System</p>
-      <div class="progress-bar"><div class="fill" style="width: 60%; background: linear-gradient(90deg, #34D399, #00E5FF);"></div></div>
-    </div>
-    </div>
-  </div>
-</section>
-
-<section id="skills">
-  <div class="container">
-    <p class="section-title fade-in">Skills</p>
-    <h2 class="section-heading fade-in">Tech Arsenal</h2>
-    <div class="skills-grid">
-      <span class="skill-badge fade-in">⚛️ React</span>
-      <span class="skill-badge fade-in">▲ Next.js</span>
-      <span class="skill-badge fade-in">💚 Vue.js</span>
-      <span class="skill-badge fade-in">🔷 TypeScript</span>
-      <span class="skill-badge fade-in">🌐 HTML5</span>
-      <span class="skill-badge fade-in">🎨 CSS3</span>
-      <span class="skill-badge fade-in">🌊 Tailwind</span>
-      <span class="skill-badge fade-in">💅 Sass</span>
-      <span class="skill-badge fade-in">🟢 Node.js</span>
-      <span class="skill-badge fade-in">⚡ Express</span>
-      <span class="skill-badge fade-in">🐍 Python</span>
-      <span class="skill-badge fade-in">◈ GraphQL</span>
-      <span class="skill-badge fade-in">🐳 Docker</span>
-      <span class="skill-badge fade-in">☁️ AWS</span>
-      <span class="skill-badge fade-in">▲ Vercel</span>
-      <span class="skill-badge fade-in">🌍 Netlify</span>
-      <span class="skill-badge fade-in">🍃 MongoDB</span>
-      <span class="skill-badge fade-in">🐘 PostgreSQL</span>
-      <span class="skill-badge fade-in">⚡ Redis</span>
-      <span class="skill-badge fade-in">🎨 Figma</span>
-      <span class="skill-badge fade-in">🧊 WebGL</span>
-      <span class="skill-badge fade-in">📐 Three.js</span>
-      <span class="skill-badge fade-in">🌀 Blender</span>
-      <span class="skill-badge fade-in">🦀 Rust</span>
-      <span class="skill-badge fade-in">🔧 C++</span>
-      <span class="skill-badge fade-in">🐹 Go</span>
-    </div>
-  </div>
-</section>
-
-<section id="stats">
-  <div class="container">
-    <p class="section-title fade-in">Analytics</p>
-    <h2 class="section-heading fade-in">Creator Stats</h2>
-    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; max-width: 800px; margin: 0 auto 2rem;">
-      <div class="stat-card fade-in">
-        <div class="number" data-count="246">0</div>
-        <div class="label">GitHub Followers</div>
-      </div>
-      <div class="stat-card fade-in">
-        <div class="number" data-count="13">0</div>
-        <div class="label">Public Repositories</div>
-      </div>
-      <div class="stat-card fade-in">
-        <div class="number" data-count="24">0</div>
-        <div class="label">Public Gists</div>
-      </div>
-      <div class="stat-card fade-in">
-        <div class="number" data-count="11">0</div>
-        <div class="label">Ecosystem Projects</div>
-      </div>
-    </div>
-    <div style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=iakadion&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=04040A&title_color=8534F3&text_color=E6E6E6&icon_color=00E5FF&ring_color=8534F3" width="100%" style="max-width: 600px; border-radius: 12px; border: 1px solid var(--glass-border);" loading="lazy"/>
-    <br><br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iakadion&theme=radical&hide_border=true&background=04040A&stroke=8534F3&ring=8534F3&fire=FE4C25&currStreakLabel=00E5FF&sideLabels=B388FF&dates=6E7681" width="100%" style="max-width: 600px; border-radius: 12px; border: 1px solid var(--glass-border);" loading="lazy"/>
-    </div>
-  </div>
-</section>
-
-<section id="connect">
-  <div class="container">
-    <p class="section-title fade-in">Connect</p>
-    <h2 class="section-heading fade-in">Let's Create Together</h2>
-
-    <p class="fade-in" style="text-align: center; color: var(--text-dim); margin-bottom: 2rem; font-size: 0.9rem;">
-      Every pixel, every note, every line of code tells a story.
-    </p>
-
-    <div style="max-width: 500px; margin: 0 auto;">
-      <p class="fade-in" style="color: var(--purple); font-weight: 600; font-size: 0.9rem; text-align: center; margin-bottom: 1rem;">🎵 Sound & Frequency</p>
-      <div class="social-grid fade-in">
-        <a href="https://soundcloud.com/iakadion" class="social-link" target="_blank" rel="noopener"><span class="social-icon">🎧</span> SoundCloud</a>
-        <a href="https://open.spotify.com/user/31w3syplutlik764wir6lrl4zlum" class="social-link" target="_blank" rel="noopener"><span class="social-icon">🟢</span> Spotify</a>
-        <a href="https://beatstars.com/akadion" class="social-link" target="_blank" rel="noopener"><span class="social-icon">🎵</span> BeatStars</a>
-        <a href="https://suno.com/akadion" class="social-link" target="_blank" rel="noopener"><span class="social-icon">🌊</span> Suno AI</a>
-        <a href="https://genius.com/akadion" class="social-link" target="_blank" rel="noopener"><span class="social-icon">📝</span> Genius</a>
-      </div>
-      <br>
-      <p class="fade-in" style="color: var(--cyan); font-weight: 600; font-size: 0.9rem; text-align: center; margin-bottom: 1rem;">📱 Social & Media</p>
-      <div class="social-grid fade-in">
-        <a href="https://instagram.com/iakadion" class="social-link" target="_blank" rel="noopener"><span class="social-icon">📸</span> Instagram</a>
-        <a href="https://youtube.com/@iakadion" class="social-link" target="_blank" rel="noopener"><span class="social-icon">▶️</span> YouTube</a>
-        <a href="https://twitter.com/iakadion" class="social-link" target="_blank" rel="noopener"><span class="social-icon">𝕏</span> X</a>
-        <a href="https://twitch.tv/iakadion" class="social-link" target="_blank" rel="noopener"><span class="social-icon">🔴</span> Twitch</a>
-        <a href="https://bsky.app/profile/akadion" class="social-link" target="_blank" rel="noopener"><span class="social-icon">🦋</span> Bluesky</a>
-        <a href="https://reddit.com/u/iakadion" class="social-link" target="_blank" rel="noopener"><span class="social-icon">🧑‍💻</span> Reddit</a>
-      </div>
-      <br>
-      <p class="fade-in" style="color: #FE4C25; font-weight: 600; font-size: 0.9rem; text-align: center; margin-bottom: 1rem;">💻 Code & Dev</p>
-      <div class="social-grid fade-in">
-        <a href="https://github.com/iakadion" class="social-link" target="_blank" rel="noopener"><span class="social-icon">🐙</span> GitHub</a>
-        <a href="https://gitlab.com/akadion" class="social-link" target="_blank" rel="noopener"><span class="social-icon">🦊</span> GitLab</a>
-        <a href="https://codepen.io/akadion" class="social-link" target="_blank" rel="noopener"><span class="social-icon">✒️</span> CodePen</a>
-        <a href="https://hub.docker.com/u/akadion" class="social-link" target="_blank" rel="noopener"><span class="social-icon">🐳</span> Docker Hub</a>
-      </div>
-      <br>
-      <p class="fade-in" style="color: #FFD700; font-weight: 600; font-size: 0.9rem; text-align: center; margin-bottom: 1rem;">🚀 Contact</p>
-      <div class="social-grid fade-in">
-        <a href="mailto:ogenhoanimation01@gmail.com" class="social-link" target="_blank" rel="noopener"><span class="social-icon">📧</span> Email</a>
-        <a href="https://patreon.com/akadion" class="social-link" target="_blank" rel="noopener"><span class="social-icon">💎</span> Patreon</a>
-      </div>
-    </div>
-  </div>
-</section>
+</main>
 
 <footer>
-  <div class="container">
-    <p style="font-family: 'JetBrains Mono', monospace; color: var(--purple); font-size: 0.9rem;">✦ Create. Innovate. Inspire. Repeat. ✦</p>
-    <br>
-    <div class="visitor-count">
-      <span>👁️</span>
-      <span>Profile Views:</span>
-      <span class="count">
-        <img src="https://komarev.com/ghpvc/?username=iakadion&color=8534F3&style=flat&label=" alt="visitor count" style="height: 1rem;">
-      </span>
-    </div>
-    <br><br>
-    <p>⚡ Built with passion · Powered by creativity · © 2026 Genho Akadion</p>
-  </div>
+  <p>Created with passion by Genho Akadion</p>
+  <img src="https://komarev.com/ghpvc/?username=iakadion&color=00E5FF&style=flat-square&label=visitors" alt="Visitor Count" loading="lazy">
 </footer>
 
 <script>
-  const canvas = document.getElementById('particles-canvas');
-  const ctx = canvas.getContext('2d');
-  let particles = [];
-  let mouseX = 0, mouseY = 0;
-  let w, h;
+(function() {
+  const typewriterEl = document.getElementById('typewriter');
+  const roles = ['Full-Stack Developer', 'Music Producer', 'Filmmaker', 'System Architect'];
+  let roleIndex = 0;
+  let charIndex = 0;
+  let isDeleting = false;
+  let speed = 80;
 
-  function resize() {
-    w = canvas.width = window.innerWidth;
-    h = canvas.height = window.innerHeight;
-  }
-  window.addEventListener('resize', resize);
-  resize();
-
-  class Particle {
-    constructor() {
-      this.reset();
-    }
-    reset() {
-      this.x = Math.random() * w;
-      this.y = Math.random() * h;
-      this.size = Math.random() * 2 + 0.5;
-      this.speedX = (Math.random() - 0.5) * 0.5;
-      this.speedY = (Math.random() - 0.5) * 0.5;
-      this.opacity = Math.random() * 0.5 + 0.1;
-      this.hue = Math.random() * 60 + 250;
-    }
-    update() {
-      this.x += this.speedX;
-      this.y += this.speedY;
-      const dx = mouseX - this.x;
-      const dy = mouseY - this.y;
-      const dist = Math.sqrt(dx * dx + dy * dy);
-      if (dist < 150) {
-        const force = (150 - dist) / 150 * 0.5;
-        this.x -= dx / dist * force;
-        this.y -= dy / dist * force;
+  function typewrite() {
+    const current = roles[roleIndex];
+    if (!isDeleting) {
+      typewriterEl.textContent = current.substring(0, charIndex + 1);
+      charIndex++;
+      if (charIndex === current.length) {
+        isDeleting = true;
+        speed = 2000;
+      } else {
+        speed = 80;
       }
-      if (this.x < 0 || this.x > w || this.y < 0 || this.y > h) this.reset();
-    }
-    draw() {
-      ctx.beginPath();
-      ctx.arc(this.x, this.y, this.size, 0, Math.PI * 2);
-      ctx.fillStyle = `hsla(${this.hue}, 100%, 70%, ${this.opacity})`;
-      ctx.fill();
-    }
-  }
-
-  const particleCount = Math.min(120, Math.floor((w * h) / 8000));
-  for (let i = 0; i < particleCount; i++) particles.push(new Particle());
-
-  function connectParticles() {
-    for (let i = 0; i < particles.length; i++) {
-      for (let j = i + 1; j < particles.length; j++) {
-        const dx = particles[i].x - particles[j].x;
-        const dy = particles[i].y - particles[j].y;
-        const dist = Math.sqrt(dx * dx + dy * dy);
-        if (dist < 120) {
-          ctx.beginPath();
-          ctx.moveTo(particles[i].x, particles[i].y);
-          ctx.lineTo(particles[j].x, particles[j].y);
-          ctx.strokeStyle = `rgba(133, 52, 243, ${0.06 * (1 - dist / 120)})`;
-          ctx.lineWidth = 0.5;
-          ctx.stroke();
-        }
+    } else {
+      typewriterEl.textContent = current.substring(0, charIndex - 1);
+      charIndex--;
+      if (charIndex === 0) {
+        isDeleting = false;
+        roleIndex = (roleIndex + 1) % roles.length;
+        speed = 300;
+      } else {
+        speed = 40;
       }
     }
+    setTimeout(typewrite, speed);
   }
 
-  function animate() {
-    ctx.clearRect(0, 0, w, h);
-    particles.forEach(p => { p.update(); p.draw(); });
-    connectParticles();
-    requestAnimationFrame(animate);
-  }
-  animate();
+  typewrite();
 
-  document.addEventListener('mousemove', e => { mouseX = e.clientX; mouseY = e.clientY; });
+  const nav = document.getElementById('navbar');
+  const scrollProgress = document.getElementById('scroll-progress');
 
-  const observer = new IntersectionObserver((entries) => {
-    entries.forEach(entry => {
+  window.addEventListener('scroll', function() {
+    const scrolled = window.scrollY > 50;
+    nav.classList.toggle('scrolled', scrolled);
+    const docHeight = document.documentElement.scrollHeight - window.innerHeight;
+    const progress = docHeight > 0 ? (window.scrollY / docHeight) * 100 : 0;
+    scrollProgress.style.width = progress + '%';
+  }, { passive: true });
+
+  const hamburger = document.getElementById('hamburger');
+  const mobileMenu = document.getElementById('mobileMenu');
+
+  hamburger.addEventListener('click', function() {
+    hamburger.classList.toggle('active');
+    mobileMenu.classList.toggle('open');
+  });
+
+  mobileMenu.querySelectorAll('a').forEach(function(link) {
+    link.addEventListener('click', function() {
+      hamburger.classList.remove('active');
+      mobileMenu.classList.remove('open');
+    });
+  });
+
+  const reveals = document.querySelectorAll('.reveal');
+  const revealObserver = new IntersectionObserver(function(entries) {
+    entries.forEach(function(entry) {
       if (entry.isIntersecting) {
         entry.target.classList.add('visible');
+        revealObserver.unobserve(entry.target);
       }
     });
-  }, { threshold: 0.1 });
+  }, { threshold: 0.1, rootMargin: '0px 0px -40px 0px' });
 
-  document.querySelectorAll('.fade-in').forEach(el => observer.observe(el));
+  reveals.forEach(function(el) { revealObserver.observe(el); });
 
-  function animateCounters() {
-    const counters = document.querySelectorAll('[data-count]');
-    counters.forEach(counter => {
-      const target = parseInt(counter.getAttribute('data-count'));
-      const duration = 2000;
-      const step = Math.ceil(target / (duration / 16));
-      let current = 0;
-      const timer = setInterval(() => {
-        current += step;
-        if (current >= target) { current = target; clearInterval(timer); }
-        counter.textContent = current;
-      }, 16);
+  const counters = document.querySelectorAll('[data-count]');
+  const counterObserver = new IntersectionObserver(function(entries) {
+    entries.forEach(function(entry) {
+      if (entry.isIntersecting) {
+        const el = entry.target;
+        const target = parseInt(el.getAttribute('data-count'), 10);
+        let current = 0;
+        const duration = 1500;
+        const start = performance.now();
+        function animate(now) {
+          const elapsed = now - start;
+          const progress = Math.min(elapsed / duration, 1);
+          const eased = 1 - Math.pow(1 - progress, 3);
+          current = Math.floor(eased * target);
+          el.textContent = current;
+          if (progress < 1) requestAnimationFrame(animate);
+          else el.textContent = target;
+        }
+        requestAnimationFrame(animate);
+        counterObserver.unobserve(el);
+      }
     });
-  }
+  }, { threshold: 0.5 });
 
-  const statsSection = document.getElementById('stats');
-  const statsObserver = new IntersectionObserver((entries) => {
-    entries.forEach(entry => {
-      if (entry.isIntersecting) { animateCounters(); statsObserver.unobserve(entry.target); }
+  counters.forEach(function(el) { counterObserver.observe(el); });
+
+  document.querySelectorAll('.card').forEach(function(card) {
+    card.addEventListener('mousemove', function(e) {
+      const rect = card.getBoundingClientRect();
+      const x = e.clientX - rect.left;
+      const y = e.clientY - rect.top;
+      const centerX = rect.width / 2;
+      const centerY = rect.height / 2;
+      const rotateX = ((y - centerY) / centerY) * -5;
+      const rotateY = ((x - centerX) / centerX) * 5;
+      card.style.transform = 'perspective(800px) rotateX(' + rotateX + 'deg) rotateY(' + rotateY + 'deg) scale3d(1.02, 1.02, 1.02)';
     });
-  }, { threshold: 0.3 });
-  statsObserver.observe(statsSection);
 
-  document.getElementById('navToggle').addEventListener('click', () => {
-    document.getElementById('navLinks').classList.toggle('open');
+    card.addEventListener('mouseleave', function() {
+      card.style.transform = 'perspective(800px) rotateX(0deg) rotateY(0deg) scale3d(1, 1, 1)';
+    });
   });
-  document.querySelectorAll('#navLinks a').forEach(a => {
-    a.addEventListener('click', () => {
-      document.getElementById('navLinks').classList.remove('open');
-    });
-  });
+})();
 </script>
 </body>
 </html>
