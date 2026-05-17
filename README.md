@@ -1,13 +1,14 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:00f7f7&height=200&section=header&text=GENHO%20AKADION&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Creator%20%E2%9C%A6%20Developer%20%E2%9C%A6%20Artist&descSize=16&descAlignY=58)
+<img src="https://raw.githubusercontent.com/iakadion/iakadion/main/windjets/hero.svg" width="900"/>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="100"/><br>
+<br>
+
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Musician+%7C+Filmmaker+%7C+Developer+%7C+Designer;Writer+%7C+Game+Creator+%7C+Inventor+%7C+Artist;Building+the+future+one+pixel+at+a+time" alt="Typing"/>
 
 <br><br>
 
-<a href="https://instagram.com/iakadion"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>&nbsp;&nbsp;<a href="https://youtube.com/@iakadion"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>&nbsp;&nbsp;<a href="https://twitter.com/iakadion"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/></a>&nbsp;&nbsp;<a href="https://github.com/iakadion"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;&nbsp;<a href="https://soundcloud.com/iakadion"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=flat-square&logo=soundcloud&logoColor=white"/></a>&nbsp;&nbsp;<a href="https://twitch.tv/iakadion"><img src="https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white"/></a>&nbsp;&nbsp;<a href="https://bsky.app/profile/akadion"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=flat-square&logo=bluesky&logoColor=white"/></a>&nbsp;&nbsp;<a href="https://threads.net/@iakadion"><img src="https://img.shields.io/badge/Threads-000000?style=flat-square&logo=threads&logoColor=white"/></a>&nbsp;&nbsp;<a href="https://reddit.com/u/iakadion"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white"/></a>&nbsp;&nbsp;<a href="https://gitlab.com/akadion"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/></a>&nbsp;&nbsp;<a href="https://behance.net/akadion"><img src="https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white"/></a>&nbsp;&nbsp;<a href="https://dribbble.com/akadion"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white"/></a>
+<a href="https://instagram.com/iakadion"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>&nbsp;&nbsp;<a href="https://youtube.com/@iakadion"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>&nbsp;&nbsp;<a href="https://x.com/iakadion"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/></a>&nbsp;&nbsp;<a href="https://github.com/iakadion"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;&nbsp;<a href="https://soundcloud.com/iakadion"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=flat-square&logo=soundcloud&logoColor=white"/></a>&nbsp;&nbsp;<a href="https://twitch.tv/iakadion"><img src="https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white"/></a>&nbsp;&nbsp;<a href="https://bsky.app/profile/akadion"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=flat-square&logo=bluesky&logoColor=white"/></a>&nbsp;&nbsp;<a href="https://threads.net/@iakadion"><img src="https://img.shields.io/badge/Threads-000000?style=flat-square&logo=threads&logoColor=white"/></a>&nbsp;&nbsp;<a href="https://reddit.com/u/iakadion"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white"/></a>&nbsp;&nbsp;<a href="https://gitlab.com/akadion"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/></a>&nbsp;&nbsp;<a href="https://behance.net/akadion"><img src="https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white"/></a>&nbsp;&nbsp;<a href="https://dribbble.com/akadion"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white"/></a>
 
 </div>
 
@@ -115,9 +116,5 @@
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=iakadion&color=00f7f7&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0d1117"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=footer&text=Built%20with%20passion%20%20%20Powered%20by%20creativity&fontSize=14&fontColor=a0a0a0&fontAlignY=55" width="100%"/>
 
 </div>
