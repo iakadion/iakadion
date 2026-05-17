@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="820" height="180" viewBox="0 0 820 180">
+  <style>
+    text { font-family: 'Inter', 'Segoe UI', system-ui, sans-serif; }
+    .section-title { font-size: 16px; font-weight: 700; }
+    .link-label { font-size: 13px; font-weight: 600; }
+    .link-handle { font-size: 10px; fill: #484f58; }
+  </style>
+  <rect width="820" height="180" rx="16" fill="#0d1117"/>
+
+  <text x="410" y="32" text-anchor="middle" class="section-title" fill="#ffd700">🎨 Creative &amp; Writing</text>
+
+  <a xlink:href="https://behance.net/akadion" target="_blank">
+    <rect x="16" y="46" width="255" height="46" rx="12" fill="#161b22"/>
+    <g transform="translate(38,58)">
+      <rect x="3" y="3" width="5" height="6" rx="1" fill="#1769FF"/>
+      <rect x="10" y="3" width="5" height="4" rx="1" fill="#1769FF"/>
+      <path d="M3 11h14" stroke="#1769FF" stroke-width="1.5"/>
+    </g>
+    <text x="72" y="74" class="link-label" fill="#1769FF">Behance</text>
+    <text x="180" y="74" class="link-handle">@akadion</text>
+  </a>
+
+  <a xlink:href="https://dribbble.com/akadion" target="_blank">
+    <rect x="283" y="46" width="255" height="46" rx="12" fill="#161b22"/>
+    <g transform="translate(305,58)">
+      <circle cx="10" cy="10" r="8" fill="none" stroke="#EA4C89" stroke-width="1.5"/>
+      <path d="M3 7c4 2 8 1 14-1" stroke="#EA4C89" stroke-width="1" fill="none"/>
+      <path d="M4 14c4-2 8-1 13 1" stroke="#EA4C89" stroke-width="1" fill="none"/>
+    </g>
+    <text x="335" y="74" class="link-label" fill="#EA4C89">Dribbble</text>
+    <text x="440" y="74" class="link-handle">@akadion</text>
+  </a>
+
+  <a xlink:href="https://figma.com/@akadion" target="_blank">
+    <rect x="550" y="46" width="255" height="46" rx="12" fill="#161b22"/>
+    <g transform="translate(572,58)">
+      <rect x="4" y="2" width="6" height="6" rx="3" fill="#F24E1E"/>
+      <rect x="4" y="10" width="6" height="6" rx="3" fill="#1ABCFE"/>
+      <rect x="12" y="2" width="6" height="6" rx="3" fill="#A259FF"/>
+    </g>
+    <text x="604" y="74" class="link-label" fill="#F24E1E">Figma</text>
+    <text x="710" y="74" class="link-handle">@akadion</text>
+  </a>
+
+  <text x="410" y="128" text-anchor="middle" class="section-title" fill="#ff6b6b">🚀 Support &amp; Contact</text>
+
+  <a xlink:href="https://producthunt.com/@akadion" target="_blank">
+    <rect x="16" y="140" width="255" height="30" rx="10" fill="#161b22"/>
+    <text x="143" y="160" text-anchor="middle" class="link-label" fill="#DA552F">Product Hunt</text>
+  </a>
+  <a xlink:href="https://patreon.com/akadion" target="_blank">
+    <rect x="283" y="140" width="255" height="30" rx="10" fill="#161b22"/>
+    <text x="410" y="160" text-anchor="middle" class="link-label" fill="#FF424D">Patreon</text>
+  </a>
+  <a xlink:href="mailto:ogenhoanimation01@gmail.com" target="_blank">
+    <rect x="550" y="140" width="255" height="30" rx="10" fill="#161b22"/>
+    <text x="677" y="160" text-anchor="middle" class="link-label" fill="#EA4335">Gmail</text>
+  </a>
+</svg>

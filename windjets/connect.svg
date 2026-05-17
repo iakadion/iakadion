@@ -1,0 +1,148 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="820" height="400" viewBox="0 0 820 400">
+  <style>
+    text { font-family: 'Inter', 'Segoe UI', system-ui, sans-serif; }
+    .section-title { font-size: 16px; font-weight: 700; }
+    .link-label { font-size: 13px; font-weight: 600; }
+    .link-handle { font-size: 10px; fill: #484f58; }
+  </style>
+  <rect width="820" height="400" rx="16" fill="#0d1117"/>
+
+  <text x="410" y="32" text-anchor="middle" class="section-title" fill="#ff6b9d">🎵 Sound &amp; Frequency</text>
+
+  <a xlink:href="https://soundcloud.com/iakadion" target="_blank">
+    <rect x="16" y="46" width="255" height="46" rx="12" fill="#161b22"/>
+    <g transform="translate(38,58)">
+      <path d="M12 1a3 3 0 0 0-3 3v8a4 4 0 1 0 4 0V4a1 1 0 0 1 2 0v6h1.5V4a3 3 0 0 0-3-3z" fill="#FF3300" transform="scale(0.9)"/>
+    </g>
+    <text x="72" y="74" class="link-label" fill="#FF3300">SoundCloud</text>
+    <text x="180" y="74" class="link-handle">@iakadion</text>
+  </a>
+
+  <a xlink:href="https://open.spotify.com/user/31w3syplutlik764wir6lrl4zlum" target="_blank">
+    <rect x="283" y="46" width="255" height="46" rx="12" fill="#161b22"/>
+    <g transform="translate(305,58)">
+      <circle cx="8" cy="8" r="7" fill="#1DB954"/>
+      <path d="M6 11c3-1 6-.5 8.5.5" stroke="#fff" stroke-width="1.2" fill="none"/>
+      <circle cx="5.5" cy="7.5" r="1" fill="#fff"/>
+      <circle cx="11" cy="6.5" r="1" fill="#fff"/>
+    </g>
+    <text x="335" y="74" class="link-label" fill="#1DB954">Spotify</text>
+    <text x="440" y="74" class="link-handle">@iakadion</text>
+  </a>
+
+  <a xlink:href="https://beatstars.com/akadion" target="_blank">
+    <rect x="550" y="46" width="255" height="46" rx="12" fill="#161b22"/>
+    <g transform="translate(572,58)">
+      <path d="M4 3h8v2H4zM4 7h8v2H4zM4 11h5v2H4z" fill="#E8430C"/>
+    </g>
+    <text x="604" y="74" class="link-label" fill="#E8430C">BeatStars</text>
+    <text x="710" y="74" class="link-handle">@akadion</text>
+  </a>
+
+  <a xlink:href="https://soundverse.com/akadion" target="_blank">
+    <rect x="16" y="102" width="255" height="46" rx="12" fill="#161b22"/>
+    <g transform="translate(38,114)">
+      <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z" fill="none" stroke="#7C3AED" stroke-width="1.5"/>
+      <circle cx="12" cy="12" r="3" fill="#7C3AED"/>
+    </g>
+    <text x="72" y="130" class="link-label" fill="#7C3AED">Soundverse</text>
+    <text x="180" y="130" class="link-handle">@akadion</text>
+  </a>
+
+  <a xlink:href="https://suno.com/akadion" target="_blank">
+    <rect x="283" y="102" width="255" height="46" rx="12" fill="#161b22"/>
+    <g transform="translate(305,114)">
+      <path d="M2 12h20M12 2v20" stroke="#00D4FF" stroke-width="1.5"/>
+      <path d="M5 5l14 14M19 5L5 19" stroke="#00D4FF" stroke-width="1.2" opacity="0.5"/>
+    </g>
+    <text x="335" y="130" class="link-label" fill="#00D4FF">Suno AI</text>
+    <text x="440" y="130" class="link-handle">@akadion</text>
+  </a>
+
+  <a xlink:href="https://genius.com/akadion" target="_blank">
+    <rect x="550" y="102" width="255" height="46" rx="12" fill="#161b22"/>
+    <g transform="translate(572,114)">
+      <path d="M6 3h6l-2 7h4L8 21l1-8H6z" fill="#FFFF64"/>
+    </g>
+    <text x="604" y="130" class="link-label" fill="#FFFF64">Genius</text>
+    <text x="710" y="130" class="link-handle">@akadion</text>
+  </a>
+
+  <text x="410" y="188" text-anchor="middle" class="section-title" fill="#a855f7">📱 Social &amp; Media</text>
+
+  <a xlink:href="https://instagram.com/iakadion" target="_blank">
+    <rect x="16" y="202" width="255" height="46" rx="12" fill="#161b22"/>
+    <g transform="translate(38,214)">
+      <rect x="2" y="2" width="16" height="16" rx="5" fill="none" stroke="#E4405F" stroke-width="1.5"/>
+      <circle cx="10" cy="10" r="4" fill="none" stroke="#E4405F" stroke-width="1.5"/>
+      <circle cx="15.5" cy="4.5" r="1" fill="#E4405F"/>
+    </g>
+    <text x="72" y="230" class="link-label" fill="#E4405F">Instagram</text>
+    <text x="180" y="230" class="link-handle">@iakadion</text>
+  </a>
+
+  <a xlink:href="https://youtube.com/@iakadion" target="_blank">
+    <rect x="283" y="202" width="255" height="46" rx="12" fill="#161b22"/>
+    <g transform="translate(305,214)">
+      <path d="M3 6l7 4-7 4V6z" fill="#FF0000"/>
+      <rect x="1" y="3" width="18" height="14" rx="4" fill="none" stroke="#FF0000" stroke-width="1.3"/>
+    </g>
+    <text x="335" y="230" class="link-label" fill="#FF0000">YouTube</text>
+    <text x="440" y="230" class="link-handle">@iakadion</text>
+  </a>
+
+  <a xlink:href="https://twitter.com/iakadion" target="_blank">
+    <rect x="550" y="202" width="255" height="46" rx="12" fill="#161b22"/>
+    <g transform="translate(572,214)">
+      <path d="M4 4l12 12M16 4L4 16" stroke="#fff" stroke-width="2"/>
+    </g>
+    <text x="604" y="230" class="link-label" fill="#ffffff">X / Twitter</text>
+    <text x="730" y="230" class="link-handle">@iakadion</text>
+  </a>
+
+  <a xlink:href="https://twitch.tv/iakadion" target="_blank">
+    <rect x="16" y="258" width="255" height="46" rx="12" fill="#161b22"/>
+    <g transform="translate(38,270)">
+      <path d="M4 2h12l2 4v8h-5v2l-2 2h-2v-4H4V2zM9 6v4M13 6v4" fill="none" stroke="#9146FF" stroke-width="1.4"/>
+    </g>
+    <text x="72" y="286" class="link-label" fill="#9146FF">Twitch</text>
+    <text x="180" y="286" class="link-handle">@iakadion</text>
+  </a>
+
+  <a xlink:href="https://threads.net/@iakadion" target="_blank">
+    <rect x="283" y="258" width="255" height="46" rx="12" fill="#161b22"/>
+    <g transform="translate(305,270)">
+      <path d="M4 4c5 0 9 3 9 7s-4 7-9 7" stroke="#fff" stroke-width="1.5" fill="none"/>
+    </g>
+    <text x="335" y="286" class="link-label" fill="#ffffff">Threads</text>
+    <text x="440" y="286" class="link-handle">@iakadion</text>
+  </a>
+
+  <a xlink:href="https://bsky.app/profile/akadion" target="_blank">
+    <rect x="550" y="258" width="255" height="46" rx="12" fill="#161b22"/>
+    <g transform="translate(572,270)">
+      <path d="M4 4l12 12M16 4L4 16" stroke="#0285FF" stroke-width="1.5"/>
+    </g>
+    <text x="604" y="286" class="link-label" fill="#0285FF">Bluesky</text>
+    <text x="710" y="286" class="link-handle">@akadion</text>
+  </a>
+
+  <text x="410" y="340" text-anchor="middle" class="section-title" fill="#00f7f7">💻 Code &amp; Dev</text>
+
+  <a xlink:href="https://github.com/iakadion" target="_blank">
+    <rect x="16" y="352" width="156" height="36" rx="10" fill="#161b22"/>
+    <text x="94" y="375" text-anchor="middle" class="link-label" fill="#c9d1d9">GitHub</text>
+  </a>
+  <a xlink:href="https://gitlab.com/akadion" target="_blank">
+    <rect x="182" y="352" width="156" height="36" rx="10" fill="#161b22"/>
+    <text x="260" y="375" text-anchor="middle" class="link-label" fill="#FC6D26">GitLab</text>
+  </a>
+  <a xlink:href="https://codepen.io/akadion" target="_blank">
+    <rect x="348" y="352" width="156" height="36" rx="10" fill="#161b22"/>
+    <text x="426" y="375" text-anchor="middle" class="link-label" fill="#c9d1d9">CodePen</text>
+  </a>
+  <a xlink:href="https://stackoverflow.com/users/akadion" target="_blank">
+    <rect x="514" y="352" width="156" height="36" rx="10" fill="#161b22"/>
+    <text x="592" y="375" text-anchor="middle" class="link-label" fill="#F58025">StackOverflow</text>
+  </a>
+</svg>

@@ -1,31 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="820" height="280" viewBox="0 0 820 280">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="820" height="280" viewBox="0 0 820 280">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&amp;display=swap');
+    text { font-family: 'Inter', 'Segoe UI', system-ui, sans-serif; }
+    .card { fill: #161b22; }
+    .card:hover { fill: #1c2333; }
+    .title { font-size: 20px; font-weight: 700; }
+    .item { font-size: 13px; fill: #c9d1d9; }
+  </style>
   <rect width="820" height="280" rx="16" fill="#0d1117"/>
 
-  <rect x="16" y="16" width="185" height="248" rx="14" fill="#161b22"/>
-  <text x="108" y="48" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="22" fill="#ff6b9d">🎵 Music</text>
-  <text x="108" y="82" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#c9d1d9">Musician &amp; Artist</text>
-  <text x="108" y="108" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#c9d1d9">Lyricist &amp; Songwriter</text>
-  <text x="108" y="134" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#c9d1d9">Audio Engineer</text>
-  <text x="108" y="160" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#c9d1d9">Music Producer</text>
+  <rect x="16" y="16" width="185" height="248" rx="14" class="card"/>
+  <text x="108" y="50" text-anchor="middle" class="title" fill="#ff6b9d">🎵 Music</text>
+  <text x="108" y="86" text-anchor="middle" class="item">Musician &amp; Artist</text>
+  <text x="108" y="112" text-anchor="middle" class="item">Lyricist &amp; Songwriter</text>
+  <text x="108" y="138" text-anchor="middle" class="item">Audio Engineer</text>
+  <text x="108" y="164" text-anchor="middle" class="item">Music Producer</text>
 
-  <rect x="217" y="16" width="185" height="248" rx="14" fill="#161b22"/>
-  <text x="309" y="48" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="22" fill="#00f7f7">💻 Tech</text>
-  <text x="309" y="82" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#c9d1d9">Full-Stack Developer</text>
-  <text x="309" y="108" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#c9d1d9">Tool &amp; Language Builder</text>
-  <text x="309" y="134" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#c9d1d9">AI Integrator</text>
-  <text x="309" y="160" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#c9d1d9">App Creator</text>
+  <rect x="217" y="16" width="185" height="248" rx="14" class="card"/>
+  <text x="309" y="50" text-anchor="middle" class="title" fill="#00f7f7">💻 Tech</text>
+  <text x="309" y="86" text-anchor="middle" class="item">Full-Stack Developer</text>
+  <text x="309" y="112" text-anchor="middle" class="item">Tool &amp; Language Builder</text>
+  <text x="309" y="138" text-anchor="middle" class="item">AI Integrator</text>
+  <text x="309" y="164" text-anchor="middle" class="item">App Creator</text>
 
-  <rect x="418" y="16" width="185" height="248" rx="14" fill="#161b22"/>
-  <text x="510" y="48" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="22" fill="#a855f7">🎨 Creative</text>
-  <text x="510" y="82" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#c9d1d9">Filmmaker &amp; Director</text>
-  <text x="510" y="108" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#c9d1d9">Visual Designer</text>
-  <text x="510" y="134" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#c9d1d9">Writer &amp; Storyteller</text>
-  <text x="510" y="160" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#c9d1d9">Game Developer</text>
+  <rect x="418" y="16" width="185" height="248" rx="14" class="card"/>
+  <text x="510" y="50" text-anchor="middle" class="title" fill="#a855f7">🎨 Creative</text>
+  <text x="510" y="86" text-anchor="middle" class="item">Filmmaker &amp; Director</text>
+  <text x="510" y="112" text-anchor="middle" class="item">Visual Designer</text>
+  <text x="510" y="138" text-anchor="middle" class="item">Writer &amp; Storyteller</text>
+  <text x="510" y="164" text-anchor="middle" class="item">Game Developer</text>
 
-  <rect x="619" y="16" width="185" height="248" rx="14" fill="#161b22"/>
-  <text x="711" y="48" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="22" fill="#ffd700">🚀 Innovation</text>
-  <text x="711" y="82" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#c9d1d9">Inventor &amp; Architect</text>
-  <text x="711" y="108" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#c9d1d9">Visionary &amp; Futurist</text>
-  <text x="711" y="134" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#c9d1d9">Experimenter</text>
-  <text x="711" y="160" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#c9d1d9">Systems Designer</text>
+  <rect x="619" y="16" width="185" height="248" rx="14" class="card"/>
+  <text x="711" y="50" text-anchor="middle" class="title" fill="#ffd700">🚀 Innovation</text>
+  <text x="711" y="86" text-anchor="middle" class="item">Inventor &amp; Architect</text>
+  <text x="711" y="112" text-anchor="middle" class="item">Visionary &amp; Futurist</text>
+  <text x="711" y="138" text-anchor="middle" class="item">Experimenter</text>
+  <text x="711" y="164" text-anchor="middle" class="item">Systems Designer</text>
 </svg>
