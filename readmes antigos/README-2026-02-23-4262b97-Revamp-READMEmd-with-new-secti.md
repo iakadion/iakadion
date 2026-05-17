@@ -1,44 +1,44 @@
 <div align="center">
 <!-- HEADER: WAVE + TYPING -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=280&section=header&text=GENHO%20AKADION&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Multi-Dimensional%20Creator%20•%20Code%20•%20Music%20•%20Art&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=280&section=header&text=GENHO%20AKADION&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Multi-Dimensional%20Creator%20ÔÇó%20Code%20ÔÇó%20Music%20ÔÇó%20Art&descAlignY=55&descAlign=50" width="100%"/>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=90&lines=🎵+Musician+%7C+🎬+Filmmaker+%7C+💻+Developer;🎨+Designer+%7C+✍️+Writer+%7C+🎮+Game+Creator;🚀+Inventor+%7C+🎭+Artist+%7C+⚡+Innovator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=90&lines=­ƒÄÁ+Musician+%7C+­ƒÄ¼+Filmmaker+%7C+­ƒÆ╗+Developer;­ƒÄ¿+Designer+%7C+Ô£ì´©Å+Writer+%7C+­ƒÄ«+Game+Creator;­ƒÜÇ+Inventor+%7C+­ƒÄ¡+Artist+%7C+ÔÜí+Innovator" alt="Typing SVG" />
 </a>
 <br/>
 <!-- LOCATION BADGE -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWw0ZWxvYmZ5dTBqaGN4Zm9kZ3R3ZjNxN3M5YzRhYnJ6eGFpejN5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="30"/> <b>Broadcasting from Brazil</b> 🇧🇷 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWw0ZWxvYmZ5dTBqaGN4Zm9kZ3R3ZjNxN3M5YzRhYnJ6eGFpejN5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="30"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWw0ZWxvYmZ5dTBqaGN4Zm9kZ3R3ZjNxN3M5YzRhYnJ6eGFpejN5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="30"/> <b>Broadcasting from Brazil</b> ­ƒçº­ƒçÀ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWw0ZWxvYmZ5dTBqaGN4Zm9kZ3R3ZjNxN3M5YzRhYnJ6eGFpejN5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="30"/>
 </div>
 ---
-## 🎭 **WHO AM I?**
+## ­ƒÄ¡ **WHO AM I?**
 <div align="center">
 mindmap
   root((GENHO AKADION))
-    🎵 MUSIC
+    ­ƒÄÁ MUSIC
       Musician / Lyricist
       Music Engineer
-    💻 TECH
+    ­ƒÆ╗ TECH
       Full-Stack Dev
       Tool Builder
-    🎨 CREATIVE
+    ­ƒÄ¿ CREATIVE
       Filmmaker
       Designer
-    🚀 INNOVATION
+    ­ƒÜÇ INNOVATION
       Inventor
       Visionary
 <br>
 > *I am a multi-dimensional creator navigating the intersection of Code, Music, and Visual Arts.*
 >
-> 🎸 **Music:** Musician, Artist, Lyricist, Engineer & Producer
-> 💻 **Tech:** Programmer, Software Developer, Full-Stack Creator
-> 🎨 **Creative:** Filmmaker, Writer, Game Dev, Visual Artist
-> 🚀 **Innovation:** Inventor, Architect, Visionary & Enthusiast
+> ­ƒÄ© **Music:** Musician, Artist, Lyricist, Engineer & Producer
+> ­ƒÆ╗ **Tech:** Programmer, Software Developer, Full-Stack Creator
+> ­ƒÄ¿ **Creative:** Filmmaker, Writer, Game Dev, Visual Artist
+> ­ƒÜÇ **Innovation:** Inventor, Architect, Visionary & Enthusiast
 </div>
 ---
-## 📡 **CONNECT WITH ME**
+## ­ƒôí **CONNECT WITH ME**
 <div align="center">
 <!-- MUSIC & AUDIO -->
 <p>
-<b>🎵 SOUND & FREQUENCY</b><br>
+<b>­ƒÄÁ SOUND & FREQUENCY</b><br>
 <a href="https://soundcloud.com/iakadion"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white"/></a>
 <a href="https://open.spotify.com/user/31w3syplutlik764wir6lrl4zlum"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=black"/></a>
 <a href="https://beatstars.com/akadion"><img src="https://img.shields.io/badge/BeatStars-FF6600?style=for-the-badge&logo=music&logoColor=white"/></a>
@@ -48,7 +48,7 @@ mindmap
 </p>
 <!-- SOCIAL media -->
 <p>
-<b>📱 SOCIAL & MEDIA</b><br>
+<b>­ƒô▒ SOCIAL & MEDIA</b><br>
 <a href="https://instagram.com/iakadion"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://youtube.com/@iakadion"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href="https://twitter.com/iakadion"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
@@ -60,7 +60,7 @@ mindmap
 </p>
 <!-- DEVELOPER -->
 <p>
-<b>💻 CODE & DEV</b><br>
+<b>­ƒÆ╗ CODE & DEV</b><br>
 <a href="https://github.com/iakadion"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://gitlab.com/akadion"><img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
 <a href="https://codepen.io/akadion"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
@@ -70,7 +70,7 @@ mindmap
 </p>
 <!-- CREATIVE & CONTENT -->
 <p>
-<b>🎨 CREATIVE & WRITING</b><br>
+<b>­ƒÄ¿ CREATIVE & WRITING</b><br>
 <a href="https://behance.net/akadion"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/></a>
 <a href="https://dribbble.com/akadion"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/></a>
 <a href="https://figma.com/@akadion"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
@@ -79,14 +79,14 @@ mindmap
 </p>
 <!-- DIRECT & SUPPORT -->
 <p>
-<b>🚀 INNOVATION & SUPPORT</b><br>
+<b>­ƒÜÇ INNOVATION & SUPPORT</b><br>
 <a href="https://producthunt.com/@akadion"><img src="https://img.shields.io/badge/Product_Hunt-DA552F?style=for-the-badge&logo=producthunt&logoColor=white"/></a>
 <a href="https://patreon.com/akadion"><img src="https://img.shields.io/badge/Patreon-Support-FF424D?style=for-the-badge&logo=patreon&logoColor=white"/></a>
 <a href="mailto:ogenhoanimation01@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 </div>
 ---
-## 🛠️ **TECH ARSENAL**
+## ­ƒøá´©Å **TECH ARSENAL**
 <div align="center">
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200"/>
 <br><br>
@@ -95,64 +95,64 @@ mindmap
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,graphql,express,sass,bootstrap,vercel,netlify,aws,webgl,threejs,vue,python,cpp&theme=dark&perline=15" />
 </div>
 ---
-## 🚀 **LEGENDARY PROJECTS**
+## ­ƒÜÇ **LEGENDARY PROJECTS**
 <div align="center">
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%"/>
 </div>
 <br>
 <details open>
-<summary><b>🔥 Akia.js - Universal Renderer</b> (Click to collapse)</summary>
+<summary><b>­ƒöÑ Akia.js - Universal Renderer</b> (Click to collapse)</summary>
 > *Singleton renderer transpiling 7+ languages with Native Innovation.*
 > **Tech:** `JavaScript` `ESNext` `Transpiler` `Compiler`
 > ![Progress](https://progress-bar.dev/95/?title=Status&width=300&color=00f7f7)
 </details>
 <details>
-<summary><b>⚡ .ak Language - Proprietary Web Language</b></summary>
+<summary><b>ÔÜí .ak Language - Proprietary Web Language</b></summary>
 > *The future of web development. Native compiler for modern revolution.*
 > **Tech:** `Compiler Design` `Native Language` `Web Innovation`
 > ![Progress](https://progress-bar.dev/88/?title=Status&width=300&color=ff6b6b)
 </details>
 <details>
-<summary><b>🌐 readgex - Intelligent AI Browser</b></summary>
+<summary><b>­ƒîÉ readgex - Intelligent AI Browser</b></summary>
 > *Smart Autonomous Agent Browser Integration.*
 > **Tech:** `React` `TypeScript` `AI` `Autonomous Agent`
 > ![Progress](https://progress-bar.dev/82/?title=Status&width=300&color=4ecdc4)
 </details>
 <details>
-<summary><b>🧠 Bilbid - Semantic Knowledge Engine</b></summary>
+<summary><b>­ƒºá Bilbid - Semantic Knowledge Engine</b></summary>
 > **Tech:** `AI` `NLP` `Wikipedia API` `Knowledge Graph`
 > ![Progress](https://progress-bar.dev/87/?title=Status&width=300&color=6c5ce7)
 </details>
 <details>
-<summary><b>🎵 IUKKA Player - Quantum Streaming</b></summary>
+<summary><b>­ƒÄÁ IUKKA Player - Quantum Streaming</b></summary>
 <b>Tech:</b> `WebRTC` `Media APIs` `Quantum Processing`
 </details>
 <details>
-<summary><b>💼 SHIYO - Social Media Portfolio Platform</b></summary>
+<summary><b>­ƒÆ╝ SHIYO - Social Media Portfolio Platform</b></summary>
 <b>Tech:</b> `React` `Node.js` `Social Integration`
 </details>
 <details>
-<summary><b>🎨 NYX - Creative Portfolio Showcase</b></summary>
+<summary><b>­ƒÄ¿ NYX - Creative Portfolio Showcase</b></summary>
 <b>Tech:</b> `React` `WebGL` `3D Graphics`
 </details>
 <details>
-<summary><b>🏢 Akadaion - Institutional HQ</b></summary>
+<summary><b>­ƒÅó Akadaion - Institutional HQ</b></summary>
 <b>Tech:</b> `Next.js` `TypeScript` `Enterprise`
 </details>
 <details>
-<summary><b>📊 akash - Universal Dashboard</b></summary>
+<summary><b>­ƒôè akash - Universal Dashboard</b></summary>
 <b>Tech:</b> `Dashboard` `Admin Panel` `Site Management`
 </details>
 <details>
-<summary><b>✨ Fillshy - Background AI Content Generator</b></summary>
+<summary><b>Ô£¿ Fillshy - Background AI Content Generator</b></summary>
 <b>Tech:</b> `AI` `Content Generation` `Background Processing`
 </details>
 <details>
-<summary><b>🎯 Owni - Component & Icon Library</b></summary>
+<summary><b>­ƒÄ» Owni - Component & Icon Library</b></summary>
 <b>Tech:</b> `Owm` `Animated Icons` `Web Components`
 </details>
 ---
-## 📊 **CREATOR STATS**
+## ­ƒôè **CREATOR STATS**
 <div align="center">
 <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300"/>
 <br>
@@ -164,7 +164,7 @@ mindmap
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=iakadion&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f7f7&line=00f7f7&point=ff6b6b" />
 </div>
 ---
-## 🧠 **WORKFLOW & PHILOSOPHY**
+## ­ƒºá **WORKFLOW & PHILOSOPHY**
 <div align="center">
 mermaid
 %%{init: {'theme':'dark'}}%%
@@ -185,18 +185,18 @@ while(genho.isAlive) {
 }
 </div>
 ---
-## 🐍 **CONTRIBUTIONS**
+## ­ƒÉì **CONTRIBUTIONS**
 <div align="center">
 <img src="https://raw.githubusercontent.com/iakadion/iakadion/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 ---
 <div align="center">
-### 🏆 **ACHIEVEMENTS**
+### ­ƒÅå **ACHIEVEMENTS**
 [![trophy](https://github-profile-trophy.vercel.app/?username=iakadion&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 <br/>
-![Visitor Count](https://profile-counter.glitch.me/iakadion/count.svg) • [![Visits](https://komarev.com/ghpvc/?username=iakadion&color=00f7f7&style=flat&label=PROFILE+VIEWS)](https://github.com/iakadion)
+![Visitor Count](https://profile-counter.glitch.me/iakadion/count.svg) ÔÇó [![Visits](https://komarev.com/ghpvc/?username=iakadion&color=00f7f7&style=flat&label=PROFILE+VIEWS)](https://github.com/iakadion)
 <br/>
 <!-- FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=120&section=footer" width="100%"/>
-**⚡ Built with passion, powered by creativity ⚡**
+**ÔÜí Built with passion, powered by creativity ÔÜí**
 </div>
