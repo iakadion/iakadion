@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="220" viewBox="0 0 820 220">
+  <rect width="820" height="220" rx="16" fill="#0d1117"/>
+  <text x="410" y="36" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="18" fill="#ff6b9d">🎵 Sound &amp; Frequency</text>
+
+  <rect x="16" y="52" width="255" height="46" rx="12" fill="#161b22"/>
+  <text x="143" y="81" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#FF3300">🔊 SoundCloud</text>
+
+  <rect x="283" y="52" width="255" height="46" rx="12" fill="#161b22"/>
+  <text x="410" y="81" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#1DB954">🎧 Spotify</text>
+
+  <rect x="550" y="52" width="255" height="46" rx="12" fill="#161b22"/>
+  <text x="677" y="81" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#E8430C">🎙️ BeatStars</text>
+
+  <rect x="16" y="108" width="255" height="46" rx="12" fill="#161b22"/>
+  <text x="143" y="137" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#7C3AED">〰️ Soundverse</text>
+
+  <rect x="283" y="108" width="255" height="46" rx="12" fill="#161b22"/>
+  <text x="410" y="137" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#00D4FF">🌊 Suno AI</text>
+
+  <rect x="550" y="108" width="255" height="46" rx="12" fill="#161b22"/>
+  <text x="677" y="137" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#FFFF64">🧠 Genius</text>
+
+  <text x="410" y="198" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#484f58">@iakadion · @akadion</text>
+</svg>

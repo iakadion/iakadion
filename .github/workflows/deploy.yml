@@ -5,6 +5,9 @@ on:
     branches: [main, master]
   workflow_dispatch:
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 permissions:
   contents: read
   pages: write
@@ -22,15 +25,17 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 'lts/*'
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
 
       - name: Build static site
         run: |
           mkdir -p _site
-          cp -r * _site/ 2>/dev/null || true
+          cp README.md _site/index.html 2>/dev/null || true
+          cp -r windjets _site/windjets 2>/dev/null || true
+          cp -r referencesmd _site/referencesmd 2>/dev/null || true
+          cp LICENSE _site/LICENSE 2>/dev/null || true
+          echo "<!-- Deployed by GitHub Actions -->" >> _site/index.html
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

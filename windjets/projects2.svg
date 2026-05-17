@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="220" viewBox="0 0 820 220">
+  <rect width="820" height="220" rx="16" fill="#0d1117"/>
+
+  <rect x="16" y="16" width="255" height="188" rx="14" fill="#161b22"/>
+  <text x="143" y="48" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="20" fill="#a855f7">🧠 Bilbid</text>
+  <text x="143" y="76" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#8b949e">Semantic Knowledge Engine</text>
+  <text x="143" y="94" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#8b949e">Structured knowledge</text>
+  <rect x="43" y="116" width="200" height="18" rx="9" fill="#21262d"/>
+  <rect x="43" y="116" width="174" height="18" rx="9" fill="#a855f7" opacity="0.85"/>
+  <text x="143" y="130" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#fff" font-weight="600">87%</text>
+  <text x="143" y="168" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#58a6ff">AI · NLP · Knowledge Graph</text>
+
+  <rect x="283" y="16" width="255" height="188" rx="14" fill="#161b22"/>
+  <text x="410" y="48" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="20" fill="#1DB954">🎵 IUKKA Player</text>
+  <text x="410" y="76" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#8b949e">Quantum Streaming Platform</text>
+  <text x="410" y="94" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#8b949e">Immersive sound design</text>
+  <rect x="310" y="116" width="200" height="18" rx="9" fill="#21262d"/>
+  <rect x="310" y="116" width="152" height="18" rx="9" fill="#1DB954" opacity="0.85"/>
+  <text x="410" y="130" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#fff" font-weight="600">76%</text>
+  <text x="410" y="168" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#58a6ff">WebRTC · Streaming · Audio</text>
+
+  <rect x="550" y="16" width="255" height="188" rx="14" fill="#161b22"/>
+  <text x="677" y="48" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="20" fill="#58a6ff">💼 SHIYO</text>
+  <text x="677" y="76" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#8b949e">Social Media Portfolio</text>
+  <text x="677" y="94" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#8b949e">Showcase &amp; connect</text>
+  <rect x="577" y="116" width="200" height="18" rx="9" fill="#21262d"/>
+  <rect x="577" y="116" width="140" height="18" rx="9" fill="#58a6ff" opacity="0.85"/>
+  <text x="677" y="130" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#000" font-weight="600">70%</text>
+  <text x="677" y="168" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#58a6ff">React · Node.js · Social · API</text>
+</svg>
