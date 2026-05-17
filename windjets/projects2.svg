@@ -1,36 +1,50 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="820" height="220" viewBox="0 0 820 220">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="820" height="230" viewBox="0 0 820 230">
   <style>
-    text { font-family: 'Inter', 'Segoe UI', system-ui, sans-serif; }
-    .title { font-size: 20px; font-weight: 700; }
-    .desc { font-size: 11px; fill: #8b949e; }
-    .tag { font-size: 10px; fill: #58a6ff; }
+    text { font-family: 'Inter','Segoe UI',system-ui,sans-serif; }
+    .pname { font-size: 18px; font-weight: 700; }
+    .pdesc { font-size: 11.5px; fill: #8b949e; }
+    .ptag { font-size: 10px; fill: #58a6ff; }
+    .pct { font-size: 10px; font-weight: 700; }
   </style>
-  <rect width="820" height="220" rx="16" fill="#0d1117"/>
+  <rect width="820" height="230" rx="16" fill="#0d1117"/>
 
-  <rect x="16" y="16" width="255" height="188" rx="14" fill="#161b22"/>
-  <text x="143" y="50" text-anchor="middle" class="title" fill="#a855f7">🧠 Bilbid</text>
-  <text x="143" y="74" text-anchor="middle" class="desc">Semantic Knowledge Engine</text>
-  <text x="143" y="90" text-anchor="middle" class="desc">Structured knowledge</text>
-  <rect x="43" y="112" width="200" height="18" rx="9" fill="#21262d"/>
-  <rect x="43" y="112" width="174" height="18" rx="9" fill="#a855f7" opacity="0.8"/>
-  <text x="143" y="125" text-anchor="middle" font-size="10" fill="#fff" font-weight="700">87%</text>
-  <text x="143" y="160" text-anchor="middle" class="tag">AI · NLP · Knowledge Graph</text>
+  <rect x="16" y="16" width="255" height="198" rx="14" fill="#161b22"/>
+  <circle cx="143" cy="56" r="22" fill="#1a1a2e" stroke="#a855f7" stroke-width="1.5"/>
+  <circle cx="136" cy="52" r="4" fill="none" stroke="#a855f7" stroke-width="1.5"/>
+  <path d="M148 48l-12 12" stroke="#a855f7" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="152" cy="60" r="4" fill="none" stroke="#a855f7" stroke-width="1.5"/>
+  <text x="143" y="100" text-anchor="middle" class="pname" fill="#a855f7">Bilbid</text>
+  <text x="143" y="120" text-anchor="middle" class="pdesc">Semantic Knowledge Engine</text>
+  <text x="143" y="136" text-anchor="middle" class="pdesc">Structured knowledge graphs</text>
+  <rect x="43" y="156" width="200" height="14" rx="7" fill="#21262d"/>
+  <rect x="43" y="156" width="174" height="14" rx="7" fill="#a855f7" opacity="0.7"/>
+  <text x="143" y="166" text-anchor="middle" class="pct" fill="#fff">87%</text>
+  <text x="143" y="195" text-anchor="middle" class="ptag">AI · NLP · Knowledge Graph</text>
 
-  <rect x="283" y="16" width="255" height="188" rx="14" fill="#161b22"/>
-  <text x="410" y="50" text-anchor="middle" class="title" fill="#1DB954">🎵 IUKKA Player</text>
-  <text x="410" y="74" text-anchor="middle" class="desc">Quantum Streaming Platform</text>
-  <text x="410" y="90" text-anchor="middle" class="desc">Immersive sound design</text>
-  <rect x="310" y="112" width="200" height="18" rx="9" fill="#21262d"/>
-  <rect x="310" y="112" width="152" height="18" rx="9" fill="#1DB954" opacity="0.8"/>
-  <text x="410" y="125" text-anchor="middle" font-size="10" fill="#fff" font-weight="700">76%</text>
-  <text x="410" y="160" text-anchor="middle" class="tag">WebRTC · Streaming · Audio</text>
+  <rect x="283" y="16" width="255" height="198" rx="14" fill="#161b22"/>
+  <circle cx="410" cy="56" r="22" fill="#1a1a2e" stroke="#1DB954" stroke-width="1.5"/>
+  <path d="M400 50c4-1 8 0 11 2M398 56c5-1 10 0 14 2M396 62c6-1 12 0 16 2" fill="none" stroke="#1DB954" stroke-width="1.8" stroke-linecap="round"/>
+  <circle cx="397" cy="49" r="1.5" fill="#1DB954"/>
+  <circle cx="415" cy="49" r="1.5" fill="#1DB954"/>
+  <text x="410" y="100" text-anchor="middle" class="pname" fill="#1DB954">IUKKA Player</text>
+  <text x="410" y="120" text-anchor="middle" class="pdesc">Quantum Streaming Platform</text>
+  <text x="410" y="136" text-anchor="middle" class="pdesc">Immersive sound design</text>
+  <rect x="310" y="156" width="200" height="14" rx="7" fill="#21262d"/>
+  <rect x="310" y="156" width="152" height="14" rx="7" fill="#1DB954" opacity="0.7"/>
+  <text x="410" y="166" text-anchor="middle" class="pct" fill="#fff">76%</text>
+  <text x="410" y="195" text-anchor="middle" class="ptag">WebRTC · Streaming · Audio</text>
 
-  <rect x="550" y="16" width="255" height="188" rx="14" fill="#161b22"/>
-  <text x="677" y="50" text-anchor="middle" class="title" fill="#58a6ff">💼 SHIYO</text>
-  <text x="677" y="74" text-anchor="middle" class="desc">Social Media Portfolio</text>
-  <text x="677" y="90" text-anchor="middle" class="desc">Showcase &amp; connect</text>
-  <rect x="577" y="112" width="200" height="18" rx="9" fill="#21262d"/>
-  <rect x="577" y="112" width="140" height="18" rx="9" fill="#58a6ff" opacity="0.8"/>
-  <text x="677" y="125" text-anchor="middle" font-size="10" fill="#0d1117" font-weight="700">70%</text>
-  <text x="677" y="160" text-anchor="middle" class="tag">React · Node.js · Social · API</text>
+  <rect x="550" y="16" width="255" height="198" rx="14" fill="#161b22"/>
+  <circle cx="677" cy="56" r="22" fill="#1a1a2e" stroke="#58a6ff" stroke-width="1.5"/>
+  <rect x="667" y="46" width="8" height="8" rx="2" fill="#58a6ff" opacity="0.4"/>
+  <rect x="677" y="46" width="8" height="8" rx="2" fill="#58a6ff" opacity="0.7"/>
+  <rect x="667" y="56" width="8" height="8" rx="2" fill="#58a6ff" opacity="0.7"/>
+  <rect x="677" y="56" width="8" height="8" rx="2" fill="#58a6ff"/>
+  <text x="677" y="100" text-anchor="middle" class="pname" fill="#58a6ff">SHIYO</text>
+  <text x="677" y="120" text-anchor="middle" class="pdesc">Social Media Portfolio</text>
+  <text x="677" y="136" text-anchor="middle" class="pdesc">Showcase &amp; connect</text>
+  <rect x="577" y="156" width="200" height="14" rx="7" fill="#21262d"/>
+  <rect x="577" y="156" width="140" height="14" rx="7" fill="#58a6ff" opacity="0.7"/>
+  <text x="677" y="166" text-anchor="middle" class="pct" fill="#0d1117">70%</text>
+  <text x="677" y="195" text-anchor="middle" class="ptag">React · Node.js · Social · API</text>
 </svg>

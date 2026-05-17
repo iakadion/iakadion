@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="50%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="ring1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f7f7"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+    <linearGradient id="ring2" x1="100%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff6b6b"/>
+      <stop offset="100%" stop-color="#ffd700"/>
+    </linearGradient>
+    <linearGradient id="ring3" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="#00f7f7"/>
+    </linearGradient>
+    <filter id="glow1">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glow2">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="260" rx="0" fill="url(#bgGrad)"/>
+
+  <g transform="translate(160,130)" filter="url(#glow1)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="20s" repeatCount="indefinite"/>
+      <ellipse cx="0" cy="0" rx="72" ry="28" fill="none" stroke="url(#ring1)" stroke-width="1.8" stroke-dasharray="8 4" opacity="0.8"/>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="120" to="480" dur="25s" repeatCount="indefinite"/>
+      <ellipse cx="0" cy="0" rx="72" ry="28" fill="none" stroke="url(#ring2)" stroke-width="1.8" stroke-dasharray="8 4" opacity="0.7" transform="rotate(60)"/>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="240" to="600" dur="30s" repeatCount="indefinite"/>
+      <ellipse cx="0" cy="0" rx="72" ry="28" fill="none" stroke="url(#ring3)" stroke-width="1.8" stroke-dasharray="8 4" opacity="0.6" transform="rotate(-60)"/>
+    </g>
+    <circle cx="0" cy="0" r="6" fill="#00f7f7" opacity="0.9">
+      <animate attributeName="r" values="5;7;5" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="0" cy="0" r="2" fill="#fff"/>
+  </g>
+
+  <g transform="translate(160,130)" filter="url(#glow2)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="35s" repeatCount="indefinite"/>
+      <circle cx="0" cy="-52" r="3" fill="#00f7f7" opacity="0.9"/>
+      <circle cx="45" cy="26" r="2.5" fill="#ff6b6b" opacity="0.8"/>
+      <circle cx="-45" cy="26" r="2.5" fill="#ffd700" opacity="0.8"/>
+    </g>
+  </g>
+
+  <text x="520" y="90" font-family="'Inter','Segoe UI',system-ui,sans-serif" font-size="52" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="-1">GENHO AKADION</text>
+
+  <text x="520" y="125" font-family="'Inter','Segoe UI',system-ui,sans-serif" font-size="15" fill="#8b949e" text-anchor="middle" letter-spacing="6">CREATOR ★ DEVELOPER ★ ARTIST</text>
+
+  <g transform="translate(520,160)">
+    <rect x="-180" y="0" width="360" height="3" rx="1.5" fill="#21262d"/>
+    <rect x="-180" y="0" width="360" height="3" rx="1.5" fill="url(#ring1)" opacity="0.6">
+      <animate attributeName="width" values="0;360;0" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="x" values="-180;180;-180" dur="4s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <circle cx="280" cy="230" r="1" fill="#00f7f7" opacity="0.4">
+    <animate attributeName="opacity" values="0.2;0.6;0.2" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="620" cy="40" r="1" fill="#a855f7" opacity="0.3">
+    <animate attributeName="opacity" values="0.1;0.5;0.1" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="800" cy="200" r="1" fill="#ff6b6b" opacity="0.3">
+    <animate attributeName="opacity" values="0.2;0.5;0.2" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="100" cy="60" r="0.8" fill="#ffd700" opacity="0.4">
+    <animate attributeName="opacity" values="0.1;0.6;0.1" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="850" cy="80" r="0.8" fill="#00f7f7" opacity="0.3">
+    <animate attributeName="opacity" values="0.2;0.5;0.2" dur="4.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="50" cy="220" r="0.8" fill="#58a6ff" opacity="0.3">
+    <animate attributeName="opacity" values="0.1;0.4;0.1" dur="5.5s" repeatCount="indefinite"/>
+  </circle>
+</svg>

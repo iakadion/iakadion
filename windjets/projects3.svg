@@ -1,33 +1,44 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="820" height="180" viewBox="0 0 820 180">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="820" height="190" viewBox="0 0 820 190">
   <style>
-    text { font-family: 'Inter', 'Segoe UI', system-ui, sans-serif; }
-    .title { font-size: 20px; font-weight: 700; }
-    .desc { font-size: 11px; fill: #8b949e; }
-    .tag { font-size: 10px; fill: #58a6ff; }
+    text { font-family: 'Inter','Segoe UI',system-ui,sans-serif; }
+    .pname { font-size: 18px; font-weight: 700; }
+    .pdesc { font-size: 11.5px; fill: #8b949e; }
+    .ptag { font-size: 10px; fill: #58a6ff; }
+    .pct { font-size: 10px; font-weight: 700; }
   </style>
-  <rect width="820" height="180" rx="16" fill="#0d1117"/>
+  <rect width="820" height="190" rx="16" fill="#0d1117"/>
 
-  <rect x="16" y="16" width="255" height="148" rx="14" fill="#161b22"/>
-  <text x="143" y="46" text-anchor="middle" class="title" fill="#EA4C89">🎨 NYX</text>
-  <text x="143" y="68" text-anchor="middle" class="desc">Creative Portfolio Showcase</text>
-  <rect x="43" y="84" width="200" height="18" rx="9" fill="#21262d"/>
-  <rect x="43" y="84" width="130" height="18" rx="9" fill="#EA4C89" opacity="0.8"/>
-  <text x="143" y="97" text-anchor="middle" font-size="10" fill="#fff" font-weight="700">65%</text>
-  <text x="143" y="131" text-anchor="middle" class="tag">WebGL · 3D · GLSL</text>
+  <rect x="16" y="16" width="255" height="158" rx="14" fill="#161b22"/>
+  <circle cx="143" cy="46" r="20" fill="#1a1a2e" stroke="#EA4C89" stroke-width="1.5"/>
+  <circle cx="143" cy="46" r="8" fill="none" stroke="#EA4C89" stroke-width="1.5" stroke-dasharray="3 2"/>
+  <circle cx="143" cy="46" r="3" fill="#EA4C89"/>
+  <text x="143" y="86" text-anchor="middle" class="pname" fill="#EA4C89">NYX</text>
+  <text x="143" y="104" text-anchor="middle" class="pdesc">Creative Portfolio Showcase</text>
+  <rect x="43" y="118" width="200" height="12" rx="6" fill="#21262d"/>
+  <rect x="43" y="118" width="130" height="12" rx="6" fill="#EA4C89" opacity="0.7"/>
+  <text x="143" y="127" text-anchor="middle" class="pct" fill="#fff">65%</text>
+  <text x="143" y="153" text-anchor="middle" class="ptag">WebGL · 3D · GLSL</text>
 
-  <rect x="283" y="16" width="255" height="148" rx="14" fill="#161b22"/>
-  <text x="410" y="46" text-anchor="middle" class="title" fill="#FF6B00">🏢 Akadaion</text>
-  <text x="410" y="68" text-anchor="middle" class="desc">Institutional HQ</text>
-  <rect x="310" y="84" width="200" height="18" rx="9" fill="#21262d"/>
-  <rect x="310" y="84" width="160" height="18" rx="9" fill="#FF6B00" opacity="0.8"/>
-  <text x="410" y="97" text-anchor="middle" font-size="10" fill="#fff" font-weight="700">80%</text>
-  <text x="410" y="131" text-anchor="middle" class="tag">Next.js · TypeScript · Enterprise</text>
+  <rect x="283" y="16" width="255" height="158" rx="14" fill="#161b22"/>
+  <circle cx="410" cy="46" r="20" fill="#1a1a2e" stroke="#FF6B00" stroke-width="1.5"/>
+  <path d="M402 40h16v12h-16z" fill="none" stroke="#FF6B00" stroke-width="1.5" rx="2"/>
+  <path d="M406 44h8M406 48h5" stroke="#FF6B00" stroke-width="1.2" stroke-linecap="round"/>
+  <text x="410" y="86" text-anchor="middle" class="pname" fill="#FF6B00">Akadaion</text>
+  <text x="410" y="104" text-anchor="middle" class="pdesc">Institutional HQ</text>
+  <rect x="310" y="118" width="200" height="12" rx="6" fill="#21262d"/>
+  <rect x="310" y="118" width="160" height="12" rx="6" fill="#FF6B00" opacity="0.7"/>
+  <text x="410" y="127" text-anchor="middle" class="pct" fill="#fff">80%</text>
+  <text x="410" y="153" text-anchor="middle" class="ptag">Next.js · TypeScript · Enterprise</text>
 
-  <rect x="550" y="16" width="255" height="148" rx="14" fill="#161b22"/>
-  <text x="677" y="46" text-anchor="middle" class="title" fill="#34D399">🎯 Owni</text>
-  <text x="677" y="68" text-anchor="middle" class="desc">Component &amp; Icon Library</text>
-  <rect x="577" y="84" width="200" height="18" rx="9" fill="#21262d"/>
-  <rect x="577" y="84" width="120" height="18" rx="9" fill="#34D399" opacity="0.8"/>
-  <text x="677" y="97" text-anchor="middle" font-size="10" fill="#0d1117" font-weight="700">60%</text>
-  <text x="677" y="131" text-anchor="middle" class="tag">Web Components · SVG · Design System</text>
+  <rect x="550" y="16" width="255" height="158" rx="14" fill="#161b22"/>
+  <circle cx="677" cy="46" r="20" fill="#1a1a2e" stroke="#34D399" stroke-width="1.5"/>
+  <path d="M670 40v12l7-6z" fill="#34D399"/>
+  <rect x="679" y="42" width="4" height="8" rx="1" fill="#34D399" opacity="0.5"/>
+  <rect x="685" y="44" width="4" height="6" rx="1" fill="#34D399" opacity="0.3"/>
+  <text x="677" y="86" text-anchor="middle" class="pname" fill="#34D399">Owni</text>
+  <text x="677" y="104" text-anchor="middle" class="pdesc">Component &amp; Icon Library</text>
+  <rect x="577" y="118" width="200" height="12" rx="6" fill="#21262d"/>
+  <rect x="577" y="118" width="120" height="12" rx="6" fill="#34D399" opacity="0.7"/>
+  <text x="677" y="127" text-anchor="middle" class="pct" fill="#0d1117">60%</text>
+  <text x="677" y="153" text-anchor="middle" class="ptag">Web Components · SVG · Design System</text>
 </svg>
