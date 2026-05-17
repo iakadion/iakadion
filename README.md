@@ -65,7 +65,7 @@
 
 <div align="center">
 
-## ◈ CONNECT ◈
+## ✦ CONNECT ✦
 
 <br>
 
@@ -81,7 +81,7 @@
 
 <div align="center">
 
-## ◈ GITHUB STATS ◈
+## ✦ GITHUB STATS ✦
 
 <br>
 
@@ -98,7 +98,7 @@
 
 <div align="center">
 
-## ◈ CONTRIBUTIONS ◈
+## ✦ CONTRIBUTIONS ✦
 
 <br>
 
@@ -106,7 +106,7 @@
 
 <br><br>
 
-## ◈ AWARDS ◈
+## ✦ AWARDS ✦
 
 <br>
 
