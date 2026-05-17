@@ -30,15 +30,19 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind,sass,javascript,typescript,nodejs,express,python,cpp,rust,go&theme=dark&perline=7"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,html,css,tailwind&theme=dark&perline=7"/>
 
-<br>
+<img src="https://skillicons.dev/icons?i=sass,javascript,typescript,nodejs,express,python,cpp&theme=dark&perline=7"/>
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,graphql,docker,aws,vercel,netlify,git,github,gitlab,figma,blender,threejs,webgl&theme=dark&perline=7"/>
+<img src="https://skillicons.dev/icons?i=rust,go,mongodb,postgres,redis,graphql,docker&theme=dark&perline=7"/>
 
-<br>
+<img src="https://skillicons.dev/icons?i=aws,vercel,netlify,git,github,gitlab,figma&theme=dark&perline=7"/>
 
-<img src="https://skillicons.dev/icons?i=vscode,neovim,linux,bash,webpack,vite,pnpm,prisma,supabase,firebase,electron,tauri,wasm,solidity,tensorflow&theme=dark&perline=7"/>
+<img src="https://skillicons.dev/icons?i=blender,threejs,webgl,vscode,neovim,linux,bash&theme=dark&perline=7"/>
+
+<img src="https://skillicons.dev/icons?i=webpack,vite,pnpm,prisma,supabase,firebase,electron&theme=dark&perline=7"/>
+
+<img src="https://skillicons.dev/icons?i=tauri,wasm,solidity,tensorflow,swift,kotlin,dart&theme=dark&perline=7"/>
 
 </div>
 
@@ -71,10 +75,6 @@
 <br>
 
 <img src="https://raw.githubusercontent.com/iakadion/iakadion/main/windjets/connect.svg" width="820"/>
-
-<br>
-
-<img src="https://raw.githubusercontent.com/iakadion/iakadion/main/windjets/creative-support.svg" width="820"/>
 
 </div>
 
@@ -111,7 +111,8 @@
 
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=iakadion&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=iakadion&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" width="49%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=iakadion&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10&row=2" width="49%"/>
 
 <br><br>
 

@@ -24,13 +24,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Build static site
-        run: |
-          mkdir -p _site
-          cp README.md _site/index.html 2>/dev/null || true
-          cp -r windjets _site/windjets 2>/dev/null || true
-          cp LICENSE _site/LICENSE 2>/dev/null || true
-          echo "<!-- Deployed by GitHub Actions -->" >> _site/index.html
+  - name: Build static site
+      run: |
+        mkdir -p _site
+        cp index.html _site/index.html 2>/dev/null || true
+        cp -r windjets _site/windjets 2>/dev/null || true
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

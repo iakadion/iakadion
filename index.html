@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>GENHO AKADION</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Outfit:wght@300;400;600;700&family=Space+Grotesk:wght@400;600;700&display=swap" rel="stylesheet"/>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{font-family:'Outfit',sans-serif;background:#FAFAF5;color:#1a1a1a;overflow-x:hidden;min-height:100vh}
+.font-display{font-family:'Playfair Display',serif}
+.font-mono{font-family:'Space Grotesk',sans-serif}
+
+.orb{position:fixed;border-radius:50%;filter:blur(100px);pointer-events:none;z-index:0}
+.orb-1{width:600px;height:600px;background:rgba(250,204,21,0.15);top:-200px;right:-150px}
+.orb-2{width:500px;height:500px;background:rgba(251,191,36,0.1);bottom:-100px;left:-200px}
+.orb-3{width:350px;height:350px;background:rgba(245,158,11,0.08);top:50%;left:50%;transform:translate(-50%,-50%)}
+
+.container{position:relative;z-index:1;max-width:960px;margin:0 auto;padding:0 24px}
+
+nav{display:flex;align-items:center;justify-content:space-between;padding:20px 0;border-bottom:1px solid rgba(0,0,0,0.06)}
+nav .logo{font-family:'Space Grotesk',sans-serif;font-weight:700;font-size:14px;letter-spacing:3px;text-transform:uppercase;color:#b8860b}
+nav .links{display:flex;gap:28px}
+nav .links a{font-size:13px;font-weight:600;color:#78716c;text-decoration:none;letter-spacing:1px;text-transform:uppercase;transition:color .3s}
+nav .links a:hover{color:#b8860b}
+
+.hero{text-align:center;padding:120px 0 80px}
+.hero h1{font-family:'Playfair Display',serif;font-size:clamp(48px,8vw,88px);font-weight:900;line-height:1;letter-spacing:-2px;color:#1a1a1a}
+.hero h1 span{color:#d4a017}
+.hero p{font-family:'Space Grotesk',sans-serif;font-size:clamp(14px,2vw,18px);font-weight:400;letter-spacing:4px;text-transform:uppercase;color:#a8a29e;margin-top:24px}
+.hero .cta{display:inline-flex;align-items:center;gap:8px;margin-top:40px;padding:14px 32px;background:#1a1a1a;color:#FAFAF5;font-family:'Outfit',sans-serif;font-size:14px;font-weight:600;letter-spacing:2px;text-transform:uppercase;text-decoration:none;border-radius:100px;transition:all .4s}
+.hero .cta:hover{background:#d4a017;color:#1a1a1a;transform:translateY(-2px)}
+
+.section{padding:80px 0}
+.section-label{font-family:'Space Grotesk',sans-serif;font-size:11px;font-weight:700;letter-spacing:4px;text-transform:uppercase;color:#d4a017;margin-bottom:12px}
+.section-title{font-family:'Playfair Display',serif;font-size:clamp(32px,5vw,48px);font-weight:900;line-height:1.1;color:#1a1a1a;margin-bottom:32px}
+
+.grid-3{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+@media(max-width:768px){.grid-3{grid-template-columns:1fr}}
+
+.card{background:#fff;border:1px solid rgba(0,0,0,0.04);border-radius:16px;padding:28px 24px;transition:all .4s}
+.card:hover{transform:translateY(-4px);box-shadow:0 20px 60px rgba(212,160,23,0.08)}
+.card h3{font-family:'Outfit',sans-serif;font-size:18px;font-weight:700;margin-bottom:8px}
+.card p{font-size:14px;line-height:1.6;color:#78716c}
+
+.links-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}
+@media(max-width:768px){.links-grid{grid-template-columns:repeat(2,1fr)}}
+.link-card{display:flex;align-items:center;gap:12px;padding:16px 20px;background:#fff;border:1px solid rgba(0,0,0,0.04);border-radius:14px;text-decoration:none;color:#1a1a1a;transition:all .3s}
+.link-card:hover{border-color:#d4a017;transform:translateY(-2px)}
+.link-card .dot{width:8px;height:8px;border-radius:50%;background:#d4a017;flex-shrink:0}
+.link-card span{font-family:'Space Grotesk',sans-serif;font-size:13px;font-weight:600}
+
+footer{text-align:center;padding:40px 0;border-top:1px solid rgba(0,0,0,0.06)}
+footer p{font-size:12px;color:#a8a29e;letter-spacing:2px;text-transform:uppercase}
+</style>
+</head>
+<body>
+
+<div class="orb orb-1"></div>
+<div class="orb orb-2"></div>
+<div class="orb orb-3"></div>
+
+<div class="container">
+<nav>
+<div class="logo">G.A.</div>
+<div class="links">
+<a href="#about">About</a>
+<a href="#work">Work</a>
+<a href="#connect">Connect</a>
+</div>
+</nav>
+
+<section class="hero">
+<h1>Genho<br/><span>Akadion</span></h1>
+<p>Creator &bull; Developer &bull; Artist</p>
+<a href="#connect" class="cta">Get in touch &rarr;</a>
+</section>
+
+<section class="section" id="about">
+<div class="section-label">About</div>
+<div class="section-title">Multi-dimensional<br/>creator.</div>
+<div class="grid-3">
+<div class="card">
+<h3>Music</h3>
+<p>Musician, songwriter, audio engineer &amp; producer crafting sonic experiences.</p>
+</div>
+<div class="card">
+<h3>Tech</h3>
+<p>Full-stack developer building languages, compilers, AI integrations &amp; autonomous systems.</p>
+</div>
+<div class="card">
+<h3>Creative</h3>
+<p>Filmmaker, visual designer, writer &amp; game developer exploring new frontiers.</p>
+</div>
+</div>
+</section>
+
+<section class="section" id="work">
+<div class="section-label">Work</div>
+<div class="section-title">Projects &amp;<br/>inventions.</div>
+<div class="grid-3">
+<div class="card">
+<h3>Akia.js</h3>
+<p>Singleton renderer transpiling 7+ languages to JavaScript. 95% complete.</p>
+</div>
+<div class="card">
+<h3>.ak Language</h3>
+<p>Proprietary web language with native compiler design. 88% complete.</p>
+</div>
+<div class="card">
+<h3>Readgex</h3>
+<p>Intelligent AI browser with autonomous agent system. 82% complete.</p>
+</div>
+<div class="card">
+<h3>Bilbid</h3>
+<p>Semantic knowledge engine with structured knowledge graphs. 87% complete.</p>
+</div>
+<div class="card">
+<h3>IUKKA Player</h3>
+<p>Quantum streaming platform with immersive sound design. 76% complete.</p>
+</div>
+<div class="card">
+<h3>SHIYO</h3>
+<p>Social media portfolio for showcasing &amp; connecting. 70% complete.</p>
+</div>
+</div>
+</section>
+
+<section class="section" id="connect">
+<div class="section-label">Connect</div>
+<div class="section-title">Find me<br/>everywhere.</div>
+<div class="links-grid">
+<a href="https://instagram.com/iakadion" target="_blank" class="link-card"><div class="dot"></div><span>Instagram</span></a>
+<a href="https://youtube.com/@iakadion" target="_blank" class="link-card"><div class="dot"></div><span>YouTube</span></a>
+<a href="https://x.com/iakadion" target="_blank" class="link-card"><div class="dot"></div><span>X / Twitter</span></a>
+<a href="https://github.com/iakadion" target="_blank" class="link-card"><div class="dot"></div><span>GitHub</span></a>
+<a href="https://soundcloud.com/iakadion" target="_blank" class="link-card"><div class="dot"></div><span>SoundCloud</span></a>
+<a href="https://open.spotify.com/user/31w3syplutlik764wir6lrl4zlum" target="_blank" class="link-card"><div class="dot"></div><span>Spotify</span></a>
+<a href="https://twitch.tv/iakadion" target="_blank" class="link-card"><div class="dot"></div><span>Twitch</span></a>
+<a href="https://bsky.app/profile/akadion" target="_blank" class="link-card"><div class="dot"></div><span>Bluesky</span></a>
+<a href="https://threads.net/@iakadion" target="_blank" class="link-card"><div class="dot"></div><span>Threads</span></a>
+<a href="https://reddit.com/u/iakadion" target="_blank" class="link-card"><div class="dot"></div><span>Reddit</span></a>
+<a href="https://gitlab.com/akadion" target="_blank" class="link-card"><div class="dot"></div><span>GitLab</span></a>
+<a href="https://behance.net/akadion" target="_blank" class="link-card"><div class="dot"></div><span>Behance</span></a>
+<a href="https://dribbble.com/akadion" target="_blank" class="link-card"><div class="dot"></div><span>Dribbble</span></a>
+<a href="https://figma.com/@akadion" target="_blank" class="link-card"><div class="dot"></div><span>Figma</span></a>
+<a href="https://patreon.com/akadion" target="_blank" class="link-card"><div class="dot"></div><span>Patreon</span></a>
+<a href="mailto:ogenhoanimation01@gmail.com" target="_blank" class="link-card"><div class="dot"></div><span>Email</span></a>
+</div>
+</section>
+
+<footer>
+<p>&copy; 2025 Genho Akadion</p>
+</footer>
+</div>
+
+</body>
+</html>
